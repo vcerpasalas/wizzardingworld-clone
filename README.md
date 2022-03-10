@@ -41,6 +41,7 @@ En total serán 10 proyectos, que corresponden a 10 retos.
 - Clases
 - Módulos
 
+Javascript 
 HTML
 CSS
 UX/UI
