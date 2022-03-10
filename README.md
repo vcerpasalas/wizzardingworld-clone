@@ -65,7 +65,7 @@ Te pedimos leas los códigos de conducta de GitHub y el presente "README.md" par
 
 ## Licencia
 
-Este proyecto contiene una licencia GNU General Public License v3.0e - ver el archivo adjunto en el repositorio para conocer los detalles.
+Este proyecto contiene una licencia MIT - ver el archivo adjunto en el repositorio para conocer los detalles.
 
 ## Agradecimientos
 
