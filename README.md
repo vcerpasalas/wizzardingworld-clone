@@ -2,7 +2,7 @@
 
 Este proyecto se trató de clonar la web Wizzarding World......
 
-[![logo.png](https://i.postimg.cc/W18sqK5v/logo.png)](https://postimg.cc/k220kjr1)
+[![logo.png](https://i.postimg.cc/LXdQ94j6/logo.png)](https://postimg.cc/mcwyVsd0)
 
 ## Introducción
 
