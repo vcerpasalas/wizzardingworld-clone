@@ -1,4 +1,4 @@
-# Wizzarding World Clone 💻 - Reto 6 & 7
+# Wizzarding World Clone ⚡👓🏰🧙‍♂ - Reto 6 & 7
 
 Este proyecto se trató de clonar la web Wizzarding World......
 
