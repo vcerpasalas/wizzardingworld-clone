@@ -2,7 +2,7 @@
 
 Este proyecto se trató de clonar la web Wizzarding World......
 
-[![netflix-logo.jpg](https://i.postimg.cc/4x7rSLFs/netflix-logo.jpg)](https://postimg.cc/Js86yqL2)
+[![logo.png](https://i.postimg.cc/W18sqK5v/logo.png)](https://postimg.cc/k220kjr1)
 
 ## Introducción
 
@@ -13,8 +13,7 @@ Te invitamos a que lo puedas descargar en tu máquina local, testear y revisar. 
 
 ### Vista pantalla completa en laptop
    
-[![pantalla-completa0.png](https://i.postimg.cc/pXT8RhFL/pantalla-completa0.png)](https://postimg.cc/kD0Dy5s0)
-   
+  
 ### Vista responsive en mobile
 
 
