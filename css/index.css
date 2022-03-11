@@ -1,3 +1,12 @@
+@import url("http://fonts.cdnfonts.com/css/sofia-pro?styles=17636,17630,17632,17634,17638,17628,17626");
+
+@import url("http://fonts.cdnfonts.com/css/bluu-next");
 :root {
   --responsive-width: min(90%, 1250px);
+  --primary-font: "Sofia Pro";
+  --accent-font: "Bluu Next";
+  --primary-purple: #6b63b5;
+  --primary-purple-hover: #514a92;
+  --primary-white: #ffff;
+  --main-background: #10141b;
 }
