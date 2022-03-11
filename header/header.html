@@ -11,11 +11,81 @@
       crossorigin="anonymous"
       referrerpolicy="no-referrer"
     />
+    <link rel="stylesheet" href="./header.css" />
     <title>header</title>
   </head>
-  <body>
-    <header>
-      <h1>header</h1>
+  <body class="body">
+    <header class="header" id="header">
+      <nav class="header__container">
+        <a
+          href=""
+          class="toggle-menu header__menu-icon-link"
+          role="button"
+          aria-controls="menu-wrapper"
+          aria-label="Open navigation"
+          aria-expanded="false"
+        >
+          <lottie-player class="header__menu-icon" src="./header-images/lf30_editor_4cncnswd.json"></lottie-player>
+        </a>
+        <div class="header__menu-wrapper" id="menu-wrapper">
+          <div class="header__menu-inner-wrapper">
+            <ul class="header__menu-list">
+              <li class="header__menu-item">
+                <div class="header__menu-item-text-arrow">
+                  News & Features
+                  <svg width="10" height="15" class="header__submenu-arrow">
+                    <g stroke="#FFF" stroke-width="1.7" fill="none" fill-rule="evenodd">
+                      <path d="M6.664 8.923l-5.4 5M9.364 8.09l-8.1-7.5"></path>
+                    </g>
+                  </svg>
+                </div>
+                <ul class="header__menu-news-feature-list">
+                  <p class="header__menu-news-features-title">News & Features</p>
+                  <li class="header__menu-news-feature-item"><a href="" class="header__menu-item-link">News</a></li>
+                  <li class="header__menu-news-feature-item">
+                    <a href="" class="header__menu-item-link">Features </a>
+                  </li>
+                </ul>
+              </li>
+              <li class="header__menu-item"><a href="" class="header__menu-item-link">Quizzes</a></li>
+              <li class="header__menu-item"><a href="" class="header__menu-item-link">Puzzles</a></li>
+              <li class="header__menu-item"><a href="" class="header__menu-item-link">J.K. Rowling Archive</a></li>
+              <li class="header__menu-item">
+                <div class="header__menu-item-text-arrow">
+                  Discover
+                  <svg width="10" height="15" class="header__submenu-arrow">
+                    <g stroke="#FFF" stroke-width="1.7" fill="none" fill-rule="evenodd">
+                      <path d="M6.664 8.923l-5.4 5M9.364 8.09l-8.1-7.5"></path>
+                    </g>
+                  </svg>
+                </div>
+                <ul class="header__menu-discover-list">
+                  <p class="header__menu-discover-title">Discover</p>
+                  <li class="header__menu-discover-item"><a class="header__menu-item-link" href="">Books</a></li>
+                  <li class="header__menu-discover-item"><a class="header__menu-item-link" href="">Films</a></li>
+                  <li class="header__menu-discover-item">
+                    <a class="header__menu-item-link" href="">Portkey Games</a>
+                  </li>
+                  <li class="header__menu-discover-item"><a class="header__menu-item-link" href="">On Stage</a></li>
+                  <li class="header__menu-discover-item"><a class="header__menu-item-link" href="">Experiences</a></li>
+                </ul>
+              </li>
+              <li class="header__menu-item"><a href="" class="header__menu-item-link">Hogwarts Sorting</a></li>
+              <li class="header__menu-item"><a href="" class="header__menu-item-link">Join the fan club</a></li>
+              <li class="header__menu-item"><a href="" class="header__menu-item-link">Secrets of Dumbledure</a></li>
+              <li class="header__menu-item"><a href="" class="header__menu-item-link">Shop</a></li>
+            </ul>
+          </div>
+        </div>
+        <a href="" class="header__logo-link">
+          <figure class="header__logo-container">
+            <img src="./header-images/logo.svg" class="header__logo" alt="" />
+          </figure>
+        </a>
+        <button class="header__button-login">login</button>
+      </nav>
     </header>
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/lottie-player.js"></script>
+    <script src="./header.js"></script>
   </body>
 </html>
