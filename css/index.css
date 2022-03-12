@@ -10,3 +10,25 @@
   --primary-white: #ffff;
   --main-background: #10141b;
 }
+
+
+/* Slider section */
+
+/* Blog section */
+.blog__posts {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 1440px;
+  margin: auto;
+}
+
+.blog__posts-image {
+  max-height: 595px;
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+  width: 100%;
+  position: relative;
+  min-height: 1px;
+}
+
+
