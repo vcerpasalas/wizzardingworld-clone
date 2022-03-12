@@ -11,8 +11,10 @@
   --main-background: #10141b;
 }
 
+
 /* Slider section */
 
+/* Blog section */
 .blog__posts {
   display: flex;
   flex-direction: column;
@@ -29,4 +31,4 @@
   min-height: 1px;
 }
 
-/* Blog section */
+
