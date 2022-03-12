@@ -1,0 +1,32 @@
+@import url("http://fonts.cdnfonts.com/css/sofia-pro?styles=17636,17630,17632,17634,17638,17628,17626");
+
+@import url("http://fonts.cdnfonts.com/css/bluu-next");
+:root {
+  --responsive-width: min(90%, 1250px);
+  --primary-font: "Sofia Pro";
+  --accent-font: "Bluu Next";
+  --primary-purple: #6b63b5;
+  --primary-purple-hover: #514a92;
+  --primary-white: #ffff;
+  --main-background: #10141b;
+}
+
+/* Slider section */
+
+.blog__posts {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  max-width: 1440px;
+  margin: auto;
+}
+
+.blog__posts-image {
+  max-height: 595px;
+  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
+  width: 100%;
+  position: relative;
+  min-height: 1px;
+}
+
+/* Blog section */
