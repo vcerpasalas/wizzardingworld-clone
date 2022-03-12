@@ -79,4 +79,4 @@ const getHTMLSubmenu = (subMenu) => {
   });
   return html;
 };
-//TODO: Renderizar el html en cada submenu, crear el nuevo submenu para version desktop y aplicarlo, modificar las condiciones para el anterior  menu en verion mobile
+//TODO: Renderizar el html en cada submenu, crear el nuevo submenu para version desktop y aplicarlo, modificar las condiciones para el anterior  menu en version mobile, ordenar imágenes y código
