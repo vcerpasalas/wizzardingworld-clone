@@ -11,6 +11,8 @@ Te invitamos a que lo puedas descargar en tu máquina local, testear y revisar. 
 
 ## Edición, creación y manejo de archivos json
 
+Las APIS trabajadas en el presente proyecto fueron consideradas tomando como base la información presentada en la web oficial Wizzarding World.
+
 1) La web consume una API de personajes del universo de Harry Potter y Animales Fantásticos. Para fines exclusivos del proyecto, se trabajó a partir de la API de Personajes, obtenida de: https://hp-api.herokuapp.com/.
 En la cual, se editó manualmente la información de cerca el 80% de personajes, añadiendo información respecto a la casa de Hogwarts a la que pertenece cada personaje y su fotografía. Adicionalmente se añadieron ciertos personajes del universo de Animales Fantásticos.
 Finalmente se consumió la API alojada en el mismo proyecto, para la visualización de cada personaje en el buscador interactivo. Este código se encuentra en lenguaje JavaScript.
