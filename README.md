@@ -23,6 +23,9 @@ Finalmente se consumió la API alojada en el mismo proyecto, para la visualizaci
   
 ## Esquemas explicativos 
 
+Manejo de APIS en la sección "Descubriendo" de la web.
+[![esquema-apis.png](https://i.postimg.cc/tgJjq59d/esquema-apis.png)](https://postimg.cc/v4JjX5gD)
+
 ## Vistas del proyecto
 
 ### Vista pantalla completa en laptop
