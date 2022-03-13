@@ -4542,7 +4542,7 @@
     "image": "https://static.wikia.nocookie.net/hpfanon/images/b/b1/Daphne_Greengrass.JPG/revision/latest?cb=20191219171434&path-prefix=es"
   },
   {
-    "name": "Astoria Greengrass",
+    "name": "Astoria Malfoy",
     "alternate_names": [],
     "species": "human",
     "gender": "female",
@@ -5865,31 +5865,6 @@
     "alternate_actors": [],
     "alive": true,
     "image": "https://static.wikia.nocookie.net/esharrypotter/images/c/cd/Scorpius_Malfoy_%28HPCC%29.png/revision/latest?cb=20161007215635"
-  },
-  {
-    "name": "Victoire Weasley",
-    "alternate_names": [],
-    "species": "human",
-    "gender": "female",
-    "house": "Gryffindor",
-    "dateOfBirth": "",
-    "yearOfBirth": "",
-    "wizard": true,
-    "ancestry": "",
-    "eyeColour": "",
-    "hairColour": "blonde",
-    "wand": {
-      "wood": "",
-      "core": "",
-      "length": ""
-    },
-    "patronus": "",
-    "hogwartsStudent": true,
-    "hogwartsStaff": false,
-    "actor": "",
-    "alternate_actors": [],
-    "alive": true,
-    "image": "https://static.wikia.nocookie.net/universo-fanon-harry-potter/images/3/3a/HERMIONE_CORFIELD_%286%29.jpg/revision/latest/top-crop/width/360/height/450?cb=20181221173124&path-prefix=es"
   },
   {
     "name": "Victoire Weasley",
