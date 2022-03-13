@@ -21,7 +21,8 @@ Finalmente se consumió la API alojada en el mismo proyecto, para la visualizaci
 
 3) Se crearon APIS desde cero, sobre juegos, obras de teatro y experiencias en relación al universo HP.
   
-  
+## Esquemas explicativos 
+
 ## Vistas del proyecto
 
 ### Vista pantalla completa en laptop
