@@ -9,12 +9,17 @@ Este proyecto se trató de clonar la web Wizzarding World......
 El presente proyecto contiene los archivos .hmtl .css, .js y json , que fueron escritos mediante el editor Visual Studio Code.
 Te invitamos a que lo puedas descargar en tu máquina local, testear y revisar. Puedes guiarte de estas notas para revisar la página.
 
-## Edición y manejo del archivo json
+## Edición y manejo de archivos json
 
-La web consume una API de personajes del universo de Harry Potter y Animales Fantásticos. Para fines exclusivos del proyecto, se trabajó a partir de la API de Personajes, obtenida de: https://hp-api.herokuapp.com/.
+1) La web consume una API de personajes del universo de Harry Potter y Animales Fantásticos. Para fines exclusivos del proyecto, se trabajó a partir de la API de Personajes, obtenida de: https://hp-api.herokuapp.com/.
 En la cual, se editó manualmente la información de cerca el 80% de personajes, añadiendo información respecto a la casa de Hogwarts a la que pertenece cada personaje y su fotografía. Adicionalmente se añadieron ciertos personajes del universo de Animales Fantásticos.
 Finalmente se consumió la API alojada en el mismo proyecto, para la visualización de cada personaje en el buscador interactivo. Este código se encuentra en lenguaje JavaScript.
 
+2) Se trabajó a partir de la siguiente API de libros https://fedeperin-harry-potter-api.herokuapp.com/libros , se editó la información añadiendo fotografías y los libros del universo Animales Fantásticos, entre otros.
+
+3) Se crearon APIS desde cero, sobre juegos, obras de teatro y experiencias en relación al universo HP.
+  
+  
 ## Vistas del proyecto
 
 ### Vista pantalla completa en laptop
