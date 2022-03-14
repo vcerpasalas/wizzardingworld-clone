@@ -4,6 +4,9 @@
 
 @import url("http://fonts.cdnfonts.com/css/bluu-next");
 
+* {
+  box-sizing: border-box;
+}
 :root {
   --responsive-width: min(90%, 1250px);
   --primary-font: "Sofia Pro";
@@ -18,6 +21,7 @@
 .body {
   font-family: var(--primary-font), sans-serif;
   position: relative;
+  overflow-x: hidden;
 }
 
 .header {
@@ -90,6 +94,9 @@
   align-items: center;
   justify-content: space-between;
   cursor: pointer;
+  padding-bottom: 0.5rem;
+  margin-bottom: -0.5rem;
+  transition: all 0.5s;
 }
 .header__submenu-arrow-container {
   margin-right: 4rem;
@@ -197,7 +204,7 @@
 
 @media (min-width: 1024px) {
   .body {
-    background-color: var(--main-background-light);
+    background-color: gray;
   }
   .header {
     background: transparent;
@@ -230,10 +237,27 @@
     text-align: center;
     width: fit-content;
   }
+
+  .header__menu-item-link {
+    padding-bottom: 0.5rem;
+  }
+  .header__menu-item-link:hover,
+  .header__menu-item-text-arrow:hover {
+    border-bottom: solid 1px var(--primary-purple-hover);
+  }
+
+  .header__menu-item-text-arrow--active {
+    color: white;
+    border-bottom: solid 1px var(--primary-purple-hover);
+  }
   .header__submenu-arrow,
   .header__submenu-arrow-icon {
     transform: rotate(90deg);
     margin-left: 0.5rem;
+    transition: all 0.5s;
+  }
+  .header__submenu-arrow-icon--clicked {
+    transform: rotate(-90deg);
   }
   .header__menu-inner-wrapper {
     margin: 0;
