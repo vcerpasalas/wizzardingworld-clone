@@ -1,0 +1,362 @@
+[
+  {
+    "id": 1,
+    "hechizo": "Accio",
+    "uso": "Encanto de invocación. Es un encantamiento que hace que un objeto inanimado que está a distancia de quien lanza el hechizo vuele o levite hacia sus brazos."
+  },
+  {
+    "id": 2,
+    "hechizo": "Glisseo",
+    "uso": "Convierte las cosas en lisas o planas, o las hace ponerse en linea recta ¡Puedes convertir una escalera en un tobogán!"
+  },
+  {
+    "id": 3,
+    "hechizo": "Impervius",
+    "uso": "Es un encantamiento que protege al lanzador de una variedad de sustancias, incluidos el agua y el fuego."
+  },
+  {
+    "id": 4,
+    "hechizo": "Wingardium Leviosa/Locomotor",
+    "uso": "Puedes dar a los objetos inanimados la capacidad de cambiar su ubiación y hacerlos levitar."
+  },
+  {
+    "id": 5,
+    "hechizo": "Scourgify",
+    "uso": "Encantamiento para limpiar un objeto. Es utilizado para limpiar, pero también como un medio de castigo."
+  },
+  {
+    "id": 6,
+    "hechizo": "Portus",
+    "uso": "Permite transformar un objeto en un traslador. Cuando lo apliques, el objeto comenzará a sacudirse y emitirá un resplandor azulado"
+  },
+  {
+    "id": 7,
+    "hechizo": "Orchideous",
+    "uso": "Conjura un ramo de flores para aquella persona especial. Las flores crecen desde el final de la varita."
+  },
+  {
+    "id": 8,
+    "hechizo": "Lumos",
+    "uso": "Hace que la varita emita luz. Ilumina el sendero por el que transites. Puede iluminar hasta los lugares más oscuros."
+  },
+  {
+    "id": 9,
+    "hechizo": "Reparo",
+    "uso": "Repara una variedad de objetos rotos. Funciona con la mayoría de materiales."
+  },
+  {
+    "id": 10,
+    "hechizo": "Reducio",
+    "uso": "Contrae objetos. El encantamiento de encogimiento hace que objetos agrandados vuelvan a su tamaño original o sean más pequeños."
+  },
+  {
+    "id": 11,
+    "hechizo": "Pack",
+    "uso": "Empaca baúles y equipaje de forma rápida. En segundos estarás listo para tu próxima gran aventura."
+  },
+  {
+    "id": 12,
+    "hechizo": "Riddikulus",
+    "uso": "Transforma los Boggarts en una forma divertida"
+  },
+  {
+    "id": 13,
+    "hechizo": "Protego",
+    "uso": "Protege al lanzador de las maldiciones. Permite la defensa de boggarts, obligando a la criatura a convertirse en una forma que genere risa."
+  },
+  {
+    "id": 14,
+    "hechizo": "Muffliato",
+    "uso": "Evita que otras personas cercanas escuchen conversaciones, al crear un zumbido no identificable en sus oídos. Podras conversar sin ser escuchado."
+  },
+  {
+    "id": 15,
+    "hechizo": "Silencio/Langlock",
+    "uso": "Evita que alguien hable (pegando la lengua al paladar). Silencia a tu oponente en cuestión de segundos. Funciona en humanos y cualquier criatura."
+  },
+  {
+    "id": 16,
+    "hechizo": "Expelliarmus",
+    "uso": "Encanto de desarme. Tu oponente soltará lo que sea que esté sujetando. Es un hechizo común en duelos para hacer que el oponente pierda su varita."
+  },
+  {
+    "id": 17,
+    "hechizo": "Oblivate",
+    "uso": "Encantamiento desmemorizante. Borra algunos o todos los recuerdos de la mente de un individuo."
+  },
+  {
+    "id": 18,
+    "hechizo": "Episkey",
+    "uso": "Hechizo que cura heridas leves o fracturas pequeñas. Creará cambios repentinos de temperatura en las partes del cuerpo que se están curando."
+  },
+  {
+    "id": 19,
+    "hechizo": "Tergeo",
+    "uso": "Limpia superficies y aspira cualquier sustancia líquida como sangre, polvo o grasa."
+  },
+  {
+    "id": 20,
+    "hechizo": "Relashio",
+    "uso": "Obliga al objetivo a soltar lo que sea que esté sosteniendo. Funciona tanto en seres vivos como inanimados, siempre que tengan algo en la mano."
+  },
+  {
+    "id": 21,
+    "hechizo": "Confundo",
+    "uso": "Encantamiento que causa confusiones y hace que otros sean fácilmente susceptibles a la influencia. Desorienta rápidamente a tu oponente y confunde su mente."
+  },
+  {
+    "id": 22,
+    "hechizo": "Expecto Patronum",
+    "uso": "Encanto Patronus. Uno de los encantamientos defensivos más famosos y podereosos conocidos en el mundo mágico. Sumamente complicado. Genera una fuerza de energía positiva."
+  },
+  {
+    "id": 23,
+    "hechizo": "Ferula",
+    "uso": "Conjura vendajes y los envuelve alrededor de la herida, estabilizando huesos rotos. Este vendaje aliviará el dolor percibido."
+  },
+  {
+    "id": 24,
+    "hechizo": "Evanesco",
+    "uso": "Hechizo para desaparecer objetos inanimados y animados completamente. No te preocupes, podrás regresarlos luego."
+  },
+  {
+    "id": 25,
+    "hechizo": "Alohomora",
+    "uso": "Hechizo amigo de los ladrones. Abre todo tipo de cerraduras de puertas y ventanas que no estén protegidas con magia."
+  },
+  {
+    "id": 26,
+    "hechizo": "Nox",
+    "uso": "Apaga varitas, causando quela luz que emiten se apague. Si te gusta la oscuridad, adelante... ¡úsalo!"
+  },
+  {
+    "id": 27,
+    "hechizo": "Quietus",
+    "uso": "Silencia la voz mágicamente amplificada. Baja el volumen de voces estruendosas con este hechizo."
+  },
+  {
+    "id": 28,
+    "hechizo": "Incendio",
+    "uso": "Crea fuego conjurando un chorro de llamas. Podrás encender fogatas y la cocina. Pero, toma tus precauciones."
+  },
+  {
+    "id": 29,
+    "hechizo": "Homenum Revelio",
+    "uso": "Revela la presencia de personas cercanas en el entorno circundante. El hechizo indica dónde se encuentra la persona."
+  },
+  {
+    "id": 30,
+    "hechizo": "Prior Incantato",
+    "uso": "Revela el último hechizo lanzado. Para utilizarlo debes apuntar tu varita hacia otra varita. Te señalará mediante una imagen o eco, al usuario realizando el hechizo."
+  },
+  {
+    "id": 31,
+    "hechizo": "Finite Incantatem",
+    "uso": "Niega los efectos de muchos hechizos. Puede ser utilizado en duelos para contrarrestar o revertir daños menores, como los efectos de embrujos, maleficios, entre otros."
+  },
+  {
+    "id": 32,
+    "hechizo": "Erecto",
+    "uso": "Levanta carpas u otras estructuras y construcciones. Muy utilizado en los campamentos cerca del Campeonato Mundial de Quidditch."
+  },
+  {
+    "id": 33,
+    "hechizo": "Diffindo",
+    "uso": "Corta o rasga material con precisión. Si se usa de manera inapropiada puede causar lesiones graves o hasta la muerte."
+  },
+  {
+    "id": 34,
+    "hechizo": "Stupefy",
+    "uso": "Encantamiento aturdidor. Aturde al objetivo, dejándolo inconsciente. Es muy útil en duelos ya que puede terminar el duelo rápidamente sin causar mucho daño."
+  },
+  {
+    "id": 35,
+    "hechizo": "Repelo Muggletum",
+    "uso": "Repele Muggles. Es un hechizo protector que se utiliza para mantener alejados a los muggles del lugar que se desea, haciéndoles ver que el lugar es peligroso."
+  },
+  {
+    "id": 36,
+    "hechizo": "Avada Kedavra",
+    "uso": "La maldición asesina. Es uno de los hechizos de magia negra más poderosos y siniestros del mundo mágico."
+  },
+  {
+    "id": 37,
+    "hechizo": "Aguamenti",
+    "uso": "Dispara agua con la varita. Conjura un chorro de agua limpia y potable de la varita del mago."
+  },
+  {
+    "id": 38,
+    "hechizo": "Geminio",
+    "uso": "Crea un duplicado temporal y sin valor de cualquier objeto. Usa este hechizo con responsabilidad y evitar las réplicas no oficiales."
+  },
+  {
+    "id": 39,
+    "hechizo": "Locomotor Mortis",
+    "uso": "Maldición de bloqueo de piernas. Es un hechizo básico que es utilizado por los alumnos de primeros años."
+  },
+  {
+    "id": 40,
+    "hechizo": "Anapneo",
+    "uso": "Es un conocido hechizo de curación. Limpia las vías respiratorias de alguien que se esté asfixiando."
+  },
+  {
+    "id": 41,
+    "hechizo": "Reducto",
+    "uso": "Explota objetos sólidos y los reduce a pedazos. Es relativamente sencillo de utilizar y te permitirá deshacerte de objetos fácilmente."
+  },
+  {
+    "id": 42,
+    "hechizo": "Obscuro",
+    "uso": "Hechizo que conjura una venda sobre los ojos de tu oponente, obstruyendo la visión de lo que le rodea."
+  },
+  {
+    "id": 43,
+    "hechizo": "Impedimenta",
+    "uso": "Congela a alguien que avanza hacia ti. Obstaculiza su movimiento, ralentizándolo. Muy usado en duelos."
+  },
+  {
+    "id": 44,
+    "hechizo": "Cave Inimicum/Protego Totalum",
+    "uso": "Fortalece las defensas de un área. No importa la extensión del lugar, puede ser tu hogar o el castillo de Hogwarts."
+  },
+  {
+    "id": 45,
+    "hechizo": "Meteolojinx Recanto",
+    "uso": "Acaba con los efectos de los hechizos meteorológicos. Termina ese mal clima que tanto te molesta."
+  },
+  {
+    "id": 46,
+    "hechizo": "Specialis Revelio",
+    "uso": "Revela propiedades mágicas ocultas en un objeto. También, revela cualquier encantamiento o embrujo sobre un objeto o lugar."
+  },
+  {
+    "id": 47,
+    "hechizo": "Descendo",
+    "uso": "Mueve objetos hacia abajo. El objeto o grupo de objetos apuntados con la varita caerán rápidamente."
+  },
+  {
+    "id": 48,
+    "hechizo": "Defodio",
+    "uso": "Excavar nunca habría sido más fácil. Talla a través de la piedra, tierra y el acero"
+  },
+  {
+    "id": 49,
+    "hechizo": "Aparecium",
+    "uso": "Es un encantamiento que hace aparecer mensajes escritos con tinta invisible u otros objetos mágicos."
+  },
+  {
+    "id": 50,
+    "hechizo": "Piertotum Locomotor",
+    "uso": "Anima estatuas u otros objetos inanimados. Los movimientos del objetivo pueden ser controlados por el mago que lanza el hechizo."
+  },
+  {
+    "id": 51,
+    "hechizo": "Imperio",
+    "uso": "Hace que el objetivo obedezca cada orden. Este maleficio corresponde a las Artes Oscuras y también es uno de los tres Maleficios Imperdonables."
+  },
+  {
+    "id": 52,
+    "hechizo": "Fidelius Charm",
+    "uso": "Es un encantamiento muy complejo y de gran alcance y poder. Une un secreto al alma de un Guardián del Secreto."
+  },
+  {
+    "id": 53,
+    "hechizo": "Avis/Oppugno",
+    "uso": "Embrujo que dispara una bandada de pájaros con la varita, hacia un objeto o individuo, con el fin de atacarlo."
+  },
+  {
+    "id": 54,
+    "hechizo": "Expulso",
+    "uso": "Explota objetos"
+  },
+  {
+    "id": 55,
+    "hechizo": "Legilimens",
+    "uso": "Revela recuerdos y pensamientos del objetivo."
+  },
+  {
+    "id": 56,
+    "hechizo": "Duro",
+    "uso": "Endurece los objetos"
+  },
+  {
+    "id": 57,
+    "hechizo": "Sonorus",
+    "uso": "Amplifica la voz de uno"
+  },
+  {
+    "id": 58,
+    "hechizo": "Deprimo",
+    "uso": "Crea una gran presión hacia abajo"
+  },
+  {
+    "id": 59,
+    "hechizo": "Levicorpus",
+    "uso": "Levita el objetivo por el tobillo"
+  },
+  {
+    "id": 60,
+    "hechizo": "Liberacorpus",
+    "uso": "Reduce el objetivo de levicorpus"
+  },
+  {
+    "id": 61,
+    "hechizo": "Mobilicorpus",
+    "uso": "Mueve cuerpos"
+  },
+  {
+    "id": 62,
+    "hechizo": "Confringo",
+    "uso": "Explota objetos en llamas"
+  },
+  {
+    "id": 63,
+    "hechizo": "Densaugeo",
+    "uso": "Hace que los dientes crezcan rápidamente"
+  },
+  {
+    "id": 64,
+    "hechizo": "Incarcarous",
+    "uso": "Ata a alguien con cuerdas"
+  },
+  {
+    "id": 65,
+    "hechizo": "Deletrius",
+    "uso": "Descarta los efectos de Prior Incantato"
+  },
+  {
+    "id": 66,
+    "hechizo": "Rictusempra",
+    "uso": "Encanto de cosquillas"
+  },
+  {
+    "id": 67,
+    "hechizo": "Petrificus Totalus",
+    "uso": "El objetivo de renderizado está completamente inmóvil"
+  },
+  {
+    "id": 68,
+    "hechizo": "Fiendfyre Curse",
+    "uso": "Hace fuego maldito"
+  },
+  {
+    "id": 69,
+    "hechizo": "Tarantallegra",
+    "uso": "Obliga al objetivo a bailar"
+  },
+  {
+    "id": 70,
+    "hechizo": "Morsmordre",
+    "uso": "Conjura la Marca Tenebrosa"
+  },
+  {
+    "id": 71,
+    "hechizo": "Sectumsempra",
+    "uso": "Provoca laceraciones graves"
+  },
+  {
+    "id": 72,
+    "hechizo": "Crucio",
+    "uso": "Causa un dolor inmenso"
+  }
+]
