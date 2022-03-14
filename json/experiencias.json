@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "experiencia": "Warner Bros. Studio Tour London - The Making of Harry Potter",
+    "tema": "Descubra la magia que hay detrás de los hechizantes efectos especiales y explore los secretos entre bastidores de la serie de películas de Harry Potter. Descubra el emblemático Gran Salón de Hogwarts y explore el Bosque Prohibido, todo ello antes de subir al Expreso de Hogwarts original en el andén 9-3/4. y recorrer el Callejón Diagon.",
+    "lugar": "Londres, Inglaterra",
+    "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2Fexperiences%2Fstudio-tour-london.jpg&w=1320&q=75"
+  },
+  {
+    "id": 2,
+    "experiencia": "The Wizarding World of Harry Potter. Universal Studios Hollywood",
+    "tema": "Desde hechizos mágicos hasta criaturas mágicas, desde villanos oscuros hasta héroes audaces. Explora los misterios del castillo de Hogwarts, visita las tiendas de Hogsmeade y prueba los platos de algunos de los establecimientos más conocidos del mundo mágico.",
+    "lugar": "Hollywood, Estados Unidos",
+    "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2Fexperiences%2Funiversal-studios-hollywood.jpg&w=1320&q=75"
+  },
+  {
+    "id": 3,
+    "experiencia": "The Wizarding World of Harry Potter. Universal Orlando Resort",
+    "tema": "Adéntrate en dos tierras de emociones rompedoras y diversión mágica en Universal's Islands of Adventure y Universal Studios Florida. Adéntrate en la historia en las calles del Callejón Diagon, donde los peligros ocultos acechan muy por debajo del banco Gringotts. A continuación, sube al Expreso de Hogwarts para viajar a Hogsmeade y Hogwarts.",
+    "lugar": "Orlando, Estados Unidos",
+    "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2Fexperiences%2Funiversal-studios-orlando.jpg&w=768&q=75"
+  },
+  {
+    "id": 4,
+    "experiencia": "The Wizarding World of Harry Potter. Universal Studios Japan",
+    "tema": "Es un magnífico espacio que reproduce el mundo de las historias de Harry Potter a una escala abrumadora y con una meticulosa atención al detalle.  Aquí podrás sumergirte por completo en el mundo que viste en las películas y vivir un viaje realmente extraordinario.",
+    "lugar": "Osaka, Japón",
+    "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2Fexperiences%2Funiversal-studios-japan.jpg&w=768&q=75"
+  },
+  {
+    "id": 5,
+    "experiencia": "Cineconciertos. The Harry Potter Film Concert Series",
+    "tema": " La serie de películas más querida de la historia proyectada en HD en la gran pantalla, mientras una orquesta sinfónica completa interpreta en VIVO todas las notas de cada partitura inolvidable. Vive una experiencia diferente.",
+    "lugar": "Varias locaciones alrededor del mundo",
+    "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2Fexperiences%2Fcineconcert.jpg&w=768&q=75"
+  },
+  {
+    "id": 6,
+    "experiencia": "Harry Potter: The Exhibition. Imagine Exhibitions, Inc.",
+    "tema": "Una nueva exposición itinerante entre bastidores que se estrenará en todo el mundo en 2022, celebra las películas, historias y el extenso Wizarding World utilizando el mejor diseño y tecnología de inmersión de su clase. Los visitantes podrán adentrarse en entornos e instalaciones innovadores, asombrosos y mágicos en esta experiencia inolvidable.",
+    "lugar": "Varias locaciones alrededor del mundo",
+    "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2Fexperiences%2Fexhibition.jpg&w=768&q=75"
+  }
+]
