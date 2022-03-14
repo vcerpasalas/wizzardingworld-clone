@@ -19,8 +19,10 @@ Finalmente se consumió la API alojada en el mismo proyecto, para la visualizaci
 
 2) Se trabajó a partir de la siguiente API de libros https://fedeperin-harry-potter-api.herokuapp.com/libros , se editó la información añadiendo fotografías para cada libro. Así como todos los datos respecto a los libros del universo de Animales Fantásticos, entre otros.
 
-3) Se crearon APIS desde cero, sobre juegos, obras de teatro y experiencias en relación al universo HP.
-  
+3) Se trabajó a partir de la API de hechizos https://fedeperin-harry-potter-api.herokuapp.com/hechizos. Se añadieron 43 hechizos nuevos y se amplió la información de los hechizos exitentes.
+   
+5) Se crearon APIS desde cero, sobre juegos, obras de teatro y experiencias en relación al universo HP.
+    
 ## Esquemas explicativos 
    
 Manejo de APIS en la sección "Descubriendo" de la web.
