@@ -1,8 +1,5 @@
+@import url("../fonts/fonts.css");
 @import url("./header.css");
-
-@import url("http://fonts.cdnfonts.com/css/sofia-pro?styles=17636,17630,17632,17634,17638,17628,17626");
-
-@import url("http://fonts.cdnfonts.com/css/bluu-next");
 
 * {
   box-sizing: border-box;
@@ -10,8 +7,14 @@
 
 :root {
   --responsive-width: min(90%, 1250px);
-  --primary-font: "Sofia Pro";
-  --accent-font: "Bluu Next";
+  --primary-font-900: "sofia_problack";
+  --primary-font-700: "sofia_probold";
+  --primary-font-500: "sofia_prosemi_bold";
+  --primary-font-400: "sofia_promedium";
+  --primary-font-300: "sofia_prolight";
+  --primary-font-200: "sofia_proextra_light";
+  --accent-font-bold: "bluu_nextbold";
+  --accent-font-titling: "bluu_nexttitling";
   --primary-purple: #6b63b5;
   --primary-purple-hover: #514a92;
   --primary-white: #ffff;
@@ -20,7 +23,7 @@
 }
 
 .body {
-  font-family: var(--primary-font), sans-serif;
+  font-family: var(--primary-font-500), sans-serif;
   position: relative;
   overflow-x: hidden;
   margin-top: 137px;
