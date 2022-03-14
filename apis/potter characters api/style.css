@@ -1,4 +1,4 @@
-body {
+.body {
   font-family: sans-serif;
   background-color: #111d4a;
 }
@@ -6,18 +6,20 @@ body {
 * {
   box-sizing: border-box;
 }
-h1 {
+
+.searcher__title {
   color: #eee;
   margin-bottom: 30px;
 }
-.container {
+
+.searcher__container {
   padding: 40px;
   margin: 0 auto;
   max-width: 1000px;
   text-align: center;
 }
 
-#charactersList {
+.searcher__characters-list {
   padding-inline-start: 0;
   display: grid;
   grid-template-columns: repeat(auto-fit, minmax(320px, 1fr));
@@ -53,7 +55,7 @@ h1 {
   grid-area: image;
 }
 
-#searchBar {
+.searcher__characters-bar {
   width: 100%;
   height: 32px;
   border-radius: 3px;
@@ -62,11 +64,11 @@ h1 {
   font-size: 12px;
 }
 
-#searchWrapper {
+.searcher__characters {
   position: relative;
 }
 
-#searchWrapper::after {
+.searcher__characters::after {
   content: "🔍";
   position: absolute;
   top: 7px;

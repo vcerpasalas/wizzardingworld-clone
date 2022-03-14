@@ -13,7 +13,7 @@ searchBar.addEventListener("keyup", (e) => {
 
 const loadCharacters = async () => {
   try {
-    const res = await fetch("https://vcerpasalas.github.io/wizzardingworld-clone/characters.json");
+    const res = await fetch("https://vcerpasalas.github.io/wizzardingworld-clone/json/characters.json");
     hpCharacters = await res.json();
     displayCharacters(hpCharacters);
   } catch (err) {
