@@ -1,0 +1,98 @@
+[
+  {
+    "id": 1,
+    "pelicula": "Harry Potter y la piedra filosofal",
+    "titulo_original": "Harry Potter and the Philosopher's Stone",
+    "año": 2001,
+    "director": "Chris Colombus",
+    "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2Fbooks%2FUK%2Frectangle-1.jpg&w=1320&q=75"
+  },
+  {
+    "id": 2,
+    "pelicula": "Harry Potter y la cámara secreta",
+    "titulo_original": "Harry Potter and the chamber of secrets",
+    "año": 2002,
+    "director": "Chris Colombus",
+    "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2Ffilms%2Frectangle-2.png&w=1320&q=75"
+  },
+  {
+    "id": 3,
+    "pelicula": "Harry Potter y el prisionero de Azkaban",
+    "titulo_original": "Harry Potter and the Prisoner of Azkaban",
+    "año": 2004,
+    "director": "Alfonso Cuarón",
+    "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2Ffilms%2Frectangle-3.png&w=1320&q=75"
+  },
+  {
+    "id": 4,
+    "pelicula": "Harry Potter y el cáliz de fuego",
+    "titulo_original": "Harry Potter and the Goblet of Fire",
+    "año": 2005,
+    "director": "Mike Newell",
+    "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2Ffilms%2Frectangle-4.png&w=1320&q=75"
+  },
+  {
+    "id": 5,
+    "pelicula": "Harry Potter y la orden del Fénix",
+    "titulo_original": "Harry Potter and the Order of the Phoenix",
+    "año": 2007,
+    "director": "David Yates",
+    "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2Ffilms%2Frectangle-5.png&w=1320&q=75"
+  },
+  {
+    "id": 6,
+    "pelicula": "Harry Potter y el misterio del príncipe",
+    "titulo_original": "Harry Potter and the Half-Blood Prince",
+    "año": 2009,
+    "director": "David Yates",
+    "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2Ffilms%2Frectangle-6.png&w=1320&q=75"
+  },
+  {
+    "id": 7,
+    "pelicula": "Harry Potter y las reliquias de la muerte - Parte 1",
+    "titulo_original": "Harry Potter and the Deathly Hallows - Part 1",
+    "año": 2010,
+    "director": "David Yates",
+    "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2Ffilms%2Frectangle-7.png&w=1320&q=75"
+  },
+  {
+    "id": 8,
+    "pelicula": "Harry Potter y las reliquias de la muerte - Parte 2",
+    "titulo_original": "Harry Potter and the Deathly Hallows - Part 2",
+    "año": 2011,
+    "director": "David Yates",
+    "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2Ffilms%2Frectangle-8.png&w=1320&q=75"
+  },
+  {
+    "id": 9,
+    "pelicula": "Harry Potter: Colección completa de las 8 películas",
+    "titulo_original": "Harry Potter Complete 8-Film Collection",
+    "año": 2011,
+    "director": "",
+    "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2Ffilms%2Fbox-set-uk.png&w=1320&q=75"
+  },
+  {
+    "id": 10,
+    "pelicula": "Animales fantásticos y dónde encontrarlos",
+    "titulo_original": "Fantastic beasts and where to find them",
+    "año": 2016,
+    "director": "David Yates",
+    "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2Ffilms%2Frectangle-9.png&w=768&q=75"
+  },
+  {
+    "id": 11,
+    "pelicula": "Animales fantásticos: Los crímenes de Grindelwald",
+    "titulo_original": "Fantastic beasts: The crimes of Grindelwald",
+    "año": 2018,
+    "director": "David Yates",
+    "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2Ffilms%2Frectangle-10.png&w=768&q=75"
+  },
+  {
+    "id": 12,
+    "pelicula": "Animales fantásticos: Los secretos de Dumbledore",
+    "titulo_original": "Fantastic beasts and Dumbledore's Secret",
+    "año": 2022,
+    "director": "David Yates",
+    "image": "https://static.wikia.nocookie.net/esharrypotter/images/e/e2/Los_secretos_de_Dumbledore_P%C3%B3ster.jpg/revision/latest?cb=20220228170100"
+  }
+]
