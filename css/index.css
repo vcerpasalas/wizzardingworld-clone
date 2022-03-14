@@ -7,6 +7,7 @@
 * {
   box-sizing: border-box;
 }
+
 :root {
   --responsive-width: min(90%, 1250px);
   --primary-font: "Sofia Pro";
@@ -15,7 +16,9 @@
   --primary-purple-hover: #514a92;
   --primary-white: #ffff;
   --main-background: #10141b;
+  --main-background-light: #242633;
 }
+
 .body {
   font-family: var(--primary-font), sans-serif;
   position: relative;
