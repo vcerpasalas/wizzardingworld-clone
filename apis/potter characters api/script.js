@@ -1,3 +1,5 @@
+// Buscador de personajes del universo Harry Potter y Animales Fantásticos
+
 const charactersList = document.getElementById("charactersList");
 const searchBar = document.getElementById("searchBar");
 let hpCharacters = [];
