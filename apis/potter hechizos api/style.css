@@ -1,0 +1,96 @@
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap");
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Quicksand", sans-serif;
+}
+
+:root {
+  --primary-color: #000000;
+  --secondary-color: #ce9718;
+}
+
+.body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+  background-color: #dfdbe5;
+  background-image: url(bck.jpg);
+  background-size: cover;
+}
+
+.card__container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 20px;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.6);
+  border-radius: 10px;
+  width: 600px;
+  margin: 10px;
+  background-color: #fff;
+}
+
+.fa-quote-left {
+  font-size: 55px;
+  color: var(--secondary-color);
+}
+
+.card__container-hechizo {
+  text-align: center;
+  color: var(--primary-color);
+  font-weight: bold;
+  font-size: 26px;
+}
+
+.card__container-uso {
+  color: #806629;
+  font-size: 20px;
+  text-align: center;
+  padding: 15px;
+}
+
+.card__container-line {
+  margin: 10px 0;
+  width: 60%;
+  border: 1px solid #000000;
+}
+
+.card__buttons {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin-top: 10px;
+}
+
+.card__buttons-twitter {
+  text-decoration: none;
+  font-size: 20px;
+  background-color: var(--primary-color);
+  padding: 10px;
+  color: var(--secondary-color);
+  border-radius: 4px;
+}
+
+.card__buttons .card__buttons-next {
+  cursor: pointer;
+  border: none;
+  color: var(--secondary-color);
+  font-size: 20px;
+  font-weight: 700;
+  background-color: var(--primary-color);
+  padding: 10px;
+  border-radius: 4px;
+}
+
+.card__buttons-next:focus {
+  outline: none;
+}
+
+.fa-twitter {
+  margin-right: 5px;
+}
