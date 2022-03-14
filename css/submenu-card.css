@@ -1,0 +1,92 @@
+* {
+  box-sizing: border-box;
+}
+
+.submenu-card {
+  position: relative;
+  height: 12rem;
+  width: 12rem;
+}
+.card__inner-wrapper {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: linear-gradient(180deg, rgba(16, 20, 27, 0), #10141b);
+  display: flex;
+  align-items: center;
+  justify-content: end;
+  flex-direction: column;
+  flex-grow: 0;
+  padding: 2rem;
+  gap: 0.5rem;
+}
+.card__image-container {
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.card__image {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.card__title {
+  color: white;
+  text-transform: uppercase;
+  font-size: 0.9em;
+}
+.sub-menu__wrapper {
+  height: 100vh;
+  top: 130px;
+  left: 0;
+  opacity: 0;
+  user-select: none;
+  pointer-events: none;
+  transition: all 0.5s;
+  position: fixed;
+  background-color: rgba(0, 0, 0, 0.716);
+}
+
+.sub-menu__wrapper--opened {
+  opacity: 1;
+  user-select: all;
+  pointer-events: initial;
+}
+.sub-menu__inner-wrapper {
+  background-image: url("../images/header/sub-menu-background-stars.jpg");
+  background-repeat: repeat-x;
+  background-size: contain;
+  padding: 4rem 0;
+  width: 100vw;
+  height: fit-content;
+  position: relative;
+}
+
+.sub-menu__container {
+  width: 90%;
+  height: fit-content;
+  margin: 0 auto;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.8rem;
+  align-items: center;
+  justify-content: center;
+}
+.sub-menu__bottom-decoration-container {
+  position: absolute;
+  bottom: -20px;
+  left: 0;
+  width: 100%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+.sub-menu__bottom-decoration {
+  width: 70%;
+}

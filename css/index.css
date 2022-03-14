@@ -1,6 +1,13 @@
+@import url("./header.css");
+
 @import url("http://fonts.cdnfonts.com/css/sofia-pro?styles=17636,17630,17632,17634,17638,17628,17626");
 
 @import url("http://fonts.cdnfonts.com/css/bluu-next");
+
+* {
+  box-sizing: border-box;
+}
+
 :root {
   --responsive-width: min(90%, 1250px);
   --primary-font: "Sofia Pro";
@@ -9,8 +16,15 @@
   --primary-purple-hover: #514a92;
   --primary-white: #ffff;
   --main-background: #10141b;
+  --main-background-light: #242633;
 }
 
+.body {
+  font-family: var(--primary-font), sans-serif;
+  position: relative;
+  overflow-x: hidden;
+  margin-top: 137px;
+}
 
 /* Slider section */
 
@@ -30,5 +44,3 @@
   position: relative;
   min-height: 1px;
 }
-
-
