@@ -1,3 +1,5 @@
+@import url("./submenu-card.css");
+
 .header {
   background: linear-gradient(180deg, rgba(16, 20, 27, 0.8) 50%, rgba(16, 20, 27, 0));
   color: var(--primary-white);
