@@ -17,7 +17,7 @@ Las APIS trabajadas en el presente proyecto fueron consideradas tomando como bas
 En la cual, se editó manualmente la información de cerca el 80% de personajes, añadiendo información respecto a la casa de Hogwarts a la que pertenece cada personaje y su fotografía. Adicionalmente se añadieron ciertos personajes del universo de Animales Fantásticos.
 Finalmente se consumió la API alojada en el mismo proyecto, para la visualización de cada personaje en el buscador interactivo. Este código se encuentra en lenguaje JavaScript.
 
-2) Se trabajó a partir de la siguiente API de libros https://fedeperin-harry-potter-api.herokuapp.com/libros , se editó la información añadiendo fotografías para cada libro. Así como todos los datos respecto a los libros del universo de Animales Fantásticos, entre otros.
+2) Se trabajó a partir de la siguiente API de libros https://fedeperin-harry-potter-api.herokuapp.com/libros, se editó la información añadiendo fotografías para cada libro. Así como todos los datos respecto a los libros del universo de Animales Fantásticos, entre otros.
 
 3) Se trabajó a partir de la API de hechizos https://fedeperin-harry-potter-api.herokuapp.com/hechizos. Se añadieron 43 hechizos nuevos y se amplió la información de los hechizos exitentes.
    
