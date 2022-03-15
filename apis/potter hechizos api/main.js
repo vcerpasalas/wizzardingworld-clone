@@ -1,4 +1,4 @@
-// Generador de hechizos random - contiene hasta 115 hechizos del universo Harry Potter
+// Generador random de hechizos - contiene hasta 115 hechizos del universo Harry Potter
 
 const hechizo = document.querySelector(".card__container-hechizo");
 const uso = document.querySelector(".card__container-uso");
@@ -6,9 +6,7 @@ const nextBtn = document.querySelector(".card__buttons-next");
 const tweetbtn = document.querySelector(".card__buttons-twitter");
 
 const getHechizo = async () => {
-  const res = await fetch(
-    "https://vcerpasalas.github.io/wizzardingworld-clone/json/hechizos.json"
-  );
+  const res = await fetch("https://vcerpasalas.github.io/wizzardingworld-clone/json/hechizos.json");
   const hechizos = await res.json();
 
   const num = Math.floor(Math.random() * hechizos.length);
@@ -27,3 +25,5 @@ const getHechizo = async () => {
 
 nextBtn.addEventListener("click", getHechizo);
 getHechizo();
+
+document.addEventListener("DOMContentLoaded", documentReady);

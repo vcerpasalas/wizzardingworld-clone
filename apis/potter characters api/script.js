@@ -39,3 +39,5 @@ const displayCharacters = (characters) => {
 };
 
 loadCharacters();
+
+document.addEventListener("DOMContentLoaded", documentReady);
