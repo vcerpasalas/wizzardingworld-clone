@@ -1,3 +1,5 @@
+@import url("./submenu-card.css");
+
 .header {
   background: linear-gradient(180deg, rgba(16, 20, 27, 0.8) 50%, rgba(16, 20, 27, 0));
   color: var(--primary-white);
@@ -165,7 +167,7 @@
 
 .header__menu-discover-title,
 .header__menu-news-features-title {
-  font-family: var(--accent-font), sans-serif;
+  font-family: var(--accent-font-bold), sans-serif;
   font-size: 1.8em;
 }
 
