@@ -7,7 +7,7 @@ import { headerList, renderHTMLSubmenuOnMobile } from "./headerSubmenuMobile.js"
 
 import htmlRendering from "./render.js";
 
-// Header main rendering
+// Header main rendering 
 
 const header = document.getElementById("header");
 
