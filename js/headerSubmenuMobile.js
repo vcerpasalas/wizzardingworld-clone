@@ -14,11 +14,13 @@ export const headerList = [
       },
     ],
   },
-  { id: 2, title: "Quizzes" },
-  { id: 3, title: "Puzzles" },
-  { id: 4, title: "J.K. Rowling Archive" },
+  { id: 2, link: "", title: "Quizzes" },
+  { id: 3, link: "", title: "Puzzles" },
+  { id: 4, link: "", title: "J.K. Rowling Archive" },
   {
     id: 5,
+
+    link: "",
     title: "Discover",
     classAndId: "discover",
     submenu: [
@@ -30,20 +32,18 @@ export const headerList = [
       { subId: 6, subItemTitle: "Experiences" },
     ],
   },
-  { id: 6, title: "Hogwarts Sorting" },
-  { id: 7, title: "Secrets of Dumbledure" },
-  { id: 8, title: "Shop" },
+  { id: 6, link: "", title: "Hogwarts Sorting" },
+  { id: 7, link: "", title: "Secrets of Dumbledure" },
+  { id: 8, link: "", title: "Shop" },
 ];
 
-// console.log(headerList[4].submenu);
-
-const subMenuItemMobile = (submenu) => {
-  submenu.forEach((element) => {
-    element.innerHTML += `
-        <li class="header__menu-news-feature-item" id="${element.subId}"><a href="" class="header__menu-item-link">${element.subItemTitle}</a></li>
-      `;
-  });
-};
+// const subMenuItemMobile = (submenu) => {
+//   submenu.forEach((element) => {
+//     element.innerHTML += `
+//         <li class="header__menu-news-feature-item" id="${element.subId}"><a href="" class="header__menu-item-link">${element.subItemTitle}</a></li>
+//       `;
+//   });
+// };
 
 export const renderHTMLSubmenuOnMobile = (submenu) => {
   let html = "";
@@ -84,9 +84,9 @@ export const renderHTMLSubmenuOnMobile = (submenu) => {
                     </li>
                     `
                           : `
-                     <li class="header__menu-news-feature-item"><a href="" class="header__menu-item-link">News</a></li>
+                     <li class="header__menu-news-feature-item"><a href="./news.html" class="header__menu-item-link">News</a></li>
                     <li class="header__menu-news-feature-item">
-                      <a href="" class="header__menu-item-link">Features </a>
+                      <a href="./features.html" class="header__menu-item-link">Features </a>
                     </li>
                     `
                       }

@@ -6,16 +6,27 @@ export const discoverSubMenuDataOnDesktop = [
   { id: 5, title: "experiences", image: "./images/header/experiences.webp" },
 ];
 export const newsFeaturesSubMenuDataOnDesktop = [
-  { id: 10, title: "news", image: "./images/header/news.webp" },
-  { id: 11, title: "features", image: "./images/header/features.png" },
+  {
+    id: 10,
+    title: "news",
+    image: "./images/header/news.webp",
+    link: "./news.html",
+  },
+  {
+    id: 11,
+    title: "features",
+    image: "./images/header/features.png",
+    link: "./features.html",
+  },
 ];
 
 export const renderHTMLSubmenu = (subMenu) => {
   let html = "";
   subMenu.forEach((submenuEL) => {
-    const { id, image, title } = submenuEL;
+    const { id, image, title, link } = submenuEL;
     html += `
       <div class="submenu-card" id="${id}">
+      <a href="${link}">
           <figure class="card__image-container">
             <img class="card__image" src="${image}" alt="" />
           </figure>
@@ -25,6 +36,7 @@ export const renderHTMLSubmenu = (subMenu) => {
               <img class="card__decoration-icon" src="./images/header/scarcity-icon.svg" alt="" />
             </figure>
           </div>      
+          </a>
           </div>      
       `;
   });

@@ -29,7 +29,7 @@ header.innerHTML += `
             <ul class="header__menu-list" id="header-menu-list"></ul>
           </div>
         </div>
-        <a href="" class="header__logo-link">
+        <a href="./index.html" class="header__logo-link">
           <figure class="header__logo-container">
             <img src="./images/header/logo.svg" class="header__logo" alt="" />
           </figure>
