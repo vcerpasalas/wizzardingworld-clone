@@ -32,9 +32,21 @@ export const headerList = [
       { subId: 6, subItemTitle: "Experiences" },
     ],
   },
-  { id: 6, link: "", title: "Hogwarts Sorting" },
-  { id: 7, link: "", title: "Secrets of Dumbledure" },
-  { id: 8, link: "", title: "Shop" },
+  {
+    id: 6,
+    link: "https://my.wizardingworld.com/sorting-hat",
+    title: "Hogwarts Sorting",
+  },
+  {
+    id: 7,
+    link: "https://www.wizardingworld.com/collections/fantastic-beasts-the-secrets-of-dumbledore",
+    title: "Secrets of Dumbledure",
+  },
+  {
+    id: 8,
+    link: "https://www.wizardingworld.com/store?passthrough=true&store=hpshopuk",
+    title: "Shop",
+  },
 ];
 
 // const subMenuItemMobile = (submenu) => {
@@ -48,7 +60,7 @@ export const headerList = [
 export const renderHTMLSubmenuOnMobile = (submenu) => {
   let html = "";
   submenu.forEach((element) => {
-    const { id, title, classAndId } = element;
+    const { id, title, classAndId, link } = element;
     if (element.hasOwnProperty("submenu")) {
       html += `
         <li class="header__menu-item" id"${id}">
@@ -97,7 +109,7 @@ export const renderHTMLSubmenuOnMobile = (submenu) => {
       `;
     } else {
       html += `
-        <li class="header__menu-item" id="${id}"><a href="" class="header__menu-item-link">${title}</a></li>
+        <li class="header__menu-item" id="${id}"><a href="${link}" class="header__menu-item-link">${title}</a></li>
       `;
     }
   });
