@@ -85,7 +85,7 @@ h2 {
 }
 
 .card__image {
-  width: 70%;
+  width: 65%;
 }
 
 .card__separator {
@@ -104,6 +104,8 @@ img {
 p {
   padding: 0 2.5rem 2.5rem;
   margin: 0;
+  padding-left: 40px;
+  padding-right: 40px;
 }
 
 .container {
@@ -122,5 +124,21 @@ p {
 @media screen and (min-width: 900px) {
   .card {
     flex: 1 1 calc(33% - 2rem);
+  }
+}
+
+@media screen and (max-width: 550px) {
+  .banner__subtitle {
+    margin-left: 10px;
+    margin-right: 10px;
+  }
+  .card {
+    margin-left: 20px;
+    margin-right: 20px;
+  }
+
+  p {
+    padding-left: 30px;
+    padding-right: 30px;
   }
 }
