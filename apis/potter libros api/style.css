@@ -55,6 +55,8 @@ html {
   color: var(--text-color);
   font-size: 17px;
   line-height: 1.43;
+  margin-right: 50px;
+  margin-left: 50px;
 }
 
 /* Cards sobre los libros */
