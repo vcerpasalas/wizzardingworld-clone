@@ -1,25 +1,33 @@
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap");
 
+:root {
+  --text-color: #ffffff;
+  --inverse-text-color: #000000;
+  --background-card-color: rgb(243, 224, 224);
+  --gradient-color-1: #3222c2;
+  --gradient-color-2: #5590d3;
+  --gradient-color-3: #2c968d;
+  --gradient-color-4: #56a7cf;
+  --gradient-color-5: #73b6ec;
+  --gradient-color-6: #1c5e94;
+  --gradient-color-7: #9567bb;
+  --gradient-color-8: #1638aa;
+}
+
 * {
   box-sizing: border-box;
 }
 
-.root {
-  max-width: 1200px;
-  margin: 0 auto;
-}
-
 html {
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
   font-family: "Quicksand", sans-serif;
   line-height: 1.6;
-  color: rgb(32, 32, 32);
   background: url(https://i.postimg.cc/QNJ1kzxj/background.jpg);
 }
 
-.banner__intro {
-  color: white;
+/* Intro */
+
+.banner__phrase {
+  color: var(--text-color);
   text-align: center;
   margin-top: 120px;
   margin-bottom: 0;
@@ -29,38 +37,31 @@ html {
 .banner__title {
   font-family: "sofia_prosemi_bold";
   text-align: center;
-  color: white;
+  color: var(--text-color);
   margin-top: 30px;
-  text-shadow: 2px 2px 4px #000000;
+  text-shadow: 2px 2px 4px var(--inverse-text-color);
   font-size: 50px;
 }
 
 .banner__subtitle {
   font-family: "sofia_prosemi_bold";
-  color: white;
+  color: var(--text-color);
   text-align: center;
   font-size: 24px;
 }
 
-.banner__text {
+.text-container {
   text-align: center;
-  color: white;
+  color: var(--text-color);
   font-size: 17px;
+  line-height: 1.43;
 }
 
-h2 {
-  font-family: "sofia_prosemi_bold";
-  text-align: center;
-  padding: 1.5rem 2.5rem;
-  background-image: linear-gradient(120deg, #3222c2 0%, #5590d3 100%);
-  margin: 0 0 2rem 0;
-  font-size: 1.6rem;
-  color: white;
-}
+/* Cards con los libros */
 
 .card {
   margin: 1rem;
-  background: rgb(216, 216, 216);
+  background: var(--background-card-color);
   box-shadow: 2px 4px 25px rgba(0, 0, 0, 0.1);
   border-radius: 12px;
   overflow: hidden;
@@ -73,44 +74,52 @@ h2 {
 }
 
 .card:nth-child(2n) h2 {
-  background-image: linear-gradient(120deg, #2c968d 0%, #56a7cf 100%);
+  background-image: linear-gradient(120deg, var(--gradient-color-3) 0%, var(--gradient-color-4) 100%);
 }
 
 .card:nth-child(4n) h2 {
-  background-image: linear-gradient(120deg, #73b6ec 0%, #1c5e94 100%);
+  background-image: linear-gradient(120deg, var(--gradient-color-5) 0%, var(--gradient-color-6) 100%);
 }
 
 .card:nth-child(5n) h2 {
-  background-image: linear-gradient(120deg, #9567bb 0%, #1638aa 100%);
+  background-image: linear-gradient(120deg, var(--gradient-color-7) 0%, var(--gradient-color-8) 100%);
 }
 
 .card__image {
   width: 65%;
 }
 
-.card__separator {
-  border-bottom: 1px solid #757575;
-  opacity: 0.26;
-  flex: 1 1;
-  position: relative;
+.card__title {
+  font-family: "sofia_prosemi_bold";
+  text-align: center;
+  padding: 1.5rem 2.5rem;
+  background-image: linear-gradient(120deg, var(--gradient-color-1) 0%, var(--gradient-color-2) 100%);
+  margin: 0 0 2rem 0;
+  font-size: 1.6rem;
+  color: var(--text-color);
 }
 
-img {
+.card__image-container {
   display: block;
   margin: 1rem auto;
   max-width: 100%;
 }
 
-p {
+.card__text {
   padding: 0 2.5rem 2.5rem;
   margin: 0;
-  padding-left: 40px;
-  padding-right: 40px;
+  padding-left: 35px;
+  padding-right: 35px;
 }
 
 .container {
   display: flex;
   flex-wrap: wrap;
+}
+
+.root {
+  max-width: 1200px;
+  margin: 0 auto;
 }
 
 /* Media Queries - Responsive */
@@ -137,7 +146,7 @@ p {
     margin-right: 20px;
   }
 
-  p {
+  .card__text {
     padding-left: 30px;
     padding-right: 30px;
   }

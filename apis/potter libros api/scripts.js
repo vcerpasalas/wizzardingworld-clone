@@ -21,13 +21,16 @@ request.onload = function () {
 
       const h2 = document.createElement("h2");
       h2.textContent = book.title;
+      h2.className = "card__title";
 
       const imageBook = document.createElement("img");
+      imageBook.className = "card__image-container";
       imageBook.setAttribute("alt", book.title);
       imageBook.setAttribute("src", book.image);
       imageBook.classList.add("card__image");
 
       const p = document.createElement("p");
+      p.className = "card__text";
       book.description = book.description.substring(0, 300);
       p.textContent = `${book.description}...`;
 
