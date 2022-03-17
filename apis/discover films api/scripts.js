@@ -1,4 +1,4 @@
-// Se lee información de la API sobre los libros (título, descripción y portada)
+// Se lee información de la API sobre las películas (título, año de estreno y portada)
 
 const app = document.getElementById("root");
 const logo = document.createElement("img");
@@ -10,7 +10,7 @@ app.appendChild(logo);
 app.appendChild(container);
 
 var request = new XMLHttpRequest();
-request.open("GET", "https://vcerpasalas.github.io/wizzardingworld-clone/json/libros.json", true);
+request.open("GET", "https://vcerpasalas.github.io/wizzardingworld-clone/json/peliculas.json", true);
 
 request.onload = function () {
   var data = JSON.parse(this.response);

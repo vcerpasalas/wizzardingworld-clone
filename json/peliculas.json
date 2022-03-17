@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "pelicula": "Harry Potter y la piedra filosofal",
+    "title": "Harry Potter y la piedra filosofal",
     "titulo_original": "Harry Potter and the Philosopher's Stone",
     "año": 2001,
     "director": "Chris Colombus",
@@ -9,7 +9,7 @@
   },
   {
     "id": 2,
-    "pelicula": "Harry Potter y la cámara secreta",
+    "title": "Harry Potter y la cámara secreta",
     "titulo_original": "Harry Potter and the chamber of secrets",
     "año": 2002,
     "director": "Chris Colombus",
@@ -17,7 +17,7 @@
   },
   {
     "id": 3,
-    "pelicula": "Harry Potter y el prisionero de Azkaban",
+    "title": "Harry Potter y el prisionero de Azkaban",
     "titulo_original": "Harry Potter and the Prisoner of Azkaban",
     "año": 2004,
     "director": "Alfonso Cuarón",
@@ -25,7 +25,7 @@
   },
   {
     "id": 4,
-    "pelicula": "Harry Potter y el cáliz de fuego",
+    "title": "Harry Potter y el cáliz de fuego",
     "titulo_original": "Harry Potter and the Goblet of Fire",
     "año": 2005,
     "director": "Mike Newell",
@@ -33,7 +33,7 @@
   },
   {
     "id": 5,
-    "pelicula": "Harry Potter y la orden del Fénix",
+    "title": "Harry Potter y la orden del Fénix",
     "titulo_original": "Harry Potter and the Order of the Phoenix",
     "año": 2007,
     "director": "David Yates",
@@ -41,7 +41,7 @@
   },
   {
     "id": 6,
-    "pelicula": "Harry Potter y el misterio del príncipe",
+    "title": "Harry Potter y el misterio del príncipe",
     "titulo_original": "Harry Potter and the Half-Blood Prince",
     "año": 2009,
     "director": "David Yates",
@@ -49,7 +49,7 @@
   },
   {
     "id": 7,
-    "pelicula": "Harry Potter y las reliquias de la muerte - Parte 1",
+    "title": "Harry Potter y las reliquias de la muerte - Parte 1",
     "titulo_original": "Harry Potter and the Deathly Hallows - Part 1",
     "año": 2010,
     "director": "David Yates",
@@ -57,7 +57,7 @@
   },
   {
     "id": 8,
-    "pelicula": "Harry Potter y las reliquias de la muerte - Parte 2",
+    "title": "Harry Potter y las reliquias de la muerte - Parte 2",
     "titulo_original": "Harry Potter and the Deathly Hallows - Part 2",
     "año": 2011,
     "director": "David Yates",
@@ -65,7 +65,7 @@
   },
   {
     "id": 9,
-    "pelicula": "Harry Potter: Colección completa de las 8 películas",
+    "title": "Harry Potter: Colección completa de las 8 películas",
     "titulo_original": "Harry Potter Complete 8-Film Collection",
     "año": 2011,
     "director": "",
@@ -73,7 +73,7 @@
   },
   {
     "id": 10,
-    "pelicula": "Animales fantásticos y dónde encontrarlos",
+    "title": "Animales fantásticos y dónde encontrarlos",
     "titulo_original": "Fantastic beasts and where to find them",
     "año": 2016,
     "director": "David Yates",
@@ -81,7 +81,7 @@
   },
   {
     "id": 11,
-    "pelicula": "Animales fantásticos: Los crímenes de Grindelwald",
+    "title": "Animales fantásticos: Los crímenes de Grindelwald",
     "titulo_original": "Fantastic beasts: The crimes of Grindelwald",
     "año": 2018,
     "director": "David Yates",
@@ -89,7 +89,7 @@
   },
   {
     "id": 12,
-    "pelicula": "Animales fantásticos: Los secretos de Dumbledore",
+    "title": "Animales fantásticos: Los secretos de Dumbledore",
     "titulo_original": "Fantastic beasts and Dumbledore's Secret",
     "año": 2022,
     "director": "David Yates",
