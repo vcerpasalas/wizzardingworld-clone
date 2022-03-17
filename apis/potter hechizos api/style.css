@@ -4,6 +4,7 @@
   --primary-color: #000000;
   --secondary-color: #ce9718;
   --card-color: #ffffff;
+  --icon-color: #806629;
   --background-color: #dfdbe5;
 }
 
@@ -36,11 +37,6 @@
   background-color: var(--card-color);
 }
 
-.fa-quote-left {
-  font-size: 55px;
-  color: var(--secondary-color);
-}
-
 .card__container-hechizo {
   text-align: center;
   color: var(--primary-color);
@@ -49,13 +45,13 @@
 }
 
 .card__container-uso {
-  color: #806629;
+  color: var(--icon-color);
   font-size: 20px;
   text-align: center;
   padding: 15px;
 }
 
-.card__container-line {
+.card__line {
   margin: 10px 0;
   width: 60%;
   border: 1px solid var(--primary-color);
@@ -91,6 +87,11 @@
 
 .card__buttons-next:focus {
   outline: none;
+}
+
+.fa-quote-left {
+  font-size: 55px;
+  color: var(--secondary-color);
 }
 
 .fa-twitter {

@@ -57,6 +57,13 @@ html {
   margin-left: 60px;
 }
 
+.card__container-line {
+  margin: 7px 0;
+  width: 40%;
+  border: 0.1px solid var(--background-card-color);
+  margin: auto;
+}
+
 /* Cards sobre los libros */
 
 .card {
