@@ -32,9 +32,14 @@ request.onload = function () {
       imageBook.setAttribute("src", film.image);
       imageBook.classList.add("card__image");
 
+      const p = document.createElement("p");
+      p.textContent = film.fecha_de_lanzamiento;
+      p.className = "card__text";
+
       container.appendChild(card);
       card.appendChild(h2);
       card.appendChild(imageBook);
+      card.appendChild(p);
     });
   } else {
     const errorMessage = document.createElement("error");
