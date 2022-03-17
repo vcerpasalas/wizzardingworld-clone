@@ -1,5 +1,12 @@
 @import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap");
 
+:root {
+  --primary-color: #000000;
+  --secondary-color: #ce9718;
+  --card-color: #ffffff;
+  --background-color: #dfdbe5;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -7,17 +14,12 @@
   font-family: "Quicksand", sans-serif;
 }
 
-:root {
-  --primary-color: #000000;
-  --secondary-color: #ce9718;
-}
-
 .body {
   display: flex;
   align-items: center;
   justify-content: center;
   height: 100vh;
-  background-color: #dfdbe5;
+  background-color: var(--background-color);
   background-image: url(bck.jpg);
   background-size: cover;
 }
@@ -31,7 +33,7 @@
   border-radius: 10px;
   width: 600px;
   margin: 10px;
-  background-color: #fff;
+  background-color: var(--card-color);
 }
 
 .fa-quote-left {
@@ -56,7 +58,7 @@
 .card__container-line {
   margin: 10px 0;
   width: 60%;
-  border: 1px solid #000000;
+  border: 1px solid var(--primary-color);
 }
 
 .card__buttons {

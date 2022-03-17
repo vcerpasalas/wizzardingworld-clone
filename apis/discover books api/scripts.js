@@ -10,8 +10,10 @@ app.appendChild(container);
 
 var request = new XMLHttpRequest();
 request.open("GET", "https://vcerpasalas.github.io/wizzardingworld-clone/json/libros.json", true);
+
 request.onload = function () {
   var data = JSON.parse(this.response);
+
   if (request.status >= 200 && request.status < 400) {
     data.forEach((book) => {
       console.log(book);
@@ -21,13 +23,16 @@ request.onload = function () {
 
       const h2 = document.createElement("h2");
       h2.textContent = book.title;
+      h2.className = "card__title";
 
       const imageBook = document.createElement("img");
+      imageBook.className = "card__image-container";
       imageBook.setAttribute("alt", book.title);
       imageBook.setAttribute("src", book.image);
-      imageBook.classList.add("pokemon__card-image");
+      imageBook.classList.add("card__image");
 
       const p = document.createElement("p");
+      p.className = "card__text";
       book.description = book.description.substring(0, 300);
       p.textContent = `${book.description}...`;
 

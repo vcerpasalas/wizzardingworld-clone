@@ -220,3 +220,5 @@ document.addEventListener("mouseleave", (event) => {
   )
     resetMenuScreen();
 });
+
+document.addEventListener("DOMContentLoaded", documentReady);
