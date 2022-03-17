@@ -63,7 +63,7 @@ export const renderHTMLSubmenuOnMobile = (submenu) => {
     const { id, title, classAndId, link } = element;
     if (element.hasOwnProperty("submenu")) {
       html += `
-        <li class="header__menu-item" id"${id}">
+        <li class="header__menu-item" id="${id}">
                 <div class="header__menu-item-text-arrow" id="${classAndId}-el">
                   ${title}
                   <svg width="10" height="15" class="header__submenu-arrow-icon" id="submenu-arrow-icon-${classAndId}">

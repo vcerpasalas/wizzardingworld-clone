@@ -1,5 +1,6 @@
 @import url("../fonts/fonts.css");
 @import url("./header.css");
+@import url("./page.css");
 
 * {
   box-sizing: border-box;
@@ -26,7 +27,6 @@
   font-family: var(--primary-font-500), sans-serif;
   position: relative;
   overflow-x: hidden;
-  margin-top: 137px;
 }
 
 /* Slider section */
@@ -47,3 +47,12 @@
   position: relative;
   min-height: 1px;
 }
+
+@media (min-width: 1024px) {
+.body {
+    margin-top: 137px;
+}
+
+}
+
+  

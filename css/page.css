@@ -1,0 +1,47 @@
+.page-hero {
+ width: 100vw;
+ height: 90vh;
+ position: relative;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction: column;
+}
+.page-hero__image-container {
+width: 100%;
+height: 100%;
+position: absolute;
+top: 0;
+left: 0;
+}
+.page-hero-image {
+width: 100%;
+height: 100%;
+object-fit: cover;
+}
+
+.page-hero-container-details {
+ z-index: 1;
+ display: flex;
+ align-items: center;
+ justify-content: center;
+ flex-direction: column;
+ width: min(50%,700px);
+ margin: 0 auto;
+ color: white;
+ gap: 2rem;
+}
+.page-hero__title {
+ font-size: 2em;
+font-family:  var(--accent-font-bold);
+ letter-spacing: .15em;
+}
+.page-hero__description {
+text-align: center;
+font-family: var(--primary-font-200);
+line-height: 1.3em;
+font-size: 1.1em;
+}
+.page-hero__scroll-indicator {
+
+}
