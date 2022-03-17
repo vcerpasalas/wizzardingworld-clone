@@ -1,3 +1,5 @@
+// Se lee información de la API sobre los libros (título, descripción y portada)
+
 const app = document.getElementById("root");
 
 const logo = document.createElement("img");

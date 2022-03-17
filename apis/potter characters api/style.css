@@ -1,22 +1,28 @@
-.body {
-  font-family: sans-serif;
-  background-color: #111d4a;
+@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap");
+
+:root {
+  --searcher-color: #eee;
 }
 
 * {
   box-sizing: border-box;
 }
 
-.searcher__title {
-  color: #eee;
-  margin-bottom: 30px;
+.body {
+  font-family: "Quicksand", sans-serif;
+  background: url(https://wallpapercave.com/wp/2wuJNqK.jpg);
 }
 
-.searcher__container {
+.searcher__characters-container {
   padding: 40px;
   margin: 0 auto;
   max-width: 1000px;
   text-align: center;
+}
+
+.searcher__title {
+  color: var(--searcher-color);
+  margin-bottom: 30px;
 }
 
 .searcher__characters-list {
