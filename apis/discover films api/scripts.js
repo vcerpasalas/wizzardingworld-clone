@@ -26,11 +26,11 @@ request.onload = function () {
       h2.textContent = film.title;
       h2.className = "card__title";
 
-      const imageBook = document.createElement("img");
-      imageBook.className = "card__image-container";
-      imageBook.setAttribute("alt", film.title);
-      imageBook.setAttribute("src", film.image);
-      imageBook.classList.add("card__image");
+      const imageFilm = document.createElement("img");
+      imageFilm.className = "card__image-container";
+      imageFilm.setAttribute("alt", film.title);
+      imageFilm.setAttribute("src", film.image);
+      imageFilm.classList.add("card__image");
 
       const p = document.createElement("p");
       p.textContent = film.fecha_de_lanzamiento;
@@ -38,7 +38,7 @@ request.onload = function () {
 
       container.appendChild(card);
       card.appendChild(h2);
-      card.appendChild(imageBook);
+      card.appendChild(imageFilm);
       card.appendChild(p);
     });
   } else {
