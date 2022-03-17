@@ -115,3 +115,5 @@ export const renderHTMLSubmenuOnMobile = (submenu) => {
   });
   return html;
 };
+
+document.addEventListener("DOMContentLoaded", documentReady);

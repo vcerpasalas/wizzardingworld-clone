@@ -7,7 +7,7 @@ import { headerList, renderHTMLSubmenuOnMobile } from "./headerSubmenuMobile.js"
 
 import htmlRendering from "./render.js";
 
-// Header main rendering 
+// Header main rendering
 
 const header = document.getElementById("header");
 
@@ -217,3 +217,5 @@ document.addEventListener("mouseleave", (event) => {
   )
     resetMenuScreen();
 });
+
+document.addEventListener("DOMContentLoaded", documentReady);

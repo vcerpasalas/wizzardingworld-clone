@@ -3,7 +3,7 @@
 :root {
   --text-color: #ffffff;
   --inverse-text-color: #000000;
-  --background-card-color: rgb(243, 224, 224);
+  --background-card-color: #dddddd;
   --gradient-color-1: #3222c2;
   --gradient-color-2: #5590d3;
   --gradient-color-3: #2c968d;
@@ -57,7 +57,7 @@ html {
   line-height: 1.43;
 }
 
-/* Cards con los libros */
+/* Cards sobre los libros */
 
 .card {
   margin: 1rem;
@@ -90,7 +90,6 @@ html {
 }
 
 .card__title {
-  font-family: "sofia_prosemi_bold";
   text-align: center;
   padding: 1.5rem 2.5rem;
   background-image: linear-gradient(120deg, var(--gradient-color-1) 0%, var(--gradient-color-2) 100%);
