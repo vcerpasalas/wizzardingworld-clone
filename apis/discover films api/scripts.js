@@ -16,31 +16,25 @@ request.onload = function () {
   var data = JSON.parse(this.response);
 
   if (request.status >= 200 && request.status < 400) {
-    data.forEach((book) => {
-      console.log(book);
+    data.forEach((film) => {
+      console.log(film);
 
       const card = document.createElement("div");
       card.setAttribute("class", "card");
 
       const h2 = document.createElement("h2");
-      h2.textContent = book.title;
+      h2.textContent = film.title;
       h2.className = "card__title";
 
       const imageBook = document.createElement("img");
       imageBook.className = "card__image-container";
-      imageBook.setAttribute("alt", book.title);
-      imageBook.setAttribute("src", book.image);
+      imageBook.setAttribute("alt", film.title);
+      imageBook.setAttribute("src", film.image);
       imageBook.classList.add("card__image");
-
-      const p = document.createElement("p");
-      p.className = "card__text";
-      book.description = book.description.substring(0, 300);
-      p.textContent = `${book.description}...`;
 
       container.appendChild(card);
       card.appendChild(h2);
       card.appendChild(imageBook);
-      card.appendChild(p);
     });
   } else {
     const errorMessage = document.createElement("error");
