@@ -111,6 +111,8 @@ p {
   flex-wrap: wrap;
 }
 
+/* Media Queries - Responsive */
+
 @media screen and (min-width: 600px) {
   .card {
     flex: 1 1 calc(50% - 2rem);
