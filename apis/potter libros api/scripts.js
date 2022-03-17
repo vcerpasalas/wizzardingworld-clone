@@ -25,7 +25,7 @@ request.onload = function () {
       const imageBook = document.createElement("img");
       imageBook.setAttribute("alt", book.title);
       imageBook.setAttribute("src", book.image);
-      imageBook.classList.add("pokemon__card-image");
+      imageBook.classList.add("card__image");
 
       const p = document.createElement("p");
       book.description = book.description.substring(0, 300);
