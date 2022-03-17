@@ -13,6 +13,8 @@
   background: url(https://wallpapercave.com/wp/2wuJNqK.jpg);
 }
 
+/* Buscador de personajes */
+
 .searcher__characters-container {
   padding: 40px;
   margin: 0 auto;
@@ -23,6 +25,16 @@
 .searcher__title {
   color: var(--searcher-color);
   margin-bottom: 30px;
+  margin-top: 80px;
+}
+
+.searcher__characters-bar {
+  width: 100%;
+  height: 32px;
+  border-radius: 3px;
+  border: 1px solid #eaeaea;
+  padding: 7px 12px;
+  font-size: 16px;
 }
 
 .searcher__characters-list {
@@ -59,15 +71,6 @@
 .character > img {
   max-height: 100px;
   grid-area: image;
-}
-
-.searcher__characters-bar {
-  width: 100%;
-  height: 32px;
-  border-radius: 3px;
-  border: 1px solid #eaeaea;
-  padding: 5px 10px;
-  font-size: 12px;
 }
 
 .searcher__characters {
