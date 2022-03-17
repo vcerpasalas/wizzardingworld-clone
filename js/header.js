@@ -3,7 +3,7 @@ import {
   discoverSubMenuDataOnDesktop,
   renderHTMLSubmenu,
 } from "./headerSubmenuDesktop.js";
-import { headerList, renderHTMLSubmenuOnMobile } from "./headerSubmenuMobile.js";
+import { headerList, renderHTMLSubmenuOnMobile } from "./headerSubmenu.js";
 
 import htmlRendering from "./render.js";
 
@@ -21,7 +21,10 @@ header.innerHTML += `
           aria-label="Open navigation"
           aria-expanded="false"
         >
-          <lottie-player class="header__menu-icon" src="./images/header/lottie-menu-icon.json"></lottie-player>
+          <lottie-player
+          id="header-menu-icon"
+          class="header__menu-icon" src="./images/header/lottie-menu-icon.json"></lottie-player>
+
         </a>
         <div class="header__menu-wrapper" id="menu-wrapper">
           <div class="header__menu-inner-wrapper" id="menu-inner-wrapper">
@@ -75,7 +78,7 @@ htmlRendering(submenuContainerNewsFeatures, newsFeaturesSubMenuDataOnDesktop, re
 
 // Menu icon lottie animation
 const toggleMenu = document.querySelector(".toggle-menu");
-const lottiePlayer = document.querySelector("lottie-player");
+const lottiePlayer = document.querySelector("#header-menu-icon");
 const menuWrapper = document.querySelector("#menu-wrapper");
 const menuOpenedClass = menuWrapper.classList;
 

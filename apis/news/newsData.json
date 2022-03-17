@@ -1,0 +1,3255 @@
+{
+  "pageProps": {
+    "content": {
+      "_updatedAt": "2022-03-15T09:32:51.090000",
+      "associatedTag": [
+        {
+          "_updatedAt": "2020-02-20T13:07:09.645000",
+          "contentTypeId": "tag",
+          "contentfulId": "6PK6KxaPndhQsAFS54UCkr",
+          "name": "news"
+        }
+      ],
+      "contentTypeId": "hub",
+      "contentfulId": "uOlVc043KJX7MIiXPuCau",
+      "displayTitle": "News",
+      "entryTitle": "News",
+      "externalId": "news",
+      "mainImage": {
+        "_updatedAt": "2019-09-26T11:47:59.195000",
+        "contentTypeId": "image",
+        "contentfulId": "4kDxRfIgaIahvcP76Ushri",
+        "entryTitle": "Hero News Hub Texture",
+        "image": {
+          "_updatedAt": "2019-09-26T11:47:50.504000",
+          "contentTypeId": "asset",
+          "contentfulId": "5yFQqmi5iTeUVfNsmP6Uzn",
+          "file": {
+            "contentType": "image/png",
+            "details": {
+              "image": {
+                "height": 1330,
+                "width": 2880
+              },
+              "size": 1112267
+            },
+            "fileName": "News-Hub-Copy-compressor.png",
+            "url": "//images.ctfassets.net/usf1vwtuqyxm/5yFQqmi5iTeUVfNsmP6Uzn/5ed1d83ef4a8fd8e0056ed82d77c82c9/News-Hub-Copy-compressor.png"
+          },
+          "title": "Hero News Hub Texture"
+        }
+      },
+      "referencedContent": [
+        {
+          "_updatedAt": "2022-03-16T13:54:04.915000",
+          "activationDate": "2022-03-14T00:00:00",
+          "author": {
+            "_updatedAt": "2020-02-20T13:07:32.943000",
+            "contentTypeId": "author",
+            "contentfulId": "3moP55ZKIanB6wWwRtA4Ea",
+            "displayTitle": "Written by",
+            "entryTitle": "Signature-WizardingWorld",
+            "mainImage": {
+              "_updatedAt": "2019-08-01T11:07:44.068000",
+              "contentTypeId": "asset",
+              "contentfulId": "30OscCI83JoLGsI4MKRnJS",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 360,
+                    "width": 360
+                  },
+                  "size": 36037
+                },
+                "fileName": "WizardingWorldLogo.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/30OscCI83JoLGsI4MKRnJS/2ebebe784733ba3b6a185a8e404e57f7/WizardingWorldLogo.jpg"
+              },
+              "title": "Signature_Logo_WizardingWorld"
+            },
+            "title": "The Wizarding World Team"
+          },
+          "contentTypeId": "article",
+          "contentfulId": "dokydR6unYt9agLtLQWax",
+          "displayTitle": "First look at MinaLima’s Fantastic Beasts: The Secrets of Dumbledore graphic art prints ",
+          "entryTitle": "WEB-NEWS-FB3-prints-from-minalima",
+          "externalId": "exclusive-first-look-at-minalima-fantastic-beasts-secrets-of-dumbledore-prints",
+          "intro": "Today, enjoy a sneak peek from award-winning design studio MinaLima, who are soon to debut new graphic art prints celebrating the latest film in the Fantastic Beasts series.",
+          "mainImage": {
+            "_updatedAt": "2022-03-15T09:23:20.873000",
+            "contentTypeId": "image",
+            "contentfulId": "U33JljRpSINEqxeW47qZn",
+            "entryTitle": "minalima-fb3-exclusive-print-dumbledore-crest-crop",
+            "image": {
+              "_updatedAt": "2022-03-14T17:27:15.748000",
+              "contentTypeId": "asset",
+              "contentfulId": "6Dzvr1iTOJVmCy3L0QZyg8",
+              "description": "",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 756,
+                    "width": 1477
+                  },
+                  "size": 259191
+                },
+                "fileName": "dumbledore-crest.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/6Dzvr1iTOJVmCy3L0QZyg8/bfd92f50e68727b628bfdc5b7d09bbd4/dumbledore-crest.jpg"
+              },
+              "title": "fb3-dumbledore-crest-crop-2"
+            }
+          },
+          "publishDate": "2022-03-14T00:00:00",
+          "section": [
+            {
+              "_updatedAt": "2022-03-15T09:23:04.705000",
+              "contentTypeId": "textSection",
+              "contentfulId": "7IJVB16CHX8scCII7zc8Ys",
+              "entryTitle": "exclusive-first-look-at-minalima-fantastic-beasts-secrets-of-dumbledore-prints-text-section",
+              "text": "On Tuesday 29th March, MinaLima will unveil their latest artworks at House of MinaLima in Soho, London: a collection of rich and colourful designs highlighting the international magical cultures of *Fantastic Beasts: The Secrets of Dumbledore*. From German wizarding newspapers to Gellert Grindelwald wanted posters, there is a whole new smorgasbord of wizarding world artistry to take in.  \n\nThe graphic design team, who worked extensively across the Harry Potter films and the first two Fantastic Beasts films, are back to immerse in the wizarding world once again, embracing vintage, Art Nouveau and Art Deco styles that have permeated the look of the Fantastic Beasts stories, which are set in the 1920s.\n\n![minalima-fb3-exclusive-print-dumbledore-crest](//images.ctfassets.net/usf1vwtuqyxm/320cjhRzfA0yt8nrtF73YI/28ae50ec6b828be2adfb749135e18682/dumbledore-crest.jpg)\n\nAs always, the team conducted historical research and employed experimental techniques when creating the designs for the film, to properly embrace the style of the period. \n\nThe prints will also take fans’ imaginations around the world, observing numerous international magical cultures expected to be seen in the new film, such as the German Ministry of Magic, and pivotal characters from Brazil and China. Other prints highlight interesting plot points of the film, such as Grindelwald wanted posters, the Dumbledore family emblem, featuring a majestic phoenix, the German newspaper, Die Silberne Fledermaus and a glimpse at a new magical train to get excited about: The Great Wizarding Express. Bookworms will enjoy seeing some new fictional tomes that feature in the film, such as a collection of 10 wizarding books created for Professor Lally – and a gilded front cover for the second edition of Newt Scamander’s best-seller, (what else?) *Fantastic Beasts and Where to Find Them*. \n\nOne standout piece, created in collaboration with the wider film production, will display the Magisterial Chamber of Ancient Wizardry, a hideaway of the highest seat of the magical world in Bhutan. Like much of MinaLima’s work,  eagle-eyed fans can examine these pieces to pick out meticulously detailed motifs and symbols. \n\nSo, stay tuned for further reveals from this gorgeous collection – all in celebration of [Fantastic Beasts: The Secrets of Dumbedore](https://www.wizardingworld.com/collections/fantastic-beasts-the-secrets-of-dumbledore), coming to UK cinemas on Friday 8th April, with a wider release following on the 15th. \n\nAnd if you’re London-based, why don’t you pop down to MinaLima’s home, the House of MinaLima, to see the new prints in person? \n\nThe curated collection of Graphic Art of Fantastic Beasts will also be on exhibit at House of MinaLima New York, House of MinaLima Osaka and House of MinaLima Paju from Friday 8 April 2022.\n\nVisit the [MinaLima website for more details. ](https://minalima.com/)"
+            }
+          ],
+          "tags": [
+            {
+              "_updatedAt": "2020-02-20T13:07:09.645000",
+              "contentTypeId": "tag",
+              "contentfulId": "6PK6KxaPndhQsAFS54UCkr",
+              "name": "news"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:06:54.732000",
+              "authorComment": "This excludes the content item from its index page i.e. quizzes run to Quiz section automatically, but for other Quiz content (publishing elsewhere) it excludes from Discover. ALL SECRET CODE OR ENCHANTED CONTENT",
+              "contentTypeId": "tag",
+              "contentfulId": "5pjGg1O8g0NYmdITUba28D",
+              "name": "hide-from-discover"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:07:02.831000",
+              "contentTypeId": "tag",
+              "contentfulId": "L1Cef6BUiA2eC84VPklgq",
+              "name": "hide-from-app"
+            },
+            {
+              "_updatedAt": "2022-03-10T18:30:34.826000",
+              "authorComment": "Used for GA stats related to the tier 1 and 2 campaigns",
+              "contentTypeId": "tag",
+              "contentfulId": "v1bJadkYYEyerNFlawvd9",
+              "name": "campaign-fb3"
+            }
+          ]
+        },
+        {
+          "_updatedAt": "2022-02-28T15:03:27.678000",
+          "activationDate": "2022-02-28T00:00:00",
+          "author": {
+            "_updatedAt": "2020-02-20T13:07:32.943000",
+            "contentTypeId": "author",
+            "contentfulId": "3moP55ZKIanB6wWwRtA4Ea",
+            "displayTitle": "Written by",
+            "entryTitle": "Signature-WizardingWorld",
+            "mainImage": {
+              "_updatedAt": "2019-08-01T11:07:44.068000",
+              "contentTypeId": "asset",
+              "contentfulId": "30OscCI83JoLGsI4MKRnJS",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 360,
+                    "width": 360
+                  },
+                  "size": 36037
+                },
+                "fileName": "WizardingWorldLogo.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/30OscCI83JoLGsI4MKRnJS/2ebebe784733ba3b6a185a8e404e57f7/WizardingWorldLogo.jpg"
+              },
+              "title": "Signature_Logo_WizardingWorld"
+            },
+            "title": "The Wizarding World Team"
+          },
+          "contentTypeId": "article",
+          "contentfulId": "422rBEIuhpFO2tavAlGdu8",
+          "displayTitle": "Watch the second trailer for Fantastic Beasts: The Secrets of Dumbledore",
+          "entryTitle": "WEB-FEATURE-watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore",
+          "externalId": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore",
+          "intro": "The second trailer for Fantastic Beasts: The Secrets of Dumbledore is here! And it is full of intriguing moments – from Dumbledore and Grindelwald coming face-to-face to a glimpse of Teddy the Niffler. Fancy a look? Of course you do…",
+          "mainImage": {
+            "_updatedAt": "2022-02-24T09:26:33.247000",
+            "contentTypeId": "image",
+            "contentfulId": "5CyE2KCWvj1Wi3EVeJe80j",
+            "entryTitle": "fb3-key-art-crop-web-landscape",
+            "image": {
+              "_updatedAt": "2022-02-24T09:22:54.101000",
+              "contentTypeId": "asset",
+              "contentfulId": "28qgIF2Fkj3A3Hmw1hI5py",
+              "description": "",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 1598,
+                    "width": 2764
+                  },
+                  "size": 2688263
+                },
+                "fileName": "fb3-key-art-crop-web-landscape.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/28qgIF2Fkj3A3Hmw1hI5py/6f90b371d1679d7b1a41ed718c9c9e6d/fb3-key-art-crop-web-landscape.jpg"
+              },
+              "title": "fb3-key-art-crop-web-landscape"
+            },
+            "imageAltText": "Newt Scamander, Albus Dumbledore and Gellert Grindelwald."
+          },
+          "publishDate": "2022-02-28T00:00:00",
+          "section": [
+            {
+              "_updatedAt": "2022-02-28T12:56:50.595000",
+              "contentTypeId": "textSection",
+              "contentfulId": "6jLMSZjMJk0UAuTweloqqL",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-1",
+              "text": "__Naturally you can expect spoilers for the first two *Fantastic Beasts* films below...__\n\nThere are plenty of things to be excited about in this next trailer – we certainly spotted a lot of curious details. But before we dive into a breakdown of everything we noticed, watch the trailer here…"
+            },
+            {
+              "_updatedAt": "2022-02-28T14:38:32.524000",
+              "activationDate": "2022-02-01T00:00:00",
+              "contentTypeId": "video",
+              "contentfulId": "2GeGQpsMeqx5RW77EXVrfO",
+              "displayTitle": " Fantastic Beasts: The Secrets of Dumbledore | Trailer 2",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-video-1-trailer",
+              "externalId": "fantastic-beasts-the-secrets-of-dumbledore-web-trailer-2",
+              "mainImage": {
+                "_updatedAt": "2022-02-28T14:37:03.179000",
+                "contentTypeId": "image",
+                "contentfulId": "2AW7Nz3KeBEiTAwzci0Wou",
+                "entryTitle": "FB3-trailer-2-grindelwald-dumbledore-fighting-face-to-face-web-video-thumbnail",
+                "image": {
+                  "_updatedAt": "2022-02-28T14:36:53.978000",
+                  "contentTypeId": "asset",
+                  "contentfulId": "2DS7KvfoHaVpXZ3dbqvh4e",
+                  "description": "",
+                  "file": {
+                    "contentType": "image/jpeg",
+                    "details": {
+                      "image": {
+                        "height": 838,
+                        "width": 1490
+                      },
+                      "size": 474934
+                    },
+                    "fileName": "FB3-trailer-2-grindelwald-dumbledore-fighting-face-to-face-web-video-thumbnail.jpg",
+                    "url": "//images.ctfassets.net/usf1vwtuqyxm/2DS7KvfoHaVpXZ3dbqvh4e/2fae01d1a05c3dfe81def75397980a9b/FB3-trailer-2-grindelwald-dumbledore-fighting-face-to-face-web-video-thumbnail.jpg"
+                  },
+                  "title": "FB3-trailer-2-grindelwald-dumbledore-fighting-face-to-face-web-video-thumbnail"
+                }
+              },
+              "videoFileSource": "https://video.wizardingworld.com/fbtsod-trailer-2-landscape/h264/playlist.m3u8"
+            },
+            {
+              "_updatedAt": "2022-02-28T12:56:56.503000",
+              "contentTypeId": "textSection",
+              "contentfulId": "2cQjarvfcbLrbYuR6NJhJM",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-2",
+              "text": "This new trailer builds upon some of the themes we saw in the first – though we still have rather a lot of questions… especially around Jacob and his brand-new wand."
+            },
+            {
+              "_updatedAt": "2022-02-28T12:57:01.778000",
+              "contentTypeId": "textSection",
+              "contentfulId": "1UmzOF7JbDdEa0kFjed9KD",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-3",
+              "text": "## The older Dumbledore taking a walk down memory lane…"
+            },
+            {
+              "_updatedAt": "2022-02-24T10:55:26.674000",
+              "contentTypeId": "image",
+              "contentfulId": "1Xj03Msw1L7zOumo2bREK7",
+              "entryTitle": "FB3-trailer-2-gambon-dumbledore-pensieve-web-landscape",
+              "image": {
+                "_updatedAt": "2022-02-24T10:55:10.295000",
+                "contentTypeId": "asset",
+                "contentfulId": "75dDe2oqjtyDJ071IJOmQL",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 838,
+                      "width": 2000
+                    },
+                    "size": 719445
+                  },
+                  "fileName": "FB3-trailer-2-gambon-dumbledore-pensieve-web-landscape",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/75dDe2oqjtyDJ071IJOmQL/d4d76cd00eee4da274020fdd636933a2/FB3-trailer-2-gambon-dumbledore-pensieve-web-landscape"
+                },
+                "title": "FB3-trailer-2-gambon-dumbledore-pensieve-web-landscape"
+              },
+              "imageAltText": "Dumbledore in his office looking into his Pensieve"
+            },
+            {
+              "_updatedAt": "2022-02-28T12:57:15.287000",
+              "contentTypeId": "textSection",
+              "contentfulId": "ZJ0d294nXC36L3FuXRUZS",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-4",
+              "text": "The trailer opens with Michael Gambon’s Dumbledore from the Harry Potter films standing over his Pensieve. He’s talking about the importance of memory. We wonder whether that will be an important theme of this film. And again, it’s always fun to see both the old and young Dumbledore side-by-side and have another opportunity to admire that beard progression!"
+            },
+            {
+              "_updatedAt": "2022-02-28T12:57:19.655000",
+              "contentTypeId": "textSection",
+              "contentfulId": "2p5tdwPLfu36w9GXI2ZOKo",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-5",
+              "text": "## Is Quidditch back?"
+            },
+            {
+              "_updatedAt": "2022-02-24T10:56:37.516000",
+              "contentTypeId": "image",
+              "contentfulId": "2nqfyjNPbus20kls5vULEh",
+              "entryTitle": "FB3-trailer-2-hogwarts-flying-quidditch-robes-web-landscape",
+              "image": {
+                "_updatedAt": "2022-02-24T10:56:32.019000",
+                "contentTypeId": "asset",
+                "contentfulId": "q7GfvvK9tkZ0pJUT6banE",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 838,
+                      "width": 2000
+                    },
+                    "size": 669660
+                  },
+                  "fileName": "FB3-trailer-2-hogwarts-flying-quidditch-robes-web-landscape",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/q7GfvvK9tkZ0pJUT6banE/e28e99f3fee963bf536a7e9e342c224d/FB3-trailer-2-hogwarts-flying-quidditch-robes-web-landscape"
+                },
+                "title": "FB3-trailer-2-hogwarts-flying-quidditch-robes-web-landscape"
+              },
+              "imageAltText": "A person in Gryffindor Quidditch robes flying over Hogwarts"
+            },
+            {
+              "_updatedAt": "2022-02-28T12:57:25.749000",
+              "contentTypeId": "textSection",
+              "contentfulId": "7cpbEHepMNsXSPRBKms8b3",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-6",
+              "text": "This is a moment we spotted in the first trailer. The person soaring above Hogwarts is wearing Gryffindor Quidditch robes… does that mean we will see some of that famous wizarding sport during the film? That would certainly be a lot of fun!"
+            },
+            {
+              "_updatedAt": "2022-02-28T12:57:30.270000",
+              "contentTypeId": "textSection",
+              "contentfulId": "68sPGHpCmPvsiC7GzUDx7j",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-7",
+              "text": "## Is that young McGonagall we spy?"
+            },
+            {
+              "_updatedAt": "2022-02-24T11:00:16.351000",
+              "contentTypeId": "image",
+              "contentfulId": "20pz9fWHcAaSw7q93F5Vbc",
+              "entryTitle": "FB3-trailer-2-young-mcgonagall-dumbledore-talking-web-landscape",
+              "image": {
+                "_updatedAt": "2022-02-24T11:00:07.298000",
+                "contentTypeId": "asset",
+                "contentfulId": "2CJ0u0Or7QzvRDFSR2xBIs",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 838,
+                      "width": 2000
+                    },
+                    "size": 586467
+                  },
+                  "fileName": "FB3-trailer-2-young-mcgonagall-dumbledore-talking-web-landscape",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/2CJ0u0Or7QzvRDFSR2xBIs/8c52e6743a2e23e85a9bb4896904713d/FB3-trailer-2-young-mcgonagall-dumbledore-talking-web-landscape"
+                },
+                "title": "FB3-trailer-2-young-mcgonagall-dumbledore-talking-web-landscape"
+              },
+              "imageAltText": "Professor McGonagall in the doorway talking to Dumbledore"
+            },
+            {
+              "_updatedAt": "2022-02-28T12:57:35.480000",
+              "contentTypeId": "textSection",
+              "contentfulId": "2wjXiKL6YgpOrIRefAu5Xu",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-8",
+              "text": "The Scottish accent. Calling Dumbledore by his first name. The air of authority. This has to be the one and only Professor McGonagall, doesn’t it? And what a fabulous outfit from the young Transfiguration professor. Although she doesn’t seem to be the bearer of good news in this scene..."
+            },
+            {
+              "_updatedAt": "2022-02-28T12:57:40.461000",
+              "contentTypeId": "textSection",
+              "contentfulId": "6iwA1JiSZSPO5SZ71WD8XB",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-9",
+              "text": "## Grindelwald has declared war on Muggles!"
+            },
+            {
+              "_updatedAt": "2022-02-24T10:58:27.342000",
+              "contentTypeId": "image",
+              "contentfulId": "2PYZOBgzR2PNDkMNxpyECd",
+              "entryTitle": "FB3-trailer-2-grindelwald-bhutan-web-landscape",
+              "image": {
+                "_updatedAt": "2022-02-24T10:57:24.443000",
+                "contentTypeId": "asset",
+                "contentfulId": "5a8ctjkBzCPd4BQFkQNUSk",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 838,
+                      "width": 2000
+                    },
+                    "size": 714501
+                  },
+                  "fileName": "FB3-trailer-2-grindelwald-bhutan-web-landscape",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/5a8ctjkBzCPd4BQFkQNUSk/b4d3b3f70d97ec78669cc30537d379f1/FB3-trailer-2-grindelwald-bhutan-web-landscape"
+                },
+                "title": "FB3-trailer-2-grindelwald-bhutan-web-landscape"
+              },
+              "imageAltText": "A closeup in Grindelwald in Bhutan"
+            },
+            {
+              "_updatedAt": "2022-02-28T12:57:45.408000",
+              "contentTypeId": "textSection",
+              "contentfulId": "3NsXbky1Ph8D8o69bTy66x",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-10",
+              "text": "We knew that Grindelwald was building up to something big. We knew he always wanted to make Muggles subservient to wizards. But now the moment where he makes his big move has apparently arrived. Side note – this looks like they are in Bhutan, which is another new location we’re seeing in this film…"
+            },
+            {
+              "_updatedAt": "2022-02-28T12:57:50.264000",
+              "contentTypeId": "textSection",
+              "contentfulId": "4V7gxsmIoT4NlQOf5UEg1a",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-11",
+              "text": "## Jacob is only reluctantly involved with the quest to defeat Grindelwald"
+            },
+            {
+              "_updatedAt": "2022-02-24T11:20:34.701000",
+              "contentTypeId": "image",
+              "contentfulId": "7gxW4YKGFOjKIDvCzcRT9K",
+              "entryTitle": "FB3-trailer-2-jacob-lally-jacobs-bakery-web-landscape",
+              "image": {
+                "_updatedAt": "2022-02-24T11:20:26.406000",
+                "contentTypeId": "asset",
+                "contentfulId": "d7angQwUTK4Aer6QprQhY",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 838,
+                      "width": 2000
+                    },
+                    "size": 643181
+                  },
+                  "fileName": "FB3-trailer-2-jacob-lally-jacobs-bakery-web-landscape",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/d7angQwUTK4Aer6QprQhY/9c26000fca6ede11c51a1536a56707d7/FB3-trailer-2-jacob-lally-jacobs-bakery-web-landscape"
+                },
+                "title": "FB3-trailer-2-jacob-lally-jacobs-bakery-web-landscape"
+              },
+              "imageAltText": "Jacob and Lally standing in Jacob's bakery"
+            },
+            {
+              "_updatedAt": "2022-02-28T12:57:55.460000",
+              "contentTypeId": "textSection",
+              "contentfulId": "2wj8stUDzmfuEsJmdZCUuy",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-12",
+              "text": "In the first trailer it seemed like Jacob was fully on board with the fight against Grindelwald, but this second one sheds new light on the situation. It looks like Jacob retreated to the safety of his bakery after the last film – well, who wouldn’t want to be surrounded by delicious pastries at all times? Although, those empty shelves make us wonder whether the bakery may have fallen on some hard times. Anyway, it appears as though Lally has had to use some… gentle persuasion to get him back on board."
+            },
+            {
+              "_updatedAt": "2022-02-28T12:57:59.525000",
+              "contentTypeId": "textSection",
+              "contentfulId": "6ylrONNRKoSoSbd2aUTL5h",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-13",
+              "text": "## Where are Newt, Lally, and Jacob? "
+            },
+            {
+              "_updatedAt": "2022-02-24T11:21:52.209000",
+              "contentTypeId": "image",
+              "contentfulId": "JICnHVqsc9Ayrrp0DAeHt",
+              "entryTitle": "FB3-trailer-2-jacob-lally-newt-running-web-landscape",
+              "image": {
+                "_updatedAt": "2022-02-24T11:21:20.898000",
+                "contentTypeId": "asset",
+                "contentfulId": "4xJRnv4oJw3ul21m6kdTwR",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 838,
+                      "width": 2000
+                    },
+                    "size": 862394
+                  },
+                  "fileName": "FB3-trailer-2-jacob-lally-newt-running-web-landscape",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/4xJRnv4oJw3ul21m6kdTwR/146666942cefda29e9a09cb369d133b9/FB3-trailer-2-jacob-lally-newt-running-web-landscape"
+                },
+                "title": "FB3-trailer-2-jacob-lally-newt-running-web-landscape"
+              },
+              "imageAltText": "Newt, Jacob and Lally running through the corridors of a building."
+            },
+            {
+              "_updatedAt": "2022-02-28T12:58:05.083000",
+              "contentTypeId": "textSection",
+              "contentfulId": "5UEWyMfbQDnbDMsOp3K4HM",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-14",
+              "text": "Firstly, who are they following? Secondly, where are they? This appears to be some kind of official building – like a Ministry of Magic. Though which one? We’re guessing that as they were trapped seconds later, they weren’t strictly meant to be there."
+            },
+            {
+              "_updatedAt": "2022-02-28T12:58:10.511000",
+              "contentTypeId": "textSection",
+              "contentfulId": "2axAJJjemivVnKwRiSAD9u",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-15",
+              "text": "## Is Jacob back on the Gigglewater?"
+            },
+            {
+              "_updatedAt": "2022-02-24T11:17:59.954000",
+              "contentTypeId": "image",
+              "contentfulId": "38e9hhQKQ6UNiy0xuVJqXn",
+              "entryTitle": "FB3-trailer-2-jacob-gigglewater-train-web-landscape",
+              "image": {
+                "_updatedAt": "2022-02-24T11:17:02.010000",
+                "contentTypeId": "asset",
+                "contentfulId": "5birXNTLrfAZk3379MxKpV",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 838,
+                      "width": 2000
+                    },
+                    "size": 897665
+                  },
+                  "fileName": "FB3-trailer-2-jacob-gigglewater-train-web-landscape",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/5birXNTLrfAZk3379MxKpV/024f199a501baf8c8dda1462477d032a/FB3-trailer-2-jacob-gigglewater-train-web-landscape"
+                },
+                "title": "FB3-trailer-2-jacob-gigglewater-train-web-landscape"
+              },
+              "imageAltText": "Jacob holding a drink while standing behind the bar on the train and grinning"
+            },
+            {
+              "_updatedAt": "2022-02-28T12:58:16.373000",
+              "contentTypeId": "textSection",
+              "contentfulId": "78TBPQDoKJAOGSu4HFSwvu",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-16",
+              "text": "We’d recognise that distinctive laugh anywhere – has Jacob had another glass of the hilarious Gigglewater? If so, it is a nice call-back to the first movie, where he and Queenie bonded over a shot at The Blind Pig speakeasy. Jacob is certainly holding a glass of something – though maybe he’s just happy to be back with his old friend Newt."
+            },
+            {
+              "_updatedAt": "2022-02-28T12:58:22.147000",
+              "contentTypeId": "textSection",
+              "contentfulId": "bghbJnWQjcr7f83KfwiAl",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-17",
+              "text": "## What is that message in front of Aberforth?"
+            },
+            {
+              "_updatedAt": "2022-02-24T11:01:30.927000",
+              "contentTypeId": "image",
+              "contentfulId": "3GpeWkWSxMfUdBoDGSRxsi",
+              "entryTitle": "FB3-trailer-2-aberforth-message-web-landscape",
+              "image": {
+                "_updatedAt": "2022-02-24T11:01:01.256000",
+                "contentTypeId": "asset",
+                "contentfulId": "2iQCMRfrYwUJ4tusw3ZFYZ",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 838,
+                      "width": 2000
+                    },
+                    "size": 612264
+                  },
+                  "fileName": "FB3-trailer-2-aberforth-message-web-landscape",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/2iQCMRfrYwUJ4tusw3ZFYZ/028d4d6d962ac010597a21622f5853ea/FB3-trailer-2-aberforth-message-web-landscape"
+                },
+                "title": "FB3-trailer-2-aberforth-message-web-landscape"
+              },
+              "imageAltText": "Aberforth is in the background and a message is written in front of him"
+            },
+            {
+              "_updatedAt": "2022-02-28T12:58:28.622000",
+              "contentTypeId": "textSection",
+              "contentfulId": "3Ie7BsHP1hKp1O6lUHKCyl",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-18",
+              "text": "The first trailer revealed that we get to meet Albus’ crotchety younger brother Aberforth, and we spy another glimpse of the younger Dumbledore in the second one. However, what is most curious is the mysterious message that is in front of him. We can only just make out the top line ‘Do you know’. What does the rest of the message contain? "
+            },
+            {
+              "_updatedAt": "2022-02-28T12:58:34.167000",
+              "contentTypeId": "textSection",
+              "contentfulId": "01DdHxiqkCMkneP3rkoNcz",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-19",
+              "text": "## Grindelwald and Dumbledore meet face-to-face!"
+            },
+            {
+              "_updatedAt": "2022-02-24T11:03:20.244000",
+              "contentTypeId": "image",
+              "contentfulId": "QcEsJ8zo7Rf6Vaonq4cnl",
+              "entryTitle": "FB3-trailer-2-dumbledore-grindelwald-cafe-web-landscape",
+              "image": {
+                "_updatedAt": "2022-02-24T11:02:37.890000",
+                "contentTypeId": "asset",
+                "contentfulId": "78Oggc1e1BGmU2vmQpBpsU",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 838,
+                      "width": 2000
+                    },
+                    "size": 490176
+                  },
+                  "fileName": "FB3-trailer-2-dumbledore-grindelwald-cafe-web-landscape",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/78Oggc1e1BGmU2vmQpBpsU/38aea08dafa698149b9b582a6c03d385/FB3-trailer-2-dumbledore-grindelwald-cafe-web-landscape"
+                },
+                "title": "FB3-trailer-2-dumbledore-grindelwald-cafe-web-landscape"
+              },
+              "imageAltText": "A closeup of Dumbledore looking annoyed while sat in a cafe"
+            },
+            {
+              "_updatedAt": "2022-02-28T12:58:39.777000",
+              "contentTypeId": "textSection",
+              "contentfulId": "6LUPvm70YiqyuJkmxJqjum",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-20",
+              "text": "Grindelwald and Dumbledore have a complicated history – but when it comes to the *Fantastic Beasts* films, we haven’t seen these two incredibly powerful wizards in the same place yet. However, it looks as though these two are having a rather tense reunion. Although, according to Rita Skeeter’s book, *The Life and Lies of Albus Dumbledore*, after their initial meeting as teenagers they didn’t see each other again until their famous duel of 1945. But how far can you really trust Rita? She’s hardly the most reliable source. We can’t help but wonder if this is a real meeting. Or could it be a dream?"
+            },
+            {
+              "_updatedAt": "2022-02-28T12:58:43.877000",
+              "contentTypeId": "textSection",
+              "contentfulId": "6T7IWtTYkpB1LxqFaHceg6",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-21",
+              "text": "## Is that the Deluminator?"
+            },
+            {
+              "_updatedAt": "2022-02-24T11:08:39.083000",
+              "contentTypeId": "image",
+              "contentfulId": "7tdrBmsEpwnKyYo325jLUS",
+              "entryTitle": "FB3-trailer-2-dumbledore-holding-deluminator-web-landscape",
+              "image": {
+                "_updatedAt": "2022-02-24T11:08:32.769000",
+                "contentTypeId": "asset",
+                "contentfulId": "1Kbg1aQOQ9mOZMz4lgLcKQ",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 838,
+                      "width": 2000
+                    },
+                    "size": 587041
+                  },
+                  "fileName": "FB3-trailer-2-dumbledore-holding-deluminator-web-landscape",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/1Kbg1aQOQ9mOZMz4lgLcKQ/e1714b13358b6bc7e399f845f62fc9fb/FB3-trailer-2-dumbledore-holding-deluminator-web-landscape"
+                },
+                "title": "FB3-trailer-2-dumbledore-holding-deluminator-web-landscape"
+              },
+              "imageAltText": "Dumbledore holding onto Credence while raising his Deluminator in the air"
+            },
+            {
+              "_updatedAt": "2022-02-28T12:58:49.193000",
+              "contentTypeId": "textSection",
+              "contentfulId": "2BPoLLIQmH42MJl3IvUkjF",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-22",
+              "text": "Is Dumbledore holding his very famous Deluminator in his hand? It’s rather similar to the one we saw in the Harry Potter films – especially with the intense light that it gives off. Also, thanks to Ron in *Deathly Hallows*, we know that this useful object can transport you from place to place, as it seems to do here."
+            },
+            {
+              "_updatedAt": "2022-02-28T12:58:54.114000",
+              "contentTypeId": "textSection",
+              "contentfulId": "3GRYhFDDL52UFuvdo42Y6L",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-23",
+              "text": "## There are people after Lally and Theseus"
+            },
+            {
+              "_updatedAt": "2022-02-24T11:22:56.704000",
+              "contentTypeId": "image",
+              "contentfulId": "7sSCxbjmNCS8CEwSlqzNJt",
+              "entryTitle": "FB3-trailer-2-lally-theseus-grindelwalds-followers-fighting-web-landscape",
+              "image": {
+                "_updatedAt": "2022-02-24T11:22:50.188000",
+                "contentTypeId": "asset",
+                "contentfulId": "46lICEOgQLBkoabcSEL7cy",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 838,
+                      "width": 2000
+                    },
+                    "size": 681222
+                  },
+                  "fileName": "FB3-trailer-2-lally-theseus-grindelwalds-followers-fighting-web-landscape",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/46lICEOgQLBkoabcSEL7cy/c34b882c841397f270079d7238fdd531/FB3-trailer-2-lally-theseus-grindelwalds-followers-fighting-web-landscape"
+                },
+                "title": "FB3-trailer-2-lally-theseus-grindelwalds-followers-fighting-web-landscape"
+              },
+              "imageAltText": "Theseus and Lally fighting Grindelwald's followers"
+            },
+            {
+              "_updatedAt": "2022-02-28T12:59:00.572000",
+              "contentTypeId": "textSection",
+              "contentfulId": "vb8MTNCK3cb3v80mCGRMl",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-24",
+              "text": "It looks as though Theseus and Lally are in a spot of bother. Could Grindelwald’s acolytes be after them? Though we don’t think we need to worry about them too much as they appear to be handling themselves if their nifty spell work is anything to go by."
+            },
+            {
+              "_updatedAt": "2022-02-28T12:59:04.685000",
+              "contentTypeId": "textSection",
+              "contentfulId": "7vubwYlQ4RJyBCfgzWZCnD",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-25",
+              "text": "## Teddy and Pickett coming to the rescue!"
+            },
+            {
+              "_updatedAt": "2022-02-24T11:30:23.130000",
+              "contentTypeId": "image",
+              "contentfulId": "2NMHgZ2Yoj1eWvahIK2FJD",
+              "entryTitle": "FB3-trailer-2-teddy-pickett-running-web-landscape",
+              "image": {
+                "_updatedAt": "2022-02-24T11:30:16.261000",
+                "contentTypeId": "asset",
+                "contentfulId": "1MzVdwD912wIz2puO9EjSR",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 838,
+                      "width": 2000
+                    },
+                    "size": 506825
+                  },
+                  "fileName": "FB3-trailer-2-teddy-pickett-running-web-landscape",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/1MzVdwD912wIz2puO9EjSR/bf1637579ce79fdc1aabd3d603a54311/FB3-trailer-2-teddy-pickett-running-web-landscape"
+                },
+                "title": "FB3-trailer-2-teddy-pickett-running-web-landscape"
+              },
+              "imageAltText": "Pickett holding a want while riding on Teddy's back. Teddy is holding an object in his mouth."
+            },
+            {
+              "_updatedAt": "2022-02-28T12:59:11.434000",
+              "contentTypeId": "textSection",
+              "contentfulId": "6qtIoill0PfwhzQ1XMjNNq",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-26",
+              "text": "Look who is back! We missed the Niffler in the last trailer and were thrilled to see the return of his cute, fluffy self here… not to mention to learn that his name is Teddy! And look at who is riding on Teddy’s back while brandishing a wand… Pickett! Name a more iconic duo. These two seem to be determinedly – and adorably – charging to the rescue. We wonder what Teddy has in his mouth? Obviously, it has a shiny symbol… he is a Niffler after all. "
+            },
+            {
+              "_updatedAt": "2022-02-28T12:59:15.978000",
+              "contentTypeId": "textSection",
+              "contentfulId": "gkcxEOjO0J6nRntg5hc8u",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-27",
+              "text": "## Dumbledore and Grindelwald are duelling!"
+            },
+            {
+              "_updatedAt": "2022-02-24T11:10:03.664000",
+              "contentTypeId": "image",
+              "contentfulId": "HjYX7rKaKDf7NKMy2ZCkP",
+              "entryTitle": "FB3-trailer-2-grindelwald-dumbledore-fighting-face-to-face-web-landscape",
+              "image": {
+                "_updatedAt": "2022-02-24T11:09:57.269000",
+                "contentTypeId": "asset",
+                "contentfulId": "4k9YMsxJEE6N6zqtKJSd7e",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 838,
+                      "width": 2000
+                    },
+                    "size": 595623
+                  },
+                  "fileName": "FB3-trailer-2-grindelwald-dumbledore-fighting-face-to-face-web-landscape",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/4k9YMsxJEE6N6zqtKJSd7e/e17013a58b69b31e20850d388f52d002/FB3-trailer-2-grindelwald-dumbledore-fighting-face-to-face-web-landscape"
+                },
+                "title": "FB3-trailer-2-grindelwald-dumbledore-fighting-face-to-face-web-landscape"
+              },
+              "imageAltText": "Dumbledore and Grindelwald grabbing each other while their wand are raised"
+            },
+            {
+              "_updatedAt": "2022-02-28T12:59:24.730000",
+              "contentTypeId": "textSection",
+              "contentfulId": "jDVQHbsP1OtYkXu24xKmB",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-28",
+              "text": "Things have quickly escalated between Dumbledore and Grindelwald. Yet, we know that their blood troth meant that they were unable to move against one another. We’re guessing things must have changed. We know Dumbledore managed to get hold of the troth in the last film (major shout out to Teddy for pinching it!), so has he managed to destroy it? Is that why they can now duel? Or again, is this meeting even real?"
+            },
+            {
+              "_updatedAt": "2022-02-28T12:59:30.672000",
+              "contentTypeId": "textSection",
+              "contentfulId": "7fc7HoWOE7GHDhKroMYsRi",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-29",
+              "text": "## Oh no! Theseus is in trouble!"
+            },
+            {
+              "_updatedAt": "2022-02-24T11:31:46.178000",
+              "contentTypeId": "image",
+              "contentfulId": "atDoTG4TpPd0oETFLApvl",
+              "entryTitle": "FB3-trailer-2-theseus-grabbed-by-creature-web-landscape",
+              "image": {
+                "_updatedAt": "2022-02-24T11:31:42.112000",
+                "contentTypeId": "asset",
+                "contentfulId": "6xEOp9bdJSlTZQEIWbJbjt",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 838,
+                      "width": 2000
+                    },
+                    "size": 963539
+                  },
+                  "fileName": "FB3-trailer-2-theseus-grabbed-by-creature-web-landscape",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/6xEOp9bdJSlTZQEIWbJbjt/b22818c317aac71c76664bd11d5b4d8b/FB3-trailer-2-theseus-grabbed-by-creature-web-landscape"
+                },
+                "title": "FB3-trailer-2-theseus-grabbed-by-creature-web-landscape"
+              },
+              "imageAltText": "Theseus being grabbed and captured by a large creature who mostly remains out of view"
+            },
+            {
+              "_updatedAt": "2022-02-28T12:59:36.009000",
+              "contentTypeId": "textSection",
+              "contentfulId": "1mClDjiiVFr8uKPxii0xtd",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-30",
+              "text": "Some horrible giant creature has grabbed hold of Theseus! We do hope Newt manages to rescue him. But it does mean that until the film is released, we will be constantly worrying about his fate."
+            },
+            {
+              "_updatedAt": "2022-02-28T12:59:42.423000",
+              "contentTypeId": "textSection",
+              "contentfulId": "2WPPJUJEtNw1OifjyMEXkf",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-31",
+              "text": "## Could that be Credence’s phoenix?"
+            },
+            {
+              "_updatedAt": "2022-02-24T11:28:55.559000",
+              "contentTypeId": "image",
+              "contentfulId": "44X2xt4hEJRvblauiOLonq",
+              "entryTitle": "FB3-trailer-2-phoenix-dumbledore-web-landscape",
+              "image": {
+                "_updatedAt": "2022-02-24T11:28:49.604000",
+                "contentTypeId": "asset",
+                "contentfulId": "2vLlcxlWcy4q2kmLtuyLnv",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 838,
+                      "width": 2000
+                    },
+                    "size": 494762
+                  },
+                  "fileName": "FB3-trailer-2-phoenix-dumbledore-web-landscape",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/2vLlcxlWcy4q2kmLtuyLnv/dff88274c66a4f4ef89542c2a9f83cd3/FB3-trailer-2-phoenix-dumbledore-web-landscape"
+                },
+                "title": "FB3-trailer-2-phoenix-dumbledore-web-landscape"
+              },
+              "imageAltText": "A phoenix spreading its wings while flying in front of Albus Dumbledore"
+            },
+            {
+              "_updatedAt": "2022-02-28T12:59:48.554000",
+              "contentTypeId": "textSection",
+              "contentfulId": "7GGhayYfiVkHjpC2PfS7NW",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-32",
+              "text": "We know that the Dumbledore family have ties with phoenixes. In fact, Albus even said in *Crimes of Grindelwald* that they will come to a Dumbledore when they are in desperate need. He also mentioned that his grandfather had one that took flight and never returned. This appears to be Credence’s phoenix that we met in the last film. What kind of trouble is brewing that would make them appear? "
+            },
+            {
+              "_updatedAt": "2022-02-28T12:59:53.775000",
+              "contentTypeId": "textSection",
+              "contentfulId": "axXtSDe42u9CFjQMWtnAx",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-33",
+              "text": "## Is Jacob using magic?"
+            },
+            {
+              "_updatedAt": "2022-02-24T11:19:34.556000",
+              "contentTypeId": "image",
+              "contentfulId": "EbdVEdwzAMSulK76kvIjO",
+              "entryTitle": "FB3-trailer-2-jacob-holding-wand-aloft-web-landscape",
+              "image": {
+                "_updatedAt": "2022-02-24T11:19:13.284000",
+                "contentTypeId": "asset",
+                "contentfulId": "7DnU4a6MdhsmW2jsh7qF8I",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 838,
+                      "width": 2000
+                    },
+                    "size": 1061157
+                  },
+                  "fileName": "FB3-trailer-2-jacob-holding-wand-aloft-web-landscape",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/7DnU4a6MdhsmW2jsh7qF8I/666d9fc1501f083ac72b2b57d57ce8a5/FB3-trailer-2-jacob-holding-wand-aloft-web-landscape"
+                },
+                "title": "FB3-trailer-2-jacob-holding-wand-aloft-web-landscape"
+              },
+              "imageAltText": "Jacob holding his wand aloft and appearing to perform magic"
+            },
+            {
+              "_updatedAt": "2022-02-28T12:59:59.086000",
+              "contentTypeId": "textSection",
+              "contentfulId": "11LijHA9SUD8poXP6HEi6A",
+              "entryTitle": "watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore-text-section-34",
+              "text": "In the first trailer we saw that Jacob had a wand – but we thought it might just be for show. We also saw him facing off against Queenie – and assumed she was the one using magic. Yet, this next trailer has already put a major hole in our theory. Not only is the wand more than a prop, but it looks like Jacob is behind the magical chaos. What does this mean? How is he using magic? Is he really a Muggle? Or is the wand enchanted? We’re desperate to find out…\n\nKeep visiting WizardingWorld.com or [register](https://my.wizardingworld.com/register/age-gate) with us and remember to opt-in to our newsletter for more updates on the *Fantastic Beasts* films – including the publication of the screenplay of *Fantastic Beasts: The Secrets of Dumbledore* in the English language by Little, Brown (U.K.), Scholastic (U.S.) and Pottermore Publishing (ebook) which will be published on 19 July 2022. More languages will also follow on that date.\n\nWe hope you enjoyed this second trailer as much as we did! We won’t blame you if you fancy another watch – or ten!\n"
+            }
+          ],
+          "tags": [
+            {
+              "_updatedAt": "2020-02-20T13:07:02.831000",
+              "contentTypeId": "tag",
+              "contentfulId": "L1Cef6BUiA2eC84VPklgq",
+              "name": "hide-from-app"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:06:54.732000",
+              "authorComment": "This excludes the content item from its index page i.e. quizzes run to Quiz section automatically, but for other Quiz content (publishing elsewhere) it excludes from Discover. ALL SECRET CODE OR ENCHANTED CONTENT",
+              "contentTypeId": "tag",
+              "contentfulId": "5pjGg1O8g0NYmdITUba28D",
+              "name": "hide-from-discover"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:07:09.645000",
+              "contentTypeId": "tag",
+              "contentfulId": "6PK6KxaPndhQsAFS54UCkr",
+              "name": "news"
+            }
+          ]
+        },
+        {
+          "_updatedAt": "2022-02-22T16:19:32.611000",
+          "activationDate": "2022-02-22T00:00:00",
+          "author": {
+            "_updatedAt": "2020-02-20T13:07:32.943000",
+            "contentTypeId": "author",
+            "contentfulId": "3moP55ZKIanB6wWwRtA4Ea",
+            "displayTitle": "Written by",
+            "entryTitle": "Signature-WizardingWorld",
+            "mainImage": {
+              "_updatedAt": "2019-08-01T11:07:44.068000",
+              "contentTypeId": "asset",
+              "contentfulId": "30OscCI83JoLGsI4MKRnJS",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 360,
+                    "width": 360
+                  },
+                  "size": 36037
+                },
+                "fileName": "WizardingWorldLogo.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/30OscCI83JoLGsI4MKRnJS/2ebebe784733ba3b6a185a8e404e57f7/WizardingWorldLogo.jpg"
+              },
+              "title": "Signature_Logo_WizardingWorld"
+            },
+            "title": "The Wizarding World Team"
+          },
+          "contentTypeId": "article",
+          "contentfulId": "CQHi5WrVETyWfYViHCRn3",
+          "displayTitle": "Revealed: The Fantastic Beasts: Secrets of Dumbledore posters",
+          "entryTitle": "WEB-NEWS-new-fb3-posters-revealed",
+          "externalId": "fantastic-beasts-secrets-of-dumbledore-posters",
+          "intro": "Today, we unpack a selection of new posters released for the upcoming film, Fantastic Beasts: Secrets of Dumbledore. Read on to discover new characters, familiar faces – and learn the name of Newt’s Niffler, who gets his very own poster too.",
+          "mainImage": {
+            "_updatedAt": "2022-02-22T14:01:24.486000",
+            "contentTypeId": "image",
+            "contentfulId": "7kDUBzjGWk5WdogSYObxYh",
+            "entryTitle": "fb3-poster-dumbledore-jude-law-crop",
+            "image": {
+              "_updatedAt": "2022-02-22T12:56:38.863000",
+              "contentTypeId": "asset",
+              "contentfulId": "4ALJlJJWdFAiZfrnyZJwU6",
+              "description": "",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 1021,
+                    "width": 1796
+                  },
+                  "size": 692019
+                },
+                "fileName": "fb3-poster-dumbledore-jude-law-crop.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/4ALJlJJWdFAiZfrnyZJwU6/935a0e3d27e0594f71b7ae8e9ebd772a/fb3-poster-dumbledore-jude-law-crop.jpg"
+              },
+              "title": "fb3-poster-dumbledore-jude-law-crop"
+            }
+          },
+          "publishDate": "2022-02-22T00:00:00",
+          "section": [
+            {
+              "_updatedAt": "2022-02-22T14:25:10.308000",
+              "contentTypeId": "textSection",
+              "contentfulId": "7xDjiWfL2OElqfMXFSM0sU",
+              "entryTitle": "fb3-posters-text-section-1",
+              "text": "*Watch how you go: we’ll be talking about spoilers for the first two Fantastic Beasts films here.* \n\n## Albus Dumbledore (Jude Law) "
+            },
+            {
+              "_updatedAt": "2022-02-22T11:39:14.613000",
+              "contentTypeId": "image",
+              "contentfulId": "3yvLncLjnTXovVWq8HGe2L",
+              "entryTitle": "fb3-poster-jude-law-full",
+              "image": {
+                "_updatedAt": "2022-02-22T11:36:52.389000",
+                "contentTypeId": "asset",
+                "contentfulId": "1soIBawzwa52bYit498iYy",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2371,
+                      "width": 1600
+                    },
+                    "size": 4930399
+                  },
+                  "fileName": "fb3-poster-jude-law-full.jpg",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/1soIBawzwa52bYit498iYy/8b67c35d5116f96c187e8ba27f4cc264/fb3-poster-jude-law-full.jpg"
+                },
+                "title": "fb3-poster-jude-law-full"
+              },
+              "imageAltText": "Poster of Jude Law as Albus Dumbledore in Fantastic Beasts: the Secrets of Dumbledore.",
+              "imageCaption": "Poster of Jude Law as Albus Dumbledore in Fantastic Beasts: the Secrets of Dumbledore."
+            },
+            {
+              "_updatedAt": "2022-02-22T11:37:41.962000",
+              "contentTypeId": "textSection",
+              "contentfulId": "3SIuh7jhUQY40KtPpSTO5g",
+              "entryTitle": "fb3-posters-text-section-2",
+              "text": "It was an absolute pleasure to be reacquainted with a younger Dumbledore in *The Crimes of Grindelwald*, and the future Hogwarts Headmaster looks set to be even more involved in this film. Many revelations came out about Dumbledore at the end of the last film, such as his blood pact with Grindelwald, and Grindelwald’s revelation that Credence may be part of his family. As this film is called ‘The Secrets of Dumbledore’, we’re guessing there are plenty more truths to be unveiled... and we’re guessing it goes deeper than the secret of how he keeps his beard so neat. \n\n## Newt Scamander (Eddie Redmayne) \n"
+            },
+            {
+              "_updatedAt": "2022-02-22T14:25:17.759000",
+              "contentTypeId": "image",
+              "contentfulId": "3kRJMDDRONOIcOFrHxYYyL",
+              "entryTitle": "fb3-poster-eddie-redmayne",
+              "image": {
+                "_updatedAt": "2022-02-22T11:43:21.762000",
+                "contentTypeId": "asset",
+                "contentfulId": "3xRiALYXy4mYlZ9OkmFTpF",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2667,
+                      "width": 1800
+                    },
+                    "size": 6390032
+                  },
+                  "fileName": "fb3-posters-eddie-redmayne.jpg",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/3xRiALYXy4mYlZ9OkmFTpF/cdfd51270cee674f5e6e004c5804002d/fb3-posters-eddie-redmayne.jpg"
+                },
+                "title": "fb3-poster-eddie-redmayne"
+              },
+              "imageAltText": "Poster of Eddie Redmayne as Newt Scamander in Fantastic Beasts: the Secrets of Dumbledore"
+            },
+            {
+              "_updatedAt": "2022-02-22T14:25:22.564000",
+              "contentTypeId": "textSection",
+              "contentfulId": "ekINruiiP7O43AvRxaGdp",
+              "entryTitle": "fb3-posters-text-section-3",
+              "text": "Many new heroes await us in the third film, and our magical creature loving Newt Scamander is back with his trusty case here. The modest Magizoologist was integral in both Grindelwald’s initial capture and the ensuing struggles after his escape – so we’re interested to see what he’ll bring to the table this time. As we know, Dumbledore is highly invested in him. Good to see Pickett is still firmly by his side too! \n\n## Teddy the Niffler  \n"
+            },
+            {
+              "_updatedAt": "2022-02-22T12:01:36.972000",
+              "contentTypeId": "image",
+              "contentfulId": "7frErKxDV2tGMzWByWuqdF",
+              "entryTitle": "fb3-posters-niffler",
+              "image": {
+                "_updatedAt": "2022-02-22T11:51:53.057000",
+                "contentTypeId": "asset",
+                "contentfulId": "77BW3OW4tz6AGODWQLjWev",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2667,
+                      "width": 1800
+                    },
+                    "size": 4689095
+                  },
+                  "fileName": "fb3-posters-niffler.jpg",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/77BW3OW4tz6AGODWQLjWev/f7a462471c8c2895854a0f57d5d5a906/fb3-posters-niffler.jpg"
+                },
+                "title": "fb3-posters-niffler"
+              },
+              "imageAltText": "Teddy the Niffler in the poster for Fantastic Beasts: The Secrets of Dumbledore"
+            },
+            {
+              "_updatedAt": "2022-02-22T11:59:17.697000",
+              "contentTypeId": "textSection",
+              "contentfulId": "2v3Os96R8O705YnYo4zjrN",
+              "entryTitle": "fb3-posters-text-section-4",
+              "text": "Teddy?? That’s right, Newt’s Niffler has a name! And we are already in love. This is the second “Teddy” we know of in the wizarding world, as many years in the future, Nymphadora Tonks and [Remus Lupin](https://www.wizardingworld.com/writing-by-jk-rowling/remus-lupin) would call their son the very same name. We’re thrilled that Teddy is getting a moment to shine here. \n\n## Pickett the Bowtruckle"
+            },
+            {
+              "_updatedAt": "2022-02-22T12:01:17.959000",
+              "contentTypeId": "image",
+              "contentfulId": "1OhKOdSWGaTEaQUOI4ak0P",
+              "entryTitle": "fb3-poster-bowtruckle",
+              "image": {
+                "_updatedAt": "2022-02-22T12:00:57.671000",
+                "contentTypeId": "asset",
+                "contentfulId": "4537ySbIRYPZQvWMwsG3xJ",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2667,
+                      "width": 1800
+                    },
+                    "size": 4054431
+                  },
+                  "fileName": "fb3-poster-pickett.jpg",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/4537ySbIRYPZQvWMwsG3xJ/f53f3ffc98c6578bdd59850780380676/fb3-poster-pickett.jpg"
+                },
+                "title": "fb3-poster-bowtruckle"
+              },
+              "imageAltText": "Pickett the Bowtruckle in the poster for Fantastic Beasts: the Secrets of Dumbledore"
+            },
+            {
+              "_updatedAt": "2022-02-22T12:02:28.323000",
+              "contentTypeId": "textSection",
+              "contentfulId": "3401Mig5yvgSJh32WEWLI9",
+              "entryTitle": "fb3-posters-text-section-5",
+              "text": "This extremely sassy pose from Newt’s other companion, Pickett the Bowtruckle, is making us bow-chuckle. We can excuse Pickett for nabbing a wand here, as it is literally a Bowtruckle’s job to protect wand wood trees. Good to see him back in the mix for the third escapade. Good luck, little friend. \n\n## Jacob Kowalski (Dan Fogler) "
+            },
+            {
+              "_updatedAt": "2022-02-22T12:04:58.585000",
+              "contentTypeId": "image",
+              "contentfulId": "6h4fKGcxlT8utPg0I0o7GI",
+              "entryTitle": "fb3-poster-jacob-kowalski",
+              "image": {
+                "_updatedAt": "2022-02-22T12:04:54.105000",
+                "contentTypeId": "asset",
+                "contentfulId": "6U6VkkfV1c65CqhnyZP0kE",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2667,
+                      "width": 1800
+                    },
+                    "size": 4025475
+                  },
+                  "fileName": "fb3-poster-jacob-kowalski.jpg",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/6U6VkkfV1c65CqhnyZP0kE/271873c0297bc7b8dc99c9b075049286/fb3-poster-jacob-kowalski.jpg"
+                },
+                "title": "fb3-poster-jacob-kowalski"
+              },
+              "imageAltText": "Dan Fogler as Jacob Kowalski in the poster for Fantastic Beasts: The Secrets of Dumbledore."
+            },
+            {
+              "_updatedAt": "2022-02-22T12:05:19.108000",
+              "contentTypeId": "textSection",
+              "contentfulId": "1cEM0F26pmlNHa2mBUo9UQ",
+              "entryTitle": "fb3-posters-text-section-6",
+              "text": "Our favourite non-magical character (Well it was hardly going to be Uncle Vernon, was it?) is back! And he’s looking distinctly more magical than we last remember, as our endearing baker is holding a wand here. We also saw him with a wand in the first trailer for this film. We are still unsure if this wand is simply a fake one or something more than that, but it seems to be particularly sparky here... \n\n## Theseus Scamander (Callum Turner)"
+            },
+            {
+              "_updatedAt": "2022-02-22T12:11:49.703000",
+              "contentTypeId": "image",
+              "contentfulId": "P7ILQWqVLiTDAG3rtxrK2",
+              "entryTitle": "fb3-poster-theseus-scamander",
+              "image": {
+                "_updatedAt": "2022-02-22T12:11:34.959000",
+                "contentTypeId": "asset",
+                "contentfulId": "70lnDRbZZ1MpbkiurKh1og",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2667,
+                      "width": 1800
+                    },
+                    "size": 5688646
+                  },
+                  "fileName": "fb3-poster-theseus-scamander.jpg",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/70lnDRbZZ1MpbkiurKh1og/1f140e1075dfb5a90069df0651586b60/fb3-poster-theseus-scamander.jpg"
+                },
+                "title": "fb3-poster-theseus-scamander"
+              },
+              "imageAltText": "Callum Turner as Theseus Scamander for the poster of Fantastic Beasts: the Secrets of Dumbledore"
+            },
+            {
+              "_updatedAt": "2022-02-22T12:12:19.122000",
+              "contentTypeId": "textSection",
+              "contentfulId": "0RhTBvh94L1E1fscfiTf0",
+              "entryTitle": "fb3-posters-text-section-7",
+              "text": "In *The Crimes of Grindewald*, Theseus was the subject of sibling rivalry with his brother Newt, as well as tragically losing his fiancé, Leta Lestrange, towards the film’s climax. We know that Theseus is far more intertwined in Newt’s journey this time around, and we expect the brothers will have let their differences lie in the wake of Leta’s passing. The extremely talented Auror will be an excellent team member to have in the fight against Grindelwald. \n\n## Lally Hicks (Jessica Williams) \n"
+            },
+            {
+              "_updatedAt": "2022-02-22T12:15:33.053000",
+              "contentTypeId": "image",
+              "contentfulId": "llCCMnvbFEW72Y9VGPCXA",
+              "entryTitle": "fb3-posters-lally-hicks",
+              "image": {
+                "_updatedAt": "2022-02-22T12:15:00.312000",
+                "contentTypeId": "asset",
+                "contentfulId": "5v42tEC3siNqLKkWi6mG9a",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2667,
+                      "width": 1800
+                    },
+                    "size": 4105153
+                  },
+                  "fileName": "fb3-posters-lally-hicks.jpg",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/5v42tEC3siNqLKkWi6mG9a/66d3586d08af87a8f2a68ea227747748/fb3-posters-lally-hicks.jpg"
+                },
+                "title": "fb3-posters-lally-hicks"
+              },
+              "imageAltText": "Jessica Williams as Lally Hicks in the Fantastic Beasts: the Secrets of Dumbledore poster"
+            },
+            {
+              "_updatedAt": "2022-02-22T12:17:23.130000",
+              "contentTypeId": "textSection",
+              "contentfulId": "57rSJ3jKLnizbClfrXcgrh",
+              "entryTitle": "fb3-posters-text-section-8",
+              "text": "We met Professor Hicks extremely briefly in *The Crimes of Grindelwald*, in a book at [Nicolas Flamel’s](https://www.wizardingworld.com/writing-by-jk-rowling/nicolas-flamel) home. Now, we are pleased to see her play a larger part, where we hope to learn more about not just her – but maybe the American wizarding school [Ilvermorny](https://www.wizardingworld.com/writing-by-jk-rowling/ilvermorny) too, where she is a professor. Newt and Dumbledore could certainly use a talented [Charms](https://www.wizardingworld.com/quiz/how-well-would-you-do-in-professor-flitwicks-charms-classes) teacher (her specialty) as part of their circle! \n\n## Bunty (Victoria Yeates)"
+            },
+            {
+              "_updatedAt": "2022-02-22T12:55:19.084000",
+              "contentTypeId": "image",
+              "contentfulId": "6tiHZ8PkSrXwoR6vFaXU9I",
+              "entryTitle": "fb3-posters-bunty",
+              "image": {
+                "_updatedAt": "2022-02-22T12:19:21.980000",
+                "contentTypeId": "asset",
+                "contentfulId": "SO29LuuT5A5tJ0gAgi2EI",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2519,
+                      "width": 1700
+                    },
+                    "size": 4456718
+                  },
+                  "fileName": "fb3-posters-bunty.jpg",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/SO29LuuT5A5tJ0gAgi2EI/5be0dd1ac9404dc658ba50ba2e5947b0/fb3-posters-bunty.jpg"
+                },
+                "title": "fb3-posters-bunty"
+              },
+              "imageAltText": "Bunty in the Fantastic Beasts: The Secrets of Dumbledore poster, played by Victoria Yeates."
+            },
+            {
+              "_updatedAt": "2022-02-22T12:20:29.556000",
+              "contentTypeId": "textSection",
+              "contentfulId": "4mTSHecJ40JUgF02dUQqW0",
+              "entryTitle": "fb3-posters-text-section-9",
+              "text": "Newt’s assistant Bunty gets her own poster! Which surely means she’ll be far more involved in the new film. Bunty is usually left in charge of Newt’s magical creatures when he goes off on his own adventures, but this time, it looks like she’s had a promotion! \n\n## Aberforth Dumbledore (Richard Coyle)"
+            },
+            {
+              "_updatedAt": "2022-02-22T16:11:34.978000",
+              "contentTypeId": "image",
+              "contentfulId": "VDURh4Pw3I3rplZrmRyUj",
+              "entryTitle": "fb3-postes-aberforth",
+              "image": {
+                "_updatedAt": "2022-02-22T12:22:03.043000",
+                "contentTypeId": "asset",
+                "contentfulId": "5deTgQDpgkCjofjhjMwxQC",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2667,
+                      "width": 1800
+                    },
+                    "size": 4002530
+                  },
+                  "fileName": "fb3-postes-aberforth.jpg",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/5deTgQDpgkCjofjhjMwxQC/fc244e95e7f877ef89074521c04e4a61/fb3-postes-aberforth.jpg"
+                },
+                "title": "fb3-poster-aberforth"
+              }
+            },
+            {
+              "_updatedAt": "2022-02-22T16:25:31.905000",
+              "contentTypeId": "textSection",
+              "contentfulId": "3IUSpNzv71Os51CaZJAty9",
+              "entryTitle": "fb3-posters-text-section-10",
+              "text": "That hat... that coat... it all looks rather familiar. Yes, this is Albus’s brother, [Aberforth,](https://www.wizardingworld.com/features/who-are-the-dumbledores) who we briefly met in the Harry Potter series, albeit many years into the future. We’re fascinated to learn more about Aberforth’s history in this film – and the fact he has his own poster feels rather promising!  \n\n## Yusuf Kama (William Nadylam)"
+            },
+            {
+              "_updatedAt": "2022-02-22T12:27:13.289000",
+              "contentTypeId": "image",
+              "contentfulId": "46tLN3tfXCA6Rg0lThE8IY",
+              "entryTitle": "fb3-poster-yusuf-kama",
+              "image": {
+                "_updatedAt": "2022-02-22T12:26:58.146000",
+                "contentTypeId": "asset",
+                "contentfulId": "2vxyP2ABX2qBgvoGVDoQOa",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2223,
+                      "width": 1500
+                    },
+                    "size": 3336267
+                  },
+                  "fileName": "fb3-poster-yusuf-kama.jpg",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/2vxyP2ABX2qBgvoGVDoQOa/51408415091cafc87ad0a13134fb2c2d/fb3-poster-yusuf-kama.jpg"
+                },
+                "title": "fb3-poster-yusuf-kama"
+              },
+              "imageAltText": "Yusuf Kama played by William Nadylam in the Fantastic Beasts: Secrets of Dumbledore poster."
+            },
+            {
+              "_updatedAt": "2022-02-22T16:25:44.091000",
+              "contentTypeId": "textSection",
+              "contentfulId": "5O0eY02kO8a08catZ8AJBP",
+              "entryTitle": "fb3-posters-text-section-10-again",
+              "text": "You’ll remember Yusuf, the enigmatic French wizard, from the second Fantastic Beasts film, where we learnt about his connections to Leta Lestrange’s family. Yusuf was a mysterious force in his first appearance in the films, so we’re truly fascinated to see where his story goes next.  \n\n## Gellert Grindelwald (Mads Mikkelsen)"
+            },
+            {
+              "_updatedAt": "2022-02-22T12:29:18.049000",
+              "contentTypeId": "image",
+              "contentfulId": "6XmvBNmhjJZFXx5J4Mkqqu",
+              "entryTitle": "fb3-posters-grindelwald",
+              "image": {
+                "_updatedAt": "2022-02-22T12:29:15.018000",
+                "contentTypeId": "asset",
+                "contentfulId": "2aMXFHucbxvdpeIzT5eEcn",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2075,
+                      "width": 1400
+                    },
+                    "size": 2851239
+                  },
+                  "fileName": "fb3-posters-grindelwald.jpg",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/2aMXFHucbxvdpeIzT5eEcn/aa9f2082d6a36e9a28b19745e0d76a30/fb3-posters-grindelwald.jpg"
+                },
+                "title": "fb3-posters-grindelwald"
+              }
+            },
+            {
+              "_updatedAt": "2022-02-22T16:12:26.187000",
+              "contentTypeId": "textSection",
+              "contentfulId": "6Im7CUBOKzQFQ0WqdY6jBK",
+              "entryTitle": "fb3-posters-text-section-11",
+              "text": "Gellert Grindelwald left the second Fantastic Beasts film in a strong position, having successfully assembled a band of supporters (including Queenie!) to further his personal battle against the Muggles, after revealing he knows a devastating world war will soon take place. Not only this, but he has also told Credence some vital information about his own past – if indeed, it is to be trusted. So, what now? Surely the only wizard powerful enough to stop him is Albus Dumbledore – but that blood pact still stands in between these two wizards. \n\n## Credence/Aurelius (Ezra Miller) \n"
+            },
+            {
+              "_updatedAt": "2022-02-22T12:31:56.462000",
+              "contentTypeId": "image",
+              "contentfulId": "7CGgVsxejKboQRbXsCgPVA",
+              "entryTitle": "fb3-poster-credence",
+              "image": {
+                "_updatedAt": "2022-02-22T12:31:52.081000",
+                "contentTypeId": "asset",
+                "contentfulId": "7eJtJ9vd3IRlONoz8ekqJW",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2223,
+                      "width": 1500
+                    },
+                    "size": 3785382
+                  },
+                  "fileName": "fb3-poster-credence.jpg",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/7eJtJ9vd3IRlONoz8ekqJW/a89075358eb8db21261b7c6fb0b12149/fb3-poster-credence.jpg"
+                },
+                "title": "fb3-poster-credence"
+              }
+            },
+            {
+              "_updatedAt": "2022-02-22T12:33:28.861000",
+              "contentTypeId": "textSection",
+              "contentfulId": "3etN647uDWhvKBzUkyu4GO",
+              "entryTitle": "fb3-posters-text-section-12",
+              "text": "As more mysteries develop around Credence, his hair seems to get even longer. We imagine there isn’t much time for haircuts when you’re learning about your past and fraternising with Gellert Grindelwald. For indeed, this is where we left Credence at the end of the last film – in Nurmengard with the Dark wizard, discovering secrets about his history. So, is this Credence, or is this Aurelius Dumbledore, as Grindelwald told him is his alleged birth name? And how will Credence’s life as an Obscurial affect him in this latest story? We’ll be watching with bated breath.\n\n## Queenie Goldstein (Alison Sudol) "
+            },
+            {
+              "_updatedAt": "2022-02-22T12:40:01.803000",
+              "contentTypeId": "image",
+              "contentfulId": "45WAwXfUjkNaHAqmHm9ulQ",
+              "entryTitle": "fb3-posters-queenie",
+              "image": {
+                "_updatedAt": "2022-02-22T12:35:36.884000",
+                "contentTypeId": "asset",
+                "contentfulId": "O3ZizsEOYBgu9kRNsjKv5",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2075,
+                      "width": 1400
+                    },
+                    "size": 2328285
+                  },
+                  "fileName": "fb3-posters-queenie.jpg",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/O3ZizsEOYBgu9kRNsjKv5/c03b8279556360994c59cef96480d00e/fb3-posters-queenie.jpg"
+                },
+                "title": "fb3-posters-queenie"
+              }
+            },
+            {
+              "_updatedAt": "2022-02-22T12:40:05.484000",
+              "contentTypeId": "textSection",
+              "contentfulId": "1BTyZzB3x23dOMOc8etSQe",
+              "entryTitle": "fb3-posters-text-section-13",
+              "text": "Oh, Queenie. The charming [Legilimens](https://www.wizardingworld.com/features/a-guide-to-legilimency) found herself going down a dark path in *Crimes of Grindelwald*, after she struggled to contend with the fact she could never marry Jacob due to American wizarding laws of the time restricting the unions of magical people and No-Majs. In the end, she sided with Grindelwald as a result of wanting to break down these strict laws. We were devastated to see Queenie crossover to join the Dark wizard – but where will she go in this film? We remain tentatively optimistic. \n\nSo that’s one Goldstein sister. But what about Tina? As mentioned in *Fantastic Beasts: The Crimes of Grindelwald*, Tina was reinstated as an Auror at MACUSA, so perhaps she’s off attending to official business? But, seeing as she will one day marry Newt Scamander, we’re pretty sure it won’t be long before she reappears!\n\n## Vinda Rosier (Poppy Corby-Tuech)\n"
+            },
+            {
+              "_updatedAt": "2022-02-22T12:40:10.217000",
+              "contentTypeId": "image",
+              "contentfulId": "5JLHENs81lfXTSNVShB3xJ",
+              "entryTitle": "fb3-posters-rosier",
+              "image": {
+                "_updatedAt": "2022-02-22T12:39:18.412000",
+                "contentTypeId": "asset",
+                "contentfulId": "3G2DXKeHpMDnkttrTdgxoS",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2075,
+                      "width": 1400
+                    },
+                    "size": 2261197
+                  },
+                  "fileName": "fb3-posters-rosier.jpg",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/3G2DXKeHpMDnkttrTdgxoS/d618f837e5c7c55e693a804606824615/fb3-posters-rosier.jpg"
+                },
+                "title": "fb3-posters-rosier"
+              }
+            },
+            {
+              "_updatedAt": "2022-02-22T15:07:20.223000",
+              "contentTypeId": "textSection",
+              "contentfulId": "7yTWdP093Vcn7jRJIzaABF",
+              "entryTitle": "fb3-posters-text-section-14-new",
+              "text": "The name “Rosier” has strong ties to the [dark side of the wizarding world](https://www.wizardingworld.com/quiz/the-death-eaters-quiz) – a future character also called Rosier was named as one of Voldemort’s Death Eaters in the Harry Potter stories. Here, we see another Rosier side with a different Dark wizard in the past, Gellert Grindelwald. We met this French witch in the previous film, who played her part in growing Grindelwald’s band of followers. Her loyalty to him seems unwavering so far... what will she get up to in this instalment? \n\n## Helmut (Aleksandr Kuznetsov)"
+            },
+            {
+              "_updatedAt": "2022-02-22T12:54:25.181000",
+              "contentTypeId": "image",
+              "contentfulId": "4l8vuoVem0jRGe1BgjIXn8",
+              "entryTitle": "fb3-posters-helmut",
+              "image": {
+                "_updatedAt": "2022-02-22T12:51:15.281000",
+                "contentTypeId": "asset",
+                "contentfulId": "6wNnwODVgZVadRKbqifJvi",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2223,
+                      "width": 1500
+                    },
+                    "size": 2896442
+                  },
+                  "fileName": "fb3-posters-helmut.jpg",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/6wNnwODVgZVadRKbqifJvi/599204d3a8c83fbe09a6f1dadc5b7f9b/fb3-posters-helmut.jpg"
+                },
+                "title": "fb3-posters-helmut"
+              }
+            },
+            {
+              "_updatedAt": "2022-02-22T14:53:57.838000",
+              "contentTypeId": "textSection",
+              "contentfulId": "xlUXxAJS7FTWyS3WROcQH",
+              "entryTitle": "fb3-posters-text-section-14-new (1)",
+              "text": "Helmut is a new character, not known to us before now.  He appears to be on Grindelwald’s side, but how does he fit into the story?  Watch this space…\n\n## Liu Tao (Dave Wong) "
+            },
+            {
+              "_updatedAt": "2022-02-22T14:25:30.164000",
+              "contentTypeId": "image",
+              "contentfulId": "6AuZnwa0ujxdc4TgUn8Age",
+              "entryTitle": "fb3-posters-Liu-Tao",
+              "image": {
+                "_updatedAt": "2022-02-22T12:43:10.013000",
+                "contentTypeId": "asset",
+                "contentfulId": "1b85JKOs4RYeJYLNEXCAz1",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2075,
+                      "width": 1400
+                    },
+                    "size": 2706246
+                  },
+                  "fileName": "fb3-posters-Liu-Tao.jpg",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/1b85JKOs4RYeJYLNEXCAz1/efee0818e22a22e658a8040cbe0fefa9/fb3-posters-Liu-Tao.jpg"
+                },
+                "title": "fb3-posters-Liu-Tao"
+              }
+            },
+            {
+              "_updatedAt": "2022-02-22T12:44:00.691000",
+              "contentTypeId": "textSection",
+              "contentfulId": "1TweQPG91ryteEwCLHoBT5",
+              "entryTitle": "fb3-posters-text-section-15",
+              "text": "Now here’s a brand new face we haven’t seen before! Liu Tao appears to be an authoritative character of some sort, judging by that suit. But who or what he’ll take charge of, we’ll have to wait and see.\n\n## Anton Vogel (Oliver Masucci)"
+            },
+            {
+              "_updatedAt": "2022-02-22T12:54:29.474000",
+              "contentTypeId": "image",
+              "contentfulId": "2VGv0lV343IN0MjGa2Wox",
+              "entryTitle": "fb3-posters-anton-vogel",
+              "image": {
+                "_updatedAt": "2022-02-22T12:45:35.797000",
+                "contentTypeId": "asset",
+                "contentfulId": "1j0mDc2yzUDwGffBFDouag",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2075,
+                      "width": 1400
+                    },
+                    "size": 2692429
+                  },
+                  "fileName": "fb3-posters-anton-vogel.jpg",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/1j0mDc2yzUDwGffBFDouag/692668c55cd167b929e92d45fa279fe9/fb3-posters-anton-vogel.jpg"
+                },
+                "title": "fb3-posters-anton-vogel"
+              }
+            },
+            {
+              "_updatedAt": "2022-02-22T12:54:34.028000",
+              "contentTypeId": "textSection",
+              "contentfulId": "16Djxr0X6KXPDOfEqJdM69",
+              "entryTitle": "fb3-posters-text-section-16",
+              "text": "Anton Vogel cuts a mysterious figure in an elegant outfit. But what side of the ensuing battle with Grindelwald is Anton on? \n\n## Vicência Santos  (Maria Fernanda Cândido)\n"
+            },
+            {
+              "_updatedAt": "2022-02-22T14:25:35.491000",
+              "contentTypeId": "image",
+              "contentfulId": "7gO4PLwdMTjJGFs2oiTbAl",
+              "entryTitle": "fb3-poster-Vicencia-Santos",
+              "image": {
+                "_updatedAt": "2022-02-22T12:48:45.747000",
+                "contentTypeId": "asset",
+                "contentfulId": "0JvyUjmNSiqsje94Qmnh",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2075,
+                      "width": 1400
+                    },
+                    "size": 2521642
+                  },
+                  "fileName": "fb3-poster-Vicencia-Santos.jpg",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/0JvyUjmNSiqsje94Qmnh/c409783096e5e46dad8fca80e0e2eb84/fb3-poster-Vicencia-Santos.jpg"
+                },
+                "title": "fb3-poster-Vicencia-Santos"
+              }
+            },
+            {
+              "_updatedAt": "2022-02-22T12:54:38.711000",
+              "contentTypeId": "textSection",
+              "contentfulId": "1KAAziPLGJ6djtenazfVSI",
+              "entryTitle": "fb3-posters-text-section-17",
+              "text": "Our final figure boasts tall hair and an elegant outfit. Again, another authoritative presence, perhaps? Note that none of these three characters in the final three posters seem to be holding wands either. So, are they even witches or wizards – or Muggles embroiled in the fight against Grindelwald? Perhaps we’ve over-thinking. But time will soon tell! "
+            }
+          ],
+          "tags": [
+            {
+              "_updatedAt": "2020-02-20T13:07:09.645000",
+              "contentTypeId": "tag",
+              "contentfulId": "6PK6KxaPndhQsAFS54UCkr",
+              "name": "news"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:07:02.831000",
+              "contentTypeId": "tag",
+              "contentfulId": "L1Cef6BUiA2eC84VPklgq",
+              "name": "hide-from-app"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:06:54.732000",
+              "authorComment": "This excludes the content item from its index page i.e. quizzes run to Quiz section automatically, but for other Quiz content (publishing elsewhere) it excludes from Discover. ALL SECRET CODE OR ENCHANTED CONTENT",
+              "contentTypeId": "tag",
+              "contentfulId": "5pjGg1O8g0NYmdITUba28D",
+              "name": "hide-from-discover"
+            }
+          ],
+          "teaserImage": {
+            "_updatedAt": "2022-02-22T14:24:57.494000",
+            "contentTypeId": "image",
+            "contentfulId": "1iiBS1XaynOgLyFdVD9HcS",
+            "entryTitle": "FB3-poster-jude-law-crop",
+            "image": {
+              "_updatedAt": "2022-02-22T14:01:15.924000",
+              "contentTypeId": "asset",
+              "contentfulId": "1cKfiu7CXroujwu26bVxxD",
+              "description": "",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 1239,
+                    "width": 1239
+                  },
+                  "size": 2185296
+                },
+                "fileName": "jude-law-dumbledore-square.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/1cKfiu7CXroujwu26bVxxD/c2e02262ef2e18408facaa4c5a8992e9/jude-law-dumbledore-square.jpg"
+              },
+              "title": "FB3-poster-jude-law-crop"
+            }
+          }
+        }
+      ],
+      "searchDescription": "Stay up to date with the latest Wizarding World news here. Faster than an owl and more accurate than the Daily Prophet.",
+      "searchTitle": "News",
+      "shortDescription": "Get the latest Wizarding World news here. Faster than an owl and more accurate than the Daily Prophet"
+    },
+    "moreToExplore": [
+      {
+        "__typename": "ContentDoc",
+        "id": "5p3NjOKptXjjjdUlzW67MO:en-GB",
+        "body": {
+          "_updatedAt": "2022-03-16T13:53:51.230000",
+          "activationDate": "2022-03-15T00:00:00",
+          "author": {
+            "_updatedAt": "2020-02-20T13:07:32.943000",
+            "contentTypeId": "author",
+            "contentfulId": "3moP55ZKIanB6wWwRtA4Ea",
+            "displayTitle": "Written by",
+            "entryTitle": "Signature-WizardingWorld",
+            "mainImage": {
+              "_updatedAt": "2019-08-01T11:07:44.068000",
+              "contentTypeId": "asset",
+              "contentfulId": "30OscCI83JoLGsI4MKRnJS",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 360,
+                    "width": 360
+                  },
+                  "size": 36037
+                },
+                "fileName": "WizardingWorldLogo.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/30OscCI83JoLGsI4MKRnJS/2ebebe784733ba3b6a185a8e404e57f7/WizardingWorldLogo.jpg"
+              },
+              "title": "Signature_Logo_WizardingWorld"
+            },
+            "title": "The Wizarding World Team"
+          },
+          "contentTypeId": "article",
+          "contentfulId": "5p3NjOKptXjjjdUlzW67MO",
+          "displayTitle": "Quiz Championship: Fantastic Beasts edition is coming soon! ",
+          "entryTitle": "WEB-FEATURE-quiz-championship-2022",
+          "externalId": "quiz-championship-fantastic-beasts-edition-coming-soon",
+          "intro": "Did you partake in our festive Quiz Championship last year? Well, the time to earn points for your house is fast returning, as we celebrate the launch of Fantastic Beasts: The Secrets of Dumbledore with another epic trivia challenge.",
+          "mainImage": {
+            "_updatedAt": "2022-03-16T12:43:30.054000",
+            "contentTypeId": "image",
+            "contentfulId": "7c5qzfw3VGF6WYEXZ0MFAD",
+            "entryTitle": "fantastic-beasts-quiz-championship-main-header",
+            "image": {
+              "_updatedAt": "2022-03-16T12:43:27.486000",
+              "contentTypeId": "asset",
+              "contentfulId": "5s2hPof52R3XyZunuKIptL",
+              "description": "",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 1740,
+                    "width": 2800
+                  },
+                  "size": 1203580
+                },
+                "fileName": "WW HP backgrounds_Hogwarts.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/5s2hPof52R3XyZunuKIptL/7e237b9bb2cd216c677dcfdad0b2b97b/WW_HP_backgrounds_Hogwarts.jpg"
+              },
+              "title": "fantastic-beasts-quiz-championship-main-header"
+            }
+          },
+          "publishDate": "2022-03-15T00:00:00",
+          "section": [
+            {
+              "_updatedAt": "2022-03-16T12:24:28.755000",
+              "contentTypeId": "textSection",
+              "contentfulId": "27QdTcTBOlhwR4fF4MiN1T",
+              "entryTitle": "quiz-championship-fantastic-beasts-edition-text-section-1",
+              "text": "Our next Quiz Championship is coming soon on Thursday 24th March, and this time, we are challenging you to answer questions on Fantastic Beasts and the wizarding world. As we ready ourselves for the launch of the latest film in the Fantastic Beasts series, *Fantastic Beasts: The Secrets of Dumbledore*, you can expect questions on the titular character Albus Dumbledore, alongside some general knowledge on the first and second films. The perfect excuse for a binge watch before the new film comes out! Oh, and keep your Harry Potter knowledge on point too, because we’ll be throwing in a few wizarding world connections in this quiz too. "
+            },
+            {
+              "_updatedAt": "2022-03-16T12:24:35.498000",
+              "activationDate": "2022-03-15T00:00:00",
+              "contentTypeId": "video",
+              "contentfulId": "2gw2ieJ27X1971vhebDbA",
+              "displayTitle": "Quiz Championship recap",
+              "entryTitle": "quiz-championship-recap",
+              "externalId": "quiz-championship-recap",
+              "mainImage": {
+                "_updatedAt": "2022-03-15T14:58:59.691000",
+                "contentTypeId": "image",
+                "contentfulId": "7zv9QGqcQBpUR33EqhQOiH",
+                "entryTitle": "quiz-champ-recap",
+                "image": {
+                  "_updatedAt": "2022-03-15T14:58:56.849000",
+                  "contentTypeId": "asset",
+                  "contentfulId": "7nA584ulDI6taTyE9rPB0y",
+                  "description": "",
+                  "file": {
+                    "contentType": "image/jpeg",
+                    "details": {
+                      "image": {
+                        "height": 1075,
+                        "width": 2000
+                      },
+                      "size": 796712
+                    },
+                    "fileName": "quiz-champ-recap.jpg",
+                    "url": "//images.ctfassets.net/usf1vwtuqyxm/7nA584ulDI6taTyE9rPB0y/335f55751eee31112cf4fef73cd127f6/quiz-champ-recap.jpg"
+                  },
+                  "title": "quiz-champ-recap"
+                }
+              },
+              "videoFileSource": "https://video.wizardingworld.com/quiz-champ-2022/h264/playlist.m3u8"
+            },
+            {
+              "_updatedAt": "2022-03-16T12:24:42.519000",
+              "contentTypeId": "textSection",
+              "contentfulId": "1Mdhf5UbgluKmzyQeR49Vc",
+              "entryTitle": "quiz-championship-fantastic-beasts-edition-text-section-2",
+              "text": "Now, there is only one round of this latest Quiz Championship, so expect a bumper pack of questions (30, to be specific) – and be sure to think extra-carefully as you go through. There will be no second chances! \n\nFor those who missed our first Quiz Championship, you can still sign up  and sort yourself into your Hogwarts house right now. Then, once our quiz launches, you’ll gain a point for every correct quiz answer. Last time, Ravenclaws were the champions (we guess their wit beyond measure certainly helped...) so it’s up to you and your fellow house members to make a difference this time – or indeed, if you’re a Ravenclaw, retain your title. \n\n__Here are the basics you need to know to get involved:__ \n\n1.\tLog in or register with us to get sorted into your Hogwarts house.\n2.\tComplete our quiz on the 24th March to secure house points and steer your house to victory! \n3.\tNote that your score (on your first attempt) will be added to your Hogwarts house’s total.\n4.\tCelebrate your victory/congratulate the winning house through gritted teeth accordingly. \n\n****\n\nWhile you wait for the quiz to begin, why not do a little studying to get ahead of the game? Go to our app and type in the secret code FBQUIZCHAMPIONSHIP to find some handy materials that may give you the edge. It’s the Hermione-way. \n\nYou can download the app right here or with the handy QR below.\n\n![wizarding-world-app-qr-code-with-padding](//images.ctfassets.net/usf1vwtuqyxm/19sj3D6vOwqCj1FAWayhW7/25a5a201a196b9e9b4bc03a44b34db34/QR-wizarding-world-app-code-with-padding.png)\n\nThe winning Hogwarts house will be celebrated online, where you can expect our website to be adorned in the colours of the winner – just like you would see in the Great Hall at Hogwarts. \n\nFor now, we wish you happy studying, happy Fantastic Beasts re-watching, and a big hearty good luck. Can Ravenclaw defeat the competition for a second time? Time shall tell. "
+            }
+          ],
+          "tags": [
+            {
+              "_updatedAt": "2020-02-20T13:07:09.645000",
+              "contentTypeId": "tag",
+              "contentfulId": "6PK6KxaPndhQsAFS54UCkr",
+              "name": "news"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:07:02.831000",
+              "contentTypeId": "tag",
+              "contentfulId": "L1Cef6BUiA2eC84VPklgq",
+              "name": "hide-from-app"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:06:54.732000",
+              "authorComment": "This excludes the content item from its index page i.e. quizzes run to Quiz section automatically, but for other Quiz content (publishing elsewhere) it excludes from Discover. ALL SECRET CODE OR ENCHANTED CONTENT",
+              "contentTypeId": "tag",
+              "contentfulId": "5pjGg1O8g0NYmdITUba28D",
+              "name": "hide-from-discover"
+            },
+            {
+              "_updatedAt": "2022-03-10T18:30:34.826000",
+              "authorComment": "Used for GA stats related to the tier 1 and 2 campaigns",
+              "contentTypeId": "tag",
+              "contentfulId": "v1bJadkYYEyerNFlawvd9",
+              "name": "campaign-fb3"
+            }
+          ],
+          "relatedArticleReference": []
+        },
+        "contentTypeId": "article"
+      },
+      {
+        "__typename": "ContentDoc",
+        "id": "7phj1Lfje1jL1rj7GnVCrN:en-GB",
+        "body": {
+          "_updatedAt": "2022-03-09T12:13:15.243000",
+          "activationDate": "2022-03-07T00:00:00",
+          "author": {
+            "_updatedAt": "2020-02-20T13:07:32.943000",
+            "contentTypeId": "author",
+            "contentfulId": "3moP55ZKIanB6wWwRtA4Ea",
+            "displayTitle": "Written by",
+            "entryTitle": "Signature-WizardingWorld",
+            "mainImage": {
+              "_updatedAt": "2019-08-01T11:07:44.068000",
+              "contentTypeId": "asset",
+              "contentfulId": "30OscCI83JoLGsI4MKRnJS",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 360,
+                    "width": 360
+                  },
+                  "size": 36037
+                },
+                "fileName": "WizardingWorldLogo.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/30OscCI83JoLGsI4MKRnJS/2ebebe784733ba3b6a185a8e404e57f7/WizardingWorldLogo.jpg"
+              },
+              "title": "Signature_Logo_WizardingWorld"
+            },
+            "title": "The Wizarding World Team"
+          },
+          "contentTypeId": "article",
+          "contentfulId": "7phj1Lfje1jL1rj7GnVCrN",
+          "displayTitle": "Cursed Child officially opens in San Francisco after stunning premiere ",
+          "entryTitle": "SF-cursed-child-opening-night-recap",
+          "externalId": "cursed-child-san-francisco-premiere-recap",
+          "intro": "Harry Potter and the Cursed Child finally had its grand opening at the Curran Theater in San Francisco. Catch up on all the action here!",
+          "mainImage": {
+            "_updatedAt": "2022-03-07T11:39:17.947000",
+            "contentTypeId": "image",
+            "contentfulId": "Lvs1wXKSptTk9fK44rTx7",
+            "entryTitle": "cursed-child-san-francisco-opening-night-stage-shot",
+            "image": {
+              "_updatedAt": "2022-03-07T11:39:15.805000",
+              "contentTypeId": "asset",
+              "contentfulId": "5Ni4xK7vdm4P3GmLIJOwzw",
+              "description": "",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 2667,
+                    "width": 4000
+                  },
+                  "size": 5999925
+                },
+                "fileName": "5016-hpcc-220224.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/5Ni4xK7vdm4P3GmLIJOwzw/a64887996895e2375b1cd75474db12ad/5016-hpcc-220224.jpg"
+              },
+              "title": "cursed-child-san-francisco-opening-night-stage-shot"
+            }
+          },
+          "publishDate": "2022-03-07T00:00:00",
+          "section": [
+            {
+              "_updatedAt": "2022-03-07T12:55:42.842000",
+              "contentTypeId": "textSection",
+              "contentfulId": "4MGJHW92y1aSdYsPqGxgre",
+              "entryTitle": "cursed-child-sf-opening-night-text-section",
+              "text": "Watch back on this emotional montage of Cursed Child’s opening night in San Francisco, where cast, crew and fans came together for a very magical event. "
+            },
+            {
+              "_updatedAt": "2022-03-07T12:55:39.090000",
+              "activationDate": "2022-03-07T00:00:00",
+              "contentTypeId": "video",
+              "contentfulId": "1lwqhRKYkTvSFCWg4aCKh0",
+              "displayTitle": "Cursed Child San Francisco opening night",
+              "entryTitle": "Cursed-Child-San-Fran-premiere-2022",
+              "externalId": "cursed-child-san-francisco-openiing-night",
+              "mainImage": {
+                "_updatedAt": "2022-03-07T11:32:45.999000",
+                "contentTypeId": "image",
+                "contentfulId": "6H4CKhHqCoTmkguSrAHnX7",
+                "entryTitle": "cursed-child-sf-opening-thumbnail",
+                "image": {
+                  "_updatedAt": "2022-03-07T11:32:37.899000",
+                  "contentTypeId": "asset",
+                  "contentfulId": "4y8vOFgQIGDZXxHq8rnq8P",
+                  "description": "",
+                  "file": {
+                    "contentType": "image/jpeg",
+                    "details": {
+                      "image": {
+                        "height": 2667,
+                        "width": 4000
+                      },
+                      "size": 2172915
+                    },
+                    "fileName": "1008-hpcc-220224.jpg",
+                    "url": "//images.ctfassets.net/usf1vwtuqyxm/4y8vOFgQIGDZXxHq8rnq8P/c8d30453b909d653602a88e40301619e/1008-hpcc-220224.jpg"
+                  },
+                  "title": "cursed-child-sf-opening-thumbnail"
+                }
+              },
+              "videoFileSource": "https://video.wizardingworld.com/cursed-child-grand-opening-sf/h264/playlist.m3u8"
+            },
+            {
+              "_updatedAt": "2022-03-07T13:04:00.524000",
+              "contentTypeId": "textSection",
+              "contentfulId": "49jr7ZiAyzQqWnOpa0eU9U",
+              "entryTitle": "cursed-child-sf-opening-night-text-section-2",
+              "text": "Before the show, San Francisco’s City Hall was proudly lit up in Hogwarts house colours, with Mayor London Breed (who got sorted into Gryffindor during the festivities) making an apearance.\n\nSan Francisco's production of Cursed Child has been boldly restaged as one singular performance by the award-winning creative team, with the entire venue transformed to immerse visitors into the wizarding world. \n\nThe San Francisco cast includes John Skelley as Harry Potter, Angela Reed as Ginny Potter, alongside Benjamin Papac as their son Albus Potter; Steve O’Connell as Ron Weasley, Lily Mojekwu as Hermione Granger, and Folami Williams as their daughter Rose Granger-Weasley; and Lucas Hall as Draco Malfoy, and Jon Steiger as his son Scorpius Malfoy."
+            },
+            {
+              "_updatedAt": "2022-03-07T12:55:30.424000",
+              "contentTypeId": "image",
+              "contentfulId": "29UgWmRScEnBNs6rFhLaro",
+              "entryTitle": "san-francisco-city-hall-cursed-child-opening-night",
+              "image": {
+                "_updatedAt": "2022-03-07T12:55:27.660000",
+                "contentTypeId": "asset",
+                "contentfulId": "5FiLQ7denBlAEdMVDHerwM",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2667,
+                      "width": 4000
+                    },
+                    "size": 1493013
+                  },
+                  "fileName": "1900-hpcc-220224.jpg",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/5FiLQ7denBlAEdMVDHerwM/ddf8b07476ed69d0970ecb5a633bf92f/1900-hpcc-220224.jpg"
+                },
+                "title": "san-francisco-city-hall-cursed-child-opening-night"
+              }
+            },
+            {
+              "_updatedAt": "2022-03-07T13:04:18.373000",
+              "contentTypeId": "textSection",
+              "contentfulId": "w9y604ub9cKZpzFZnqZ5V",
+              "entryTitle": "cursed-child-sf-opening-night-text-section-3",
+              "text": "For details on how Cursed Child's performances in San Francisco, visit their [official website in this territory.](https://sf.harrypottertheplay.com/) Tickets ($59–$199) are currently on-sale through Sunday, September 4, 2022. \n\nAnd be sure to [keep visiting our Cursed Chid hub for all the latest news on the eighth story.](https://www.wizardingworld.com/collections/cursed-child-collection)"
+            },
+            {
+              "_updatedAt": "2022-03-07T11:39:17.947000",
+              "contentTypeId": "image",
+              "contentfulId": "Lvs1wXKSptTk9fK44rTx7",
+              "entryTitle": "cursed-child-san-francisco-opening-night-stage-shot",
+              "image": {
+                "_updatedAt": "2022-03-07T11:39:15.805000",
+                "contentTypeId": "asset",
+                "contentfulId": "5Ni4xK7vdm4P3GmLIJOwzw",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2667,
+                      "width": 4000
+                    },
+                    "size": 5999925
+                  },
+                  "fileName": "5016-hpcc-220224.jpg",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/5Ni4xK7vdm4P3GmLIJOwzw/a64887996895e2375b1cd75474db12ad/5016-hpcc-220224.jpg"
+                },
+                "title": "cursed-child-san-francisco-opening-night-stage-shot"
+              }
+            }
+          ],
+          "tags": [
+            {
+              "_updatedAt": "2020-02-20T13:07:09.645000",
+              "contentTypeId": "tag",
+              "contentfulId": "6PK6KxaPndhQsAFS54UCkr",
+              "name": "news"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:07:02.831000",
+              "contentTypeId": "tag",
+              "contentfulId": "L1Cef6BUiA2eC84VPklgq",
+              "name": "hide-from-app"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:06:54.732000",
+              "authorComment": "This excludes the content item from its index page i.e. quizzes run to Quiz section automatically, but for other Quiz content (publishing elsewhere) it excludes from Discover. ALL SECRET CODE OR ENCHANTED CONTENT",
+              "contentTypeId": "tag",
+              "contentfulId": "5pjGg1O8g0NYmdITUba28D",
+              "name": "hide-from-discover"
+            }
+          ],
+          "relatedArticleReference": []
+        },
+        "contentTypeId": "article"
+      },
+      {
+        "__typename": "ContentDoc",
+        "id": "4MT495RySOMXDJ4svh1QX4:en-GB",
+        "body": {
+          "_updatedAt": "2022-02-17T15:00:06.157000",
+          "activationDate": "2022-02-17T00:00:00",
+          "author": {
+            "_updatedAt": "2020-02-20T13:07:32.943000",
+            "contentTypeId": "author",
+            "contentfulId": "3moP55ZKIanB6wWwRtA4Ea",
+            "displayTitle": "Written by",
+            "entryTitle": "Signature-WizardingWorld",
+            "mainImage": {
+              "_updatedAt": "2019-08-01T11:07:44.068000",
+              "contentTypeId": "asset",
+              "contentfulId": "30OscCI83JoLGsI4MKRnJS",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 360,
+                    "width": 360
+                  },
+                  "size": 36037
+                },
+                "fileName": "WizardingWorldLogo.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/30OscCI83JoLGsI4MKRnJS/2ebebe784733ba3b6a185a8e404e57f7/WizardingWorldLogo.jpg"
+              },
+              "title": "Signature_Logo_WizardingWorld"
+            },
+            "title": "The Wizarding World Team"
+          },
+          "contentTypeId": "article",
+          "contentfulId": "4MT495RySOMXDJ4svh1QX4",
+          "displayTitle": "An exclusive first look at images from the illustrated edition of Harry Potter and the Order of the Phoenix",
+          "entryTitle": "WEB-NEWS-exclusive-first-look-at-the-illustrated-order-of-the-phoenix",
+          "externalId": "exclusive-first-look-at-the-illustrated-order-of-the-phoenix",
+          "intro": "We take a sneak peek at Jim Kay and guest collaborator Neil Packer’s illustrated edition of Harry Potter and the Order of the Phoenix – packed full of your favourite characters, places and so much more.",
+          "mainImage": {
+            "_updatedAt": "2022-02-15T13:16:22.272000",
+            "contentTypeId": "image",
+            "contentfulId": "3imAINXOFH9xhvlovQuDWV",
+            "entryTitle": "HP5-order-of-the-phoenix-grimmauld-place-twelve-hidden-web-landscape",
+            "image": {
+              "_updatedAt": "2022-02-15T13:16:10.653000",
+              "contentTypeId": "asset",
+              "contentfulId": "6OMzBtBcnJ3tmXCorqEXGA",
+              "description": "",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 1186,
+                    "width": 2000
+                  },
+                  "size": 2850395
+                },
+                "fileName": "HP5-order-of-the-phoenix-grimmauld-place-twelve-hidden-web-landscape",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/6OMzBtBcnJ3tmXCorqEXGA/74a0a9e025c61133d0e24ec1d21eb34d/HP5-order-of-the-phoenix-grimmauld-place-twelve-hidden-web-landscape"
+              },
+              "title": "HP5-order-of-the-phoenix-grimmauld-place-twelve-hidden-web-landscape"
+            },
+            "imageAltText": "An illustration of Grimmauld Place where number twelve is hidden"
+          },
+          "publishDate": "2022-02-17T00:00:00",
+          "section": [
+            {
+              "_updatedAt": "2022-02-16T10:36:32.126000",
+              "contentTypeId": "textSection",
+              "contentfulId": "3szPKXdIPFVksqgejiXFWQ",
+              "entryTitle": "exclusive-first-look-at-the-illustrated-order-of-the-phoenix-text-section-1",
+              "text": "Bloomsbury and Scholastic have announced that the much anticipated illustrated version of Harry Potter’s fifth adventure is set to be published on 11th October. Not only does this edition once again bring together the extraordinary talents of J.K. Rowling and Jim Kay, but also features award-winning illustrator Neil Packer.\n\nIf you take a close look at the incredible jacket illustration you will see Dumbledore’s Army practising their Patronus skills. Can you spot Hermione summoning her silvery otter? Or Harry and Cho watching her swan soar above the Room of Requirement?"
+            },
+            {
+              "_updatedAt": "2022-02-16T10:35:41.372000",
+              "contentTypeId": "image",
+              "contentfulId": "4zSsYv8H4OXbrq251ok4j1",
+              "entryTitle": "HP5-order-of-the-phoenix-jacket-illustration-harry-hermione-cho-web-portrait",
+              "image": {
+                "_updatedAt": "2022-02-16T10:35:38.214000",
+                "contentTypeId": "asset",
+                "contentfulId": "31Vn5yDyXMKma9pSsLQnjD",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 1080,
+                      "width": 920
+                    },
+                    "size": 1143942
+                  },
+                  "fileName": "HP5-order-of-the-phoenix-jacket-illustration-harry-hermione-cho-web-portrait",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/31Vn5yDyXMKma9pSsLQnjD/bafb833779600804c8a980f02eac917b/HP5-order-of-the-phoenix-jacket-illustration-harry-hermione-cho-web-portrait"
+                },
+                "title": "HP5-order-of-the-phoenix-jacket-illustration-harry-hermione-cho-web-portrait"
+              },
+              "imageAltText": "The cover of the illustrated edition of Order of the Phoenix. Harry, Cho and Hermione are in the Room of Requirement. Hermione and Cho are casting their Patronuses."
+            },
+            {
+              "_updatedAt": "2022-02-15T13:36:19.796000",
+              "contentTypeId": "textSection",
+              "contentfulId": "6qwjrdqKGnMhfM3WglGZre",
+              "entryTitle": "exclusive-first-look-at-the-illustrated-order-of-the-phoenix-text-section-2",
+              "text": "And inside the wonder continues with Jim’s fantastic illustration of Harry’s Ministry hearing that captures the dark and tense atmosphere."
+            },
+            {
+              "_updatedAt": "2022-02-15T13:18:29.984000",
+              "contentTypeId": "image",
+              "contentfulId": "7afTECuUSPewWcmfkEPEqN",
+              "entryTitle": "HP5-order-of-the-phoenix-harry-dumbledore-ministry-hearing-web-portrait",
+              "image": {
+                "_updatedAt": "2022-02-15T13:18:24.575000",
+                "contentTypeId": "asset",
+                "contentfulId": "5onTQjASCiX0eS237Z0W7y",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2396,
+                      "width": 2000
+                    },
+                    "size": 3186923
+                  },
+                  "fileName": "HP5-order-of-the-phoenix-harry-dumbledore-ministry-hearing-web-portrait",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/5onTQjASCiX0eS237Z0W7y/02c99107a9b76ecadf638b68ae45cd8c/HP5-order-of-the-phoenix-harry-dumbledore-ministry-hearing-web-portrait"
+                },
+                "title": "HP5-order-of-the-phoenix-harry-dumbledore-ministry-hearing-web-portrait"
+              },
+              "imageAltText": "An illustration of Harry and Dumbledore at Harry's Ministry hearing. Harry is at in the chair and Dumbledore is next to him."
+            },
+            {
+              "_updatedAt": "2022-02-15T13:36:43.274000",
+              "contentTypeId": "textSection",
+              "contentfulId": "4BheQR94IuCDBaiPPNzHyc",
+              "entryTitle": "exclusive-first-look-at-the-illustrated-order-of-the-phoenix-text-section-3",
+              "text": "And his colourful depiction of Luna and Neville that beautifully demonstrates both of their personalities, not to mention Luna’s famous Butterbeer cork necklace."
+            },
+            {
+              "_updatedAt": "2022-02-15T13:21:16.035000",
+              "contentTypeId": "image",
+              "contentfulId": "rQkDRFLPAZdPLlYgSz8D5",
+              "entryTitle": "HP5-order-of-the-phoenix-neville-luna-hogwarts-express-web-portrait",
+              "image": {
+                "_updatedAt": "2022-02-15T13:21:09.442000",
+                "contentTypeId": "asset",
+                "contentfulId": "V8RyxR8Hmt5mvcdhGtKal",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2362,
+                      "width": 2000
+                    },
+                    "size": 5796579
+                  },
+                  "fileName": "HP5-order-of-the-phoenix-neville-luna-hogwarts-express-web-portrait",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/V8RyxR8Hmt5mvcdhGtKal/ac7cfd08fbffdcbb0a5e8dd9426f6436/HP5-order-of-the-phoenix-neville-luna-hogwarts-express-web-portrait"
+                },
+                "title": "HP5-order-of-the-phoenix-neville-luna-hogwarts-express-web-portrait"
+              },
+              "imageAltText": "Luna and Neville sat on the Hogwarts Express. Luna is reading The Quibbler upside down and Neville is holding Trevor."
+            },
+            {
+              "_updatedAt": "2022-02-15T13:37:02.335000",
+              "contentTypeId": "textSection",
+              "contentfulId": "6YmLgMbEZDDdvoSILI8laO",
+              "entryTitle": "exclusive-first-look-at-the-illustrated-order-of-the-phoenix-text-section-4",
+              "text": "As well as the iconic Grimmauld Place, where number 12 lurks hidden away from Muggle eyes."
+            },
+            {
+              "_updatedAt": "2022-02-15T13:13:22.550000",
+              "contentTypeId": "image",
+              "contentfulId": "4twIu9XgjZLLVUAUORi5LO",
+              "entryTitle": "HP5-order-of-the-phoenix-grimmauld-place-revealed-web-landscape",
+              "image": {
+                "_updatedAt": "2022-02-15T13:13:16.422000",
+                "contentTypeId": "asset",
+                "contentfulId": "40xdTtTRXAanwDJxwhnWKJ",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 1171,
+                      "width": 2000
+                    },
+                    "size": 2522987
+                  },
+                  "fileName": "HP5-order-of-the-phoenix-grimmauld-place-revealed-web-landscape",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/40xdTtTRXAanwDJxwhnWKJ/f4e4b3e8fcfa3ebe1fe77c8e7286194a/HP5-order-of-the-phoenix-grimmauld-place-revealed-web-landscape"
+                },
+                "title": "HP5-order-of-the-phoenix-grimmauld-place-revealed-web-landscape"
+              },
+              "imageAltText": "An illustration of Grimmauld place where number twelve is revealed"
+            },
+            {
+              "_updatedAt": "2022-02-15T13:37:55.775000",
+              "contentTypeId": "textSection",
+              "contentfulId": "24ZobwYvzqytkIkxRhjPVW",
+              "entryTitle": "exclusive-first-look-at-the-illustrated-order-of-the-phoenix-text-section-5",
+              "text": "As the meticulously detailed artwork shows, this illustrated version of the *Order of the Phoenix* has been a mammoth task and nearly two years in the making. As the project unfolded, Jim decided that it was time to bring in guest collaborator and dear friend, Neil Packer, to help bring the story to life. As Jim said: \n\n‘Illustrating *Harry Potter and the Order of the Phoenix* was always going to be a challenge; the scale of the book meant for a huge variety of characters and locations to choose from. It was a great privilege to have Neil Packer helping with this daunting task. As a fan of his work it was wonderful to see his illustrations appear in the text, and so nice to be working with him in the team. He is perfect for Potter.’ \n\nNeil Packer adds: ‘As both a friend and a colleague it was an honour to be asked to work alongside Jim Kay on this book. Jim has invested so much in this series already and I was very conscious of not wanting to encroach on the stunning work which only he can do. The sheer scale of this book and the wonderful richness of imagination within the writing perhaps left space for a second approach and it has been a great joy and a challenge to try and work in harmony with Jim’s pictures and to visualise some of J.K. Rowling’s wizarding world.’\n\nNeil is a well-renowned illustrator in his own right, and his distinctive artwork has been woven through the book complementing Jim’s narrative scenes. One example of his exquisite artwork is this beautiful imagining of Firenze’s Divination classroom."
+            },
+            {
+              "_updatedAt": "2022-02-15T13:11:36.959000",
+              "contentTypeId": "image",
+              "contentfulId": "2hpHXIP4llUQggN62vuWsv",
+              "entryTitle": "HP5-order-of-the-phoenix-illustrated-edition-firenze-classroom-web-landscape",
+              "image": {
+                "_updatedAt": "2022-02-15T13:11:29.823000",
+                "contentTypeId": "asset",
+                "contentfulId": "1zvdzsuRax6vkozIEABI7B",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 1165,
+                      "width": 2000
+                    },
+                    "size": 2962901
+                  },
+                  "fileName": "HP5-order-of-the-phoenix-illustrated-edition-firenze-classroom-web-landscape",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/1zvdzsuRax6vkozIEABI7B/f5259a420eb2a258917d2e9aaa1f63f1/HP5-order-of-the-phoenix-illustrated-edition-firenze-classroom-web-landscape"
+                },
+                "title": "HP5-order-of-the-phoenix-illustrated-edition-firenze-classroom-web-landscape"
+              },
+              "imageAltText": "An illustration of Firenze's Divination classroom"
+            },
+            {
+              "_updatedAt": "2022-02-16T10:42:47.168000",
+              "contentTypeId": "textSection",
+              "contentfulId": "4c4YnqA5hjjAEHFMyChB7r",
+              "entryTitle": "exclusive-first-look-at-the-illustrated-order-of-the-phoenix-text-section-6",
+              "text": "These are just snippets of the exciting illustrations set to feature in this edition. You can expect to see so much more, from Jim Kay’s portrait of Dolores Umbridge and stunning visualisation of the Battle of the Department of Mysteries to Neil Packer’s cutaway of the Ministry of Magic and beautifully drawn magical objects. \n\nAnd if this fantastic edition isn’t enough, a gorgeous, cloth-bound Deluxe Illustrated Edition will publish simultaneously with a foiled slipcase, gilt-edges and an exclusive pull-out extra inside.\n\nIf you are in the UK, you can click [here](https://www.bloomsbury.com/uk/discover/harry-potter/harry-potter-and-the-order-of-the-phoenix-illustrated-editions-pre-order-offers/) to pre-order this illustrated edition on Bloomsbury’s website. \n\nIf you’re in the US, you can pre-order from the Scholastic website [here](https://kids.scholastic.com/kid/books/harry-potter/)."
+            }
+          ],
+          "tags": [
+            {
+              "_updatedAt": "2020-02-20T13:07:09.645000",
+              "contentTypeId": "tag",
+              "contentfulId": "6PK6KxaPndhQsAFS54UCkr",
+              "name": "news"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:07:02.831000",
+              "contentTypeId": "tag",
+              "contentfulId": "L1Cef6BUiA2eC84VPklgq",
+              "name": "hide-from-app"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:06:54.732000",
+              "authorComment": "This excludes the content item from its index page i.e. quizzes run to Quiz section automatically, but for other Quiz content (publishing elsewhere) it excludes from Discover. ALL SECRET CODE OR ENCHANTED CONTENT",
+              "contentTypeId": "tag",
+              "contentfulId": "5pjGg1O8g0NYmdITUba28D",
+              "name": "hide-from-discover"
+            }
+          ],
+          "relatedArticleReference": []
+        },
+        "contentTypeId": "article"
+      },
+      {
+        "__typename": "ContentDoc",
+        "id": "43u5L5u5HKKXsYvcxI245R:en-GB",
+        "body": {
+          "_updatedAt": "2022-02-10T14:13:11.784000",
+          "activationDate": "2022-02-08T00:05:00",
+          "author": {
+            "_updatedAt": "2020-02-20T13:07:32.943000",
+            "contentTypeId": "author",
+            "contentfulId": "3moP55ZKIanB6wWwRtA4Ea",
+            "displayTitle": "Written by",
+            "entryTitle": "Signature-WizardingWorld",
+            "mainImage": {
+              "_updatedAt": "2019-08-01T11:07:44.068000",
+              "contentTypeId": "asset",
+              "contentfulId": "30OscCI83JoLGsI4MKRnJS",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 360,
+                    "width": 360
+                  },
+                  "size": 36037
+                },
+                "fileName": "WizardingWorldLogo.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/30OscCI83JoLGsI4MKRnJS/2ebebe784733ba3b6a185a8e404e57f7/WizardingWorldLogo.jpg"
+              },
+              "title": "Signature_Logo_WizardingWorld"
+            },
+            "title": "The Wizarding World Team"
+          },
+          "contentTypeId": "article",
+          "contentfulId": "43u5L5u5HKKXsYvcxI245R",
+          "displayTitle": "Harry Potter: Magic Awakened prepares for worldwide launch in 2022",
+          "entryTitle": "WEB-NEWS-magic-awakened-rolling-out-worldwide",
+          "externalId": "harry-potter-magic-awakened-to-rollout-worldwide",
+          "intro": "The No.1 top grossing mobile game in China Mainland will be launching in more countries across the world this year. Enjoy some exclusive behind-the-scenes videos and a small teaser of Harry Potter: Magic Awakened and more info on its big rollout! ",
+          "mainImage": {
+            "_updatedAt": "2022-02-02T15:23:43.705000",
+            "contentTypeId": "image",
+            "contentfulId": "nbfjlm24n7Ipff29YFFgR",
+            "entryTitle": "HP-magic-awakened-key-art-with-logo-crop",
+            "image": {
+              "_updatedAt": "2022-02-02T15:23:40.603000",
+              "contentTypeId": "asset",
+              "contentfulId": "1Zyq5XTfpSu0t7d9LAIEh2",
+              "description": "",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 1820,
+                    "width": 3220
+                  },
+                  "size": 4297123
+                },
+                "fileName": "HPMA-crop.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/1Zyq5XTfpSu0t7d9LAIEh2/c86b5962861f5ed1909819bbfd7e3bd4/HPMA-crop.jpg"
+              },
+              "title": "HP-magic-awakened-key-art-with-logo-crop"
+            }
+          },
+          "openGraphImage": {
+            "_updatedAt": "2022-02-10T12:46:47.986000",
+            "contentTypeId": "image",
+            "contentfulId": "9Cunijwwhe1guq7qvKjlI",
+            "entryTitle": "HPMA-key-art",
+            "image": {
+              "_updatedAt": "2022-02-10T12:46:44.704000",
+              "contentTypeId": "asset",
+              "contentfulId": "3vO1ilJBryTovJfgwZ9quB",
+              "description": "",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 1120,
+                    "width": 2000
+                  },
+                  "size": 2014574
+                },
+                "fileName": "HPMA-key-art-main.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/3vO1ilJBryTovJfgwZ9quB/d89e8895700c5bd66312516c10c6d5e1/HPMA-key-art-main.jpg"
+              },
+              "title": "HPMA-key-art"
+            }
+          },
+          "publishDate": "2022-02-08T00:10:00",
+          "section": [
+            {
+              "_updatedAt": "2022-02-10T14:08:13.797000",
+              "contentTypeId": "textSection",
+              "contentfulId": "42tgHexl7CFyMQz7rBVMCp",
+              "entryTitle": "harry-potter-magic-awakened-rolling-out-worldwide-text-section-1",
+              "text": "Warner Bros. Games and NetEase Inc. today announced that the immersive collectible card wizarding duelling game, *Harry Potter: Magic Awakened*, is set for a worldwide launch in 2022. \n\nThe game, which is also distinct for its unique art style, massively multiplayer and immersive role-playing elements, allows players to master their magic in their own illustrious wizarding journey. The game has been a huge hit across China Mainland, and now – it could be coming to your territory. Players in the Americas, Europe and Oceania are invited to pre-register on the game’s official website at www.MagicAwakened.com or Google Play to receive exclusive rewards once the title is released. Players can unlock additional rewards including in-game currency, cosmetic items and a Niffler card after surpassing each pre-registration tier. \n\nWhile you wait to learn when the game will be coming to you, watch our behind-the-scenes developer’s diary showcasing their process in creating this immersive collectible card game and its multiplayer wizarding experience."
+            },
+            {
+              "_updatedAt": "2022-02-10T13:21:56.970000",
+              "activationDate": "2022-02-10T00:00:00",
+              "contentTypeId": "video",
+              "contentfulId": "7rcW3AiPYzrmGzeT6YtNS1",
+              "displayTitle": "Harry Potter: Magic Awakened | Behind the Scenes ",
+              "entryTitle": "HPMA-behind-the-scenes-video-diary",
+              "externalId": "harry-potter-magic-awakened-video-diary",
+              "mainImage": {
+                "_updatedAt": "2022-02-10T12:46:47.986000",
+                "contentTypeId": "image",
+                "contentfulId": "9Cunijwwhe1guq7qvKjlI",
+                "entryTitle": "HPMA-key-art",
+                "image": {
+                  "_updatedAt": "2022-02-10T12:46:44.704000",
+                  "contentTypeId": "asset",
+                  "contentfulId": "3vO1ilJBryTovJfgwZ9quB",
+                  "description": "",
+                  "file": {
+                    "contentType": "image/jpeg",
+                    "details": {
+                      "image": {
+                        "height": 1120,
+                        "width": 2000
+                      },
+                      "size": 2014574
+                    },
+                    "fileName": "HPMA-key-art-main.jpg",
+                    "url": "//images.ctfassets.net/usf1vwtuqyxm/3vO1ilJBryTovJfgwZ9quB/d89e8895700c5bd66312516c10c6d5e1/HPMA-key-art-main.jpg"
+                  },
+                  "title": "HPMA-key-art"
+                }
+              },
+              "videoFileSource": "https://video.wizardingworld.com/hpma-video-diary/h264/playlist.m3u8"
+            },
+            {
+              "_updatedAt": "2022-02-10T14:13:09.016000",
+              "contentTypeId": "textSection",
+              "contentfulId": "5IQD554OGP1XDIBqL67TjH",
+              "entryTitle": "harry-potter-magic-awakened-rolling-out-worldwide-text-section-a-million",
+              "text": "You can also take a look at this teaser of the game right here."
+            },
+            {
+              "_updatedAt": "2022-02-10T14:12:32.811000",
+              "activationDate": "2022-02-10T00:00:00",
+              "contentTypeId": "video",
+              "contentfulId": "56UagqljyCyPpkCeUNJCcY",
+              "displayTitle": "Magic Awakened | Teaser ",
+              "entryTitle": "HPMA-30-seond-teaser",
+              "externalId": "teaser-for-magic-awakened",
+              "mainImage": {
+                "_updatedAt": "2019-12-09T10:27:00.170000",
+                "contentTypeId": "image",
+                "contentfulId": "4APywR0XU2griSU9shyZhM",
+                "entryTitle": "web-hero-portkey-logo-regular",
+                "image": {
+                  "_updatedAt": "2019-12-09T10:25:31.281000",
+                  "contentTypeId": "asset",
+                  "contentfulId": "WIKLHVACIG9XNwOAcBnkm",
+                  "file": {
+                    "contentType": "image/jpeg",
+                    "details": {
+                      "image": {
+                        "height": 844,
+                        "width": 1500
+                      },
+                      "size": 181705
+                    },
+                    "fileName": "PortkeyGames smaller.jpg",
+                    "url": "//images.ctfassets.net/usf1vwtuqyxm/WIKLHVACIG9XNwOAcBnkm/474b0556dff3f53d0950c95951223184/PortkeyGames_smaller.jpg"
+                  },
+                  "title": "web-app-portkey-logo-regular"
+                }
+              },
+              "videoFileSource": "https://video.wizardingworld.com/HPMA-30-TEASER_2022-02-01_ENGLISH_H264/h264/playlist.m3u8"
+            },
+            {
+              "_updatedAt": "2022-02-10T13:21:19.195000",
+              "contentTypeId": "textSection",
+              "contentfulId": "2b9eWsOWR4XE9QoBLVPgH",
+              "entryTitle": "harry-potter-magic-awakened-rolling-out-worldwide-text-section-2",
+              "text": "In the game, you’ll play as a young witch or wizard starting your new education at – where else? – Hogwarts School of Witchcraft and Wizardry. Fans will be able to customise their character accordingly and enjoy the many facets of wizarding world life, such as discovering your Hogwarts house, perusing supplies in Diagon Alley, learning spells that can be cast in the form of cards – and taking part in Duelling Club. There will also be an intriguing story running through the game as you accumulate magical knowledge – so expect to meet a few familiar characters – and some exciting new ones along the way. \n\nHarry Potter: Magic Awakened is one of many titles that sits under the Portkey Games label, which is dedicated to creating new Wizarding World mobile and video game experiences that place the player at the centre of their own adventure, inspired by J.K. Rowling’s original stories. You can learn more about [Portkey Games here.](https://www.wizardingworld.com/discover/portkey-games)"
+            }
+          ],
+          "tags": [
+            {
+              "_updatedAt": "2020-02-20T13:07:09.645000",
+              "contentTypeId": "tag",
+              "contentfulId": "6PK6KxaPndhQsAFS54UCkr",
+              "name": "news"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:07:02.831000",
+              "contentTypeId": "tag",
+              "contentfulId": "L1Cef6BUiA2eC84VPklgq",
+              "name": "hide-from-app"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:06:54.732000",
+              "authorComment": "This excludes the content item from its index page i.e. quizzes run to Quiz section automatically, but for other Quiz content (publishing elsewhere) it excludes from Discover. ALL SECRET CODE OR ENCHANTED CONTENT",
+              "contentTypeId": "tag",
+              "contentfulId": "5pjGg1O8g0NYmdITUba28D",
+              "name": "hide-from-discover"
+            }
+          ],
+          "twitterCardImage": {
+            "_updatedAt": "2022-02-10T12:46:47.986000",
+            "contentTypeId": "image",
+            "contentfulId": "9Cunijwwhe1guq7qvKjlI",
+            "entryTitle": "HPMA-key-art",
+            "image": {
+              "_updatedAt": "2022-02-10T12:46:44.704000",
+              "contentTypeId": "asset",
+              "contentfulId": "3vO1ilJBryTovJfgwZ9quB",
+              "description": "",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 1120,
+                    "width": 2000
+                  },
+                  "size": 2014574
+                },
+                "fileName": "HPMA-key-art-main.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/3vO1ilJBryTovJfgwZ9quB/d89e8895700c5bd66312516c10c6d5e1/HPMA-key-art-main.jpg"
+              },
+              "title": "HPMA-key-art"
+            }
+          },
+          "relatedArticleReference": []
+        },
+        "contentTypeId": "article"
+      },
+      {
+        "__typename": "ContentDoc",
+        "id": "3oB4sNJ3TsFbmzJmpHGGf1:en-GB",
+        "body": {
+          "_updatedAt": "2022-02-16T17:56:55.518000",
+          "activationDate": "2022-02-07T00:00:00",
+          "author": {
+            "_updatedAt": "2020-02-20T13:07:32.943000",
+            "contentTypeId": "author",
+            "contentfulId": "3moP55ZKIanB6wWwRtA4Ea",
+            "displayTitle": "Written by",
+            "entryTitle": "Signature-WizardingWorld",
+            "mainImage": {
+              "_updatedAt": "2019-08-01T11:07:44.068000",
+              "contentTypeId": "asset",
+              "contentfulId": "30OscCI83JoLGsI4MKRnJS",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 360,
+                    "width": 360
+                  },
+                  "size": 36037
+                },
+                "fileName": "WizardingWorldLogo.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/30OscCI83JoLGsI4MKRnJS/2ebebe784733ba3b6a185a8e404e57f7/WizardingWorldLogo.jpg"
+              },
+              "title": "Signature_Logo_WizardingWorld"
+            },
+            "title": "The Wizarding World Team"
+          },
+          "contentTypeId": "article",
+          "contentfulId": "3oB4sNJ3TsFbmzJmpHGGf1",
+          "displayTitle": "New documentary Fantastic Beasts: A Natural History, coming soon to BBC and HBO Max",
+          "entryTitle": "web-news-stephen-fry-documentary-announcement",
+          "externalId": "fantastic-beasts-a-natural-history-coming-soon",
+          "intro": "Stephen Fry explores the inspirations of J.K. Rowling’s magical creatures – while discovering parallels from within our own Muggle animal kingdom – in this exciting, upcoming documentary. Here's your first look at the show - and when it airs.",
+          "mainImage": {
+            "_updatedAt": "2022-02-16T10:59:54.965000",
+            "contentTypeId": "image",
+            "contentfulId": "2JUuzfgaqd5J0TvVepaktm",
+            "entryTitle": "FB-natural-history-key-art",
+            "image": {
+              "_updatedAt": "2022-02-16T10:59:51.653000",
+              "contentTypeId": "asset",
+              "contentfulId": "34Sx0aOFsWUNIvtA0x7C8M",
+              "description": "",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 1350,
+                    "width": 2400
+                  },
+                  "size": 3403643
+                },
+                "fileName": "Fantastic-Beasts-Natural-History-Key-Art.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/34Sx0aOFsWUNIvtA0x7C8M/dc5a81cbe38c5be0a76d18eb7f981915/Fantastic-Beasts-Natural-History-Key-Art.jpg"
+              },
+              "title": "FB-natural-history-key-art"
+            }
+          },
+          "publishDate": "2022-02-07T00:10:00",
+          "section": [
+            {
+              "_updatedAt": "2022-02-16T17:56:29.752000",
+              "contentTypeId": "textSection",
+              "contentfulId": "1FGgQ7R1RaDxEwrDUCdXG0",
+              "entryTitle": "fantastic-beasts-a-natural-history-coming-soon-text-section",
+              "text": "*Image:  ©BBC Studios 2022*\n\nStephen Fry, who famously narrated the UK Harry Potter audiobooks, will embark on a fantastical journey across the world in this upcoming BBC One special, entitled *Fantastic Beasts: A Natural History*, coming Sunday 27th Feb for UK on BBC One and iPlayer - and 1st April for HBO Max. Take a look at the trailer right here."
+            },
+            {
+              "_updatedAt": "2022-02-16T11:00:28.241000",
+              "activationDate": "2022-02-16T00:00:00",
+              "contentTypeId": "video",
+              "contentfulId": "yNNyJ2LQuipogY8l05oJn",
+              "displayTitle": "Fantastic Beasts: A Natural History",
+              "entryTitle": "WEB-VIDEO-fb-trailer",
+              "externalId": "fantastic-beasts-a-natural-history-trailer",
+              "mainImage": {
+                "_updatedAt": "2022-02-16T10:59:54.965000",
+                "contentTypeId": "image",
+                "contentfulId": "2JUuzfgaqd5J0TvVepaktm",
+                "entryTitle": "FB-natural-history-key-art",
+                "image": {
+                  "_updatedAt": "2022-02-16T10:59:51.653000",
+                  "contentTypeId": "asset",
+                  "contentfulId": "34Sx0aOFsWUNIvtA0x7C8M",
+                  "description": "",
+                  "file": {
+                    "contentType": "image/jpeg",
+                    "details": {
+                      "image": {
+                        "height": 1350,
+                        "width": 2400
+                      },
+                      "size": 3403643
+                    },
+                    "fileName": "Fantastic-Beasts-Natural-History-Key-Art.jpg",
+                    "url": "//images.ctfassets.net/usf1vwtuqyxm/34Sx0aOFsWUNIvtA0x7C8M/dc5a81cbe38c5be0a76d18eb7f981915/Fantastic-Beasts-Natural-History-Key-Art.jpg"
+                  },
+                  "title": "FB-natural-history-key-art"
+                }
+              },
+              "videoFileSource": "https://video.wizardingworld.com/FB-natural-history-trailer/h264/playlist.m3u8"
+            },
+            {
+              "_updatedAt": "2022-02-16T17:56:46.408000",
+              "contentTypeId": "textSection",
+              "contentfulId": "5lcBVE9yTlgww8k1bRu9LT",
+              "entryTitle": "fantastic-beasts-a-natural-history-coming-soon-text-section-2",
+              "text": "In a unique collaboration with the BBC Natural History Unit, the Natural History Museum (who hosted the exhibition, *Fantastic Beasts: The Wonder of Nature*) and Warner Bros., expect this documentary to unfurl all sorts of mysteries around fantastic beasts and real-life creatures across history that you may not believe could possibly exist. \n\nDelve into the mythological, including dragons, mermaids and unicorns – alongside examinations of natural world beasts that continue to inspire us, such as vervet monkeys, narwhals and manatees. \n\n![stephen-fry-fb-doc-eagle](//images.ctfassets.net/usf1vwtuqyxm/4oyXhjVcpwCZNgd4j3wiNf/6f8b0e29ad665c1848ac0ccf5775d4d1/FAB-MID_20211018_STILLS_EM001_2403__1_.JPG) \n\n*Image:  ©BBC Studios 2022*\n\nIn the documentary, Stephen travels far and wide to learn about such animals, chatting to experts about dinosaurs in Utah and travelling to Loch Ness in Scotland.\n\nAlong the way, Stephen will chat to the Wizarding World’s creator, J.K. Rowling, to discuss the inspirations behind the creatures we meet in Harry Potter and Fantastic Beasts, while also meeting with visual effects supervisor Christian Manz, who has lent his talents to several Wizarding World movies, bringing countless magical creations to life. \n\nSo, stay tuned for *Fantastic Beasts: A Natural History*, which will feature on BBC One, iPlayer, HBO Max and international broadcasters very soon.\n\n[And remember to sign up to the Harry Potter Fan Club](https://my.wizardingworld.com/register) for all the latest Wizarding World news updates, including more info on Fantastic Beasts: A Natural History. "
+            }
+          ],
+          "tags": [
+            {
+              "_updatedAt": "2020-02-20T13:07:09.645000",
+              "contentTypeId": "tag",
+              "contentfulId": "6PK6KxaPndhQsAFS54UCkr",
+              "name": "news"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:07:02.831000",
+              "contentTypeId": "tag",
+              "contentfulId": "L1Cef6BUiA2eC84VPklgq",
+              "name": "hide-from-app"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:06:54.732000",
+              "authorComment": "This excludes the content item from its index page i.e. quizzes run to Quiz section automatically, but for other Quiz content (publishing elsewhere) it excludes from Discover. ALL SECRET CODE OR ENCHANTED CONTENT",
+              "contentTypeId": "tag",
+              "contentfulId": "5pjGg1O8g0NYmdITUba28D",
+              "name": "hide-from-discover"
+            }
+          ],
+          "twitterCardImage": {
+            "_updatedAt": "2022-02-16T10:59:54.965000",
+            "contentTypeId": "image",
+            "contentfulId": "2JUuzfgaqd5J0TvVepaktm",
+            "entryTitle": "FB-natural-history-key-art",
+            "image": {
+              "_updatedAt": "2022-02-16T10:59:51.653000",
+              "contentTypeId": "asset",
+              "contentfulId": "34Sx0aOFsWUNIvtA0x7C8M",
+              "description": "",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 1350,
+                    "width": 2400
+                  },
+                  "size": 3403643
+                },
+                "fileName": "Fantastic-Beasts-Natural-History-Key-Art.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/34Sx0aOFsWUNIvtA0x7C8M/dc5a81cbe38c5be0a76d18eb7f981915/Fantastic-Beasts-Natural-History-Key-Art.jpg"
+              },
+              "title": "FB-natural-history-key-art"
+            }
+          },
+          "relatedArticleReference": []
+        },
+        "contentTypeId": "article"
+      },
+      {
+        "__typename": "ContentDoc",
+        "id": "2wSUDOAriY4qeXs88WRP7y:en-GB",
+        "body": {
+          "_updatedAt": "2022-01-26T11:51:20.567000",
+          "activationDate": "2022-01-26T00:00:00",
+          "author": {
+            "_updatedAt": "2020-02-20T13:07:32.943000",
+            "contentTypeId": "author",
+            "contentfulId": "3moP55ZKIanB6wWwRtA4Ea",
+            "displayTitle": "Written by",
+            "entryTitle": "Signature-WizardingWorld",
+            "mainImage": {
+              "_updatedAt": "2019-08-01T11:07:44.068000",
+              "contentTypeId": "asset",
+              "contentfulId": "30OscCI83JoLGsI4MKRnJS",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 360,
+                    "width": 360
+                  },
+                  "size": 36037
+                },
+                "fileName": "WizardingWorldLogo.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/30OscCI83JoLGsI4MKRnJS/2ebebe784733ba3b6a185a8e404e57f7/WizardingWorldLogo.jpg"
+              },
+              "title": "Signature_Logo_WizardingWorld"
+            },
+            "title": "The Wizarding World Team"
+          },
+          "contentTypeId": "article",
+          "contentfulId": "2wSUDOAriY4qeXs88WRP7y",
+          "displayTitle": "Harry Potter and the Cursed Child reveals Japanese cast for the first time ",
+          "entryTitle": "WEB-NEWS-2021-cursed-child-japan-cast-announced",
+          "externalId": "cursed-child-cast-for-japan-announced",
+          "intro": "The award-winning play, Harry Potter and the Cursed Child, is coming to Tokyo later this year. And now, for the first time, you can meet the actors who will feature in this brand-new version of the production.",
+          "mainImage": {
+            "_updatedAt": "2022-01-24T12:05:22.559000",
+            "contentTypeId": "image",
+            "contentfulId": "2SuwSrOXlQEGY9dJrt42LO",
+            "entryTitle": "cursed-child-harrys-japan-cast",
+            "image": {
+              "_updatedAt": "2022-01-24T12:03:18.350000",
+              "contentTypeId": "asset",
+              "contentfulId": "7zPtuRMuxgzMOCuK7Okv1G",
+              "description": "",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 2764,
+                    "width": 5553
+                  },
+                  "size": 2865947
+                },
+                "fileName": "Harry Potter photos.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/7zPtuRMuxgzMOCuK7Okv1G/8922ae80716f501212bd9cbd00698452/Harry_Potter_photos.jpg"
+              },
+              "title": "cursed-child-harrys-japan-cast"
+            },
+            "imageAltText": "The three actors portraying Harry Potter in the Japanese production of Cursed Child."
+          },
+          "publishDate": "2022-01-24T00:00:00",
+          "section": [
+            {
+              "_updatedAt": "2022-01-26T11:51:16.896000",
+              "contentTypeId": "textSection",
+              "contentfulId": "31LBLL27Az0Sv4i4MBqhsS",
+              "entryTitle": "cursed-child-japan-cast-announce-text-section-1",
+              "text": "As the eighth Harry Potter story prepares to open at the TBS Akasaka ACT Theater this summer, a fresh cast has been assembled to join the Wizarding World family. And in the starring role as Harry Potter, three actors will be on hand to play the titular wizard"
+            },
+            {
+              "_updatedAt": "2022-01-24T12:05:22.559000",
+              "contentTypeId": "image",
+              "contentfulId": "2SuwSrOXlQEGY9dJrt42LO",
+              "entryTitle": "cursed-child-harrys-japan-cast",
+              "image": {
+                "_updatedAt": "2022-01-24T12:03:18.350000",
+                "contentTypeId": "asset",
+                "contentfulId": "7zPtuRMuxgzMOCuK7Okv1G",
+                "description": "",
+                "file": {
+                  "contentType": "image/jpeg",
+                  "details": {
+                    "image": {
+                      "height": 2764,
+                      "width": 5553
+                    },
+                    "size": 2865947
+                  },
+                  "fileName": "Harry Potter photos.jpg",
+                  "url": "//images.ctfassets.net/usf1vwtuqyxm/7zPtuRMuxgzMOCuK7Okv1G/8922ae80716f501212bd9cbd00698452/Harry_Potter_photos.jpg"
+                },
+                "title": "cursed-child-harrys-japan-cast"
+              },
+              "imageAltText": "The three actors portraying Harry Potter in the Japanese production of Cursed Child."
+            },
+            {
+              "_updatedAt": "2022-01-27T17:00:14.883000",
+              "contentTypeId": "textSection",
+              "contentfulId": "2ARCEAVQNZNFf3N0JbEbve",
+              "entryTitle": "cursed-child-japan-cast-announce-text-section-2",
+              "text": "Tatsuya Fujiwara, Kanji Ishimaru and Osamu Mukai will all be on hand to play the leading role of Harry, with each actor taking the role in turn. \n\nFor Hermione, actors Aoi Nakabeppu and Sagiri Seina will portray her, while Masahiro Ehara and Hayata Tateyama will play Ron, respectively. \n\n[For the full cast, simply visit the official website to learn all about them.](https://www.harrypottertheplay.com/jp/)\n\nMuch like Broadway, Tokyo will be presenting the reimagined version of the play, which runs across one day for three and a half hours, including intermission. You can learn more about the reimagined version of *Cursed Child* [here.](https://www.wizardingworld.com/news/cursed-child-returns-reimagined-to-broadway-and-opens-in-hamburg)\n\n*Cursed Child*’s latest home, TBS Akasaka ACT Theater, is currently undergoing renovations, and will be ready to unveil its new look in time for the first preview performance in June. The play’s official opening night in Tokyo takes place 8th July. \n\nTickets for previews will go on sale for two days only, from Wednesday 23rd – Thursday 24th February – and you will be able to register and purchase through either TBS Tickets or Horipro Stage. \n\nWe’re so excited to see how *Harry Potter and the Cursed Child* plays out in its first Asian home. Stay tuned for more details as we get them. "
+            }
+          ],
+          "tags": [
+            {
+              "_updatedAt": "2020-02-20T13:07:09.645000",
+              "contentTypeId": "tag",
+              "contentfulId": "6PK6KxaPndhQsAFS54UCkr",
+              "name": "news"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:07:02.831000",
+              "contentTypeId": "tag",
+              "contentfulId": "L1Cef6BUiA2eC84VPklgq",
+              "name": "hide-from-app"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:06:54.732000",
+              "authorComment": "This excludes the content item from its index page i.e. quizzes run to Quiz section automatically, but for other Quiz content (publishing elsewhere) it excludes from Discover. ALL SECRET CODE OR ENCHANTED CONTENT",
+              "contentTypeId": "tag",
+              "contentfulId": "5pjGg1O8g0NYmdITUba28D",
+              "name": "hide-from-discover"
+            }
+          ],
+          "relatedArticleReference": []
+        },
+        "contentTypeId": "article"
+      },
+      {
+        "__typename": "ContentDoc",
+        "id": "4qXQZNnnsiiELGoVM6rWE4:en-GB",
+        "body": {
+          "_updatedAt": "2022-01-14T19:23:27.803000",
+          "activationDate": "2022-01-14T00:00:00",
+          "author": {
+            "_updatedAt": "2020-02-20T13:07:32.943000",
+            "contentTypeId": "author",
+            "contentfulId": "3moP55ZKIanB6wWwRtA4Ea",
+            "displayTitle": "Written by",
+            "entryTitle": "Signature-WizardingWorld",
+            "mainImage": {
+              "_updatedAt": "2019-08-01T11:07:44.068000",
+              "contentTypeId": "asset",
+              "contentfulId": "30OscCI83JoLGsI4MKRnJS",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 360,
+                    "width": 360
+                  },
+                  "size": 36037
+                },
+                "fileName": "WizardingWorldLogo.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/30OscCI83JoLGsI4MKRnJS/2ebebe784733ba3b6a185a8e404e57f7/WizardingWorldLogo.jpg"
+              },
+              "title": "Signature_Logo_WizardingWorld"
+            },
+            "title": "The Wizarding World Team"
+          },
+          "contentTypeId": "article",
+          "contentfulId": "4qXQZNnnsiiELGoVM6rWE4",
+          "displayTitle": "West Coast performances of Cursed Child begin at San Francisco's Curran Theater",
+          "entryTitle": "WEB-ARTICLE-Cursed-Child-San-Francisco-updates",
+          "externalId": "san-francisco-performances-of-cursed-child-begin",
+          "intro": "After over 600 days... Harry Potter and the Cursed Child is finally back in San Francisco. ",
+          "mainImage": {
+            "_updatedAt": "2022-01-14T18:49:08.840000",
+            "contentTypeId": "image",
+            "contentfulId": "3fPOydUjEplr36lNcgv6UE",
+            "entryTitle": "cursed-child-san-fran-albus-scorpius",
+            "image": {
+              "_updatedAt": "2022-01-14T18:49:05.846000",
+              "contentTypeId": "asset",
+              "contentfulId": "7M1BVYjEqtcXJ7lb0uM0Pw",
+              "description": "",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 983,
+                    "width": 1600
+                  },
+                  "size": 1130557
+                },
+                "fileName": "cursed-child-san-fran-albus-scorpius.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/7M1BVYjEqtcXJ7lb0uM0Pw/7d63693352b16bd7244dd7f7e0ff3df7/cursed-child-san-fran-albus-scorpius.jpg"
+              },
+              "title": "cursed-child-san-fran-albus-scorpius"
+            },
+            "imageAltText": "Pictured (L–R): Benjamin Papac as Albus Potter and Jon Steiger as Scorpius Malfoy in the San Francisco production of Harry Potter and the Cursed Child Photo credit: Evan Zimmerman for MurphyMade",
+            "imageCaption": "Pictured (L–R): Benjamin Papac as Albus Potter and Jon Steiger as Scorpius Malfoy in the San Francisco production of Harry Potter and the Cursed Child Photo credit: Evan Zimmerman for MurphyMade"
+          },
+          "publishDate": "2022-01-14T00:00:00",
+          "section": [
+            {
+              "_updatedAt": "2022-01-14T19:22:15.752000",
+              "contentTypeId": "textSection",
+              "contentfulId": "2WmJRuKIBMC9FDtXzFtB0c",
+              "entryTitle": "cursed-child-opens-in-san-francisco-2022",
+              "text": "*Photo credit: Evan Zimmerman for MurphyMade*\n\nThe West Coast engagement of *Harry Potter and the Cursed Child* triumphantly returned to San Francisco this week, after its performances were put on hold in the wake of the Covid-19 pandemic back in 2020. \n\n![Harry-Ron-Hermione-Cursed-Child-San-Francisco](//images.ctfassets.net/usf1vwtuqyxm/2HbehG5APVEoSXgsOtoRbr/c2b7324cb3fba92b18abd5d499403b68/HPCC-san-francisco-harry-ron-hermione.jpg)\n\n*Pictured (L–R): John Skelley as Harry Potter, Lily Mojekwu as Hermione Granger, and Steve O’Connell as Ron Weasley in the San Francisco production of Harry Potter and the Cursed Child. Photo credit: Evan Zimmerman for MurphyMade*\n\nNow, [the one-part reimagining of the play](https://www.wizardingworld.com/news/cursed-child-returns-reimagined-to-broadway-and-opens-in-hamburg), which also runs in New York, enchanted audiences with a celebratory comeback. \n\nPress night for the show is set for the 9th February, and you can visit the play's [official website for more details. ](https://sf.harrypottertheplay.com/)\n\nA huge welcome back to this branch of the Cursed Child family! \n\n__Remember, you can visit [our Cursed Child hub](https://www.wizardingworld.com/collections/cursed-child-collection) for quizzes, behind-the-scene videos and features on the hit play whenever you like.__"
+            }
+          ],
+          "tags": [
+            {
+              "_updatedAt": "2020-02-20T13:07:09.645000",
+              "contentTypeId": "tag",
+              "contentfulId": "6PK6KxaPndhQsAFS54UCkr",
+              "name": "news"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:07:02.831000",
+              "contentTypeId": "tag",
+              "contentfulId": "L1Cef6BUiA2eC84VPklgq",
+              "name": "hide-from-app"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:06:54.732000",
+              "authorComment": "This excludes the content item from its index page i.e. quizzes run to Quiz section automatically, but for other Quiz content (publishing elsewhere) it excludes from Discover. ALL SECRET CODE OR ENCHANTED CONTENT",
+              "contentTypeId": "tag",
+              "contentfulId": "5pjGg1O8g0NYmdITUba28D",
+              "name": "hide-from-discover"
+            }
+          ],
+          "relatedArticleReference": []
+        },
+        "contentTypeId": "article"
+      },
+      {
+        "__typename": "ContentDoc",
+        "id": "3lgs3ajCLibQ1Wi4cZOvLd:en-GB",
+        "body": {
+          "_updatedAt": "2022-01-19T13:06:14.939000",
+          "activationDate": "2021-12-20T00:00:00",
+          "author": {
+            "_updatedAt": "2020-02-20T13:07:32.943000",
+            "contentTypeId": "author",
+            "contentfulId": "3moP55ZKIanB6wWwRtA4Ea",
+            "displayTitle": "Written by",
+            "entryTitle": "Signature-WizardingWorld",
+            "mainImage": {
+              "_updatedAt": "2019-08-01T11:07:44.068000",
+              "contentTypeId": "asset",
+              "contentfulId": "30OscCI83JoLGsI4MKRnJS",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 360,
+                    "width": 360
+                  },
+                  "size": 36037
+                },
+                "fileName": "WizardingWorldLogo.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/30OscCI83JoLGsI4MKRnJS/2ebebe784733ba3b6a185a8e404e57f7/WizardingWorldLogo.jpg"
+              },
+              "title": "Signature_Logo_WizardingWorld"
+            },
+            "title": "The Wizarding World Team"
+          },
+          "contentTypeId": "article",
+          "contentfulId": "3lgs3ajCLibQ1Wi4cZOvLd",
+          "displayTitle": "Watch the trailer for Harry Potter 20th Anniversary: Return to Hogwarts and find out how to watch the show wherever you are",
+          "entryTitle": "WEB-NEWS-retrospective-trailer-released",
+          "externalId": "watch-trailer-for-harry-potter-retrospective-show",
+          "intro": "Your first look at the upcoming retrospective show for Harry Potter and the Philosopher’s Stone’s 20th anniversary features many familiar faces. Watch the trailer and discover where you can watch the show, available in many territories from 1st January 2022! ",
+          "mainImage": {
+            "_updatedAt": "2021-12-15T17:12:27.821000",
+            "contentTypeId": "image",
+            "contentfulId": "5CGBSugpkmE0n7B6rJPjnF",
+            "entryTitle": "hbo-retrospective-key-art-darker-web-landscape",
+            "image": {
+              "_updatedAt": "2021-12-15T16:23:02.490000",
+              "contentTypeId": "asset",
+              "contentfulId": "2Kvi6E07ZXdN6yO8IF0zat",
+              "description": "",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 630,
+                    "width": 1127
+                  },
+                  "size": 688641
+                },
+                "fileName": "hbo-retrospective-key-art-darker-web-landscape.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/2Kvi6E07ZXdN6yO8IF0zat/12d08f4b2eceb0bc6fd808cdce13e8e1/hbo-retrospective-key-art-darker-web-landscape.jpg"
+              },
+              "title": "hbo-retrospective-key-art-darker-web-landscape"
+            }
+          },
+          "openGraphImage": {
+            "_updatedAt": "2021-12-15T18:58:56.081000",
+            "contentTypeId": "image",
+            "contentfulId": "1kRg5E9Wk2EL9g2TMbWBFY",
+            "entryTitle": "hbo-retrospective-key-art-lighter",
+            "image": {
+              "_updatedAt": "2021-12-15T18:58:53.290000",
+              "contentTypeId": "asset",
+              "contentfulId": "JYUwEgBxP77sPJHrYrr54",
+              "description": "",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 1849,
+                    "width": 2400
+                  },
+                  "size": 4178291
+                },
+                "fileName": "hbo-retrospective-key-art-lighter.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/JYUwEgBxP77sPJHrYrr54/606add5390b8b2a57ca24301e0745af0/hbo-retrospective-key-art-lighter.jpg"
+              },
+              "title": "hbo-retrospective-key-art-lighter"
+            }
+          },
+          "publishDate": "2021-12-20T00:00:00",
+          "section": [
+            {
+              "_updatedAt": "2021-12-20T15:56:48.896000",
+              "contentTypeId": "textSection",
+              "contentfulId": "55dB5loywgugXYIdNUpCCh",
+              "entryTitle": "watch-trailer-for-harry-potter-retrospective-show-text-section-1",
+              "text": "Many members of the cast ([including your three main stars](https://www.wizardingworld.com/news/cast-members-feature-in-retrospective-for-harry-potter-twentieth-anniversary-return-to-hogwarts)!) from the Harry Potter films have come back together for a festive reunion – congregating in many of the film sets where they used to work together at Warner Bros. Studio Tour London. This unique television event includes brand new cast discussions and personal annecdotes, insights from the creative team behind the magic, and comments from the creator of this magical world, J.K. Rowling.\n\nWe dare you not to cry at this first trailer for *Harry Potter: Return to Hogwarts*. \n"
+            },
+            {
+              "_updatedAt": "2021-12-20T16:05:02.676000",
+              "activationDate": "2021-12-15T00:00:00",
+              "contentTypeId": "video",
+              "contentfulId": "2a46Lw3UznD5ODHHaktR2L",
+              "displayTitle": "Harry Potter 20th Anniversary: Return to Hogwarts ",
+              "entryTitle": "retrospective-trailer-fiinal",
+              "externalId": "return-to-hogwarts-trailer",
+              "mainImage": {
+                "_updatedAt": "2021-12-15T17:12:27.821000",
+                "contentTypeId": "image",
+                "contentfulId": "5CGBSugpkmE0n7B6rJPjnF",
+                "entryTitle": "hbo-retrospective-key-art-darker-web-landscape",
+                "image": {
+                  "_updatedAt": "2021-12-15T16:23:02.490000",
+                  "contentTypeId": "asset",
+                  "contentfulId": "2Kvi6E07ZXdN6yO8IF0zat",
+                  "description": "",
+                  "file": {
+                    "contentType": "image/jpeg",
+                    "details": {
+                      "image": {
+                        "height": 630,
+                        "width": 1127
+                      },
+                      "size": 688641
+                    },
+                    "fileName": "hbo-retrospective-key-art-darker-web-landscape.jpg",
+                    "url": "//images.ctfassets.net/usf1vwtuqyxm/2Kvi6E07ZXdN6yO8IF0zat/12d08f4b2eceb0bc6fd808cdce13e8e1/hbo-retrospective-key-art-darker-web-landscape.jpg"
+                  },
+                  "title": "hbo-retrospective-key-art-darker-web-landscape"
+                }
+              },
+              "videoFileSource": "https://video.wizardingworld.com/hbo-retrospective-trailer-FINAL/h264/playlist.m3u8"
+            },
+            {
+              "_updatedAt": "2021-12-20T15:55:46.468000",
+              "contentTypeId": "textSection",
+              "contentfulId": "4d75TC84ErXItuV4RdolNT",
+              "entryTitle": "watch-trailer-for-harry-potter-retrospective-show-text-section-1.5",
+              "text": "And if that trailer wasn’t enough, here are two never before seen clips to keep you going…"
+            },
+            {
+              "_updatedAt": "2021-12-20T16:04:51.087000",
+              "activationDate": "2021-12-06T00:00:00",
+              "contentTypeId": "video",
+              "contentfulId": "2JW4mUhlpJQC7lElGIBFOZ",
+              "displayTitle": "Exclusive clip from Harry Potter: Return to Hogwarts",
+              "entryTitle": "VIDEO-retro-jkr-clip-1",
+              "externalId": "exclusive-clip-retro-jkr-1",
+              "mainImage": {
+                "_updatedAt": "2021-12-20T16:04:41.064000",
+                "contentTypeId": "image",
+                "contentfulId": "6y9F6UzYTjckTxc5tf5UHO",
+                "entryTitle": "retro-jk-clip-1.mov.00 00 08 15.Still001",
+                "image": {
+                  "_updatedAt": "2021-12-20T16:04:37.500000",
+                  "contentTypeId": "asset",
+                  "contentfulId": "5tCwVjNGeIEMsMJ8HOTUe6",
+                  "description": "",
+                  "file": {
+                    "contentType": "image/jpeg",
+                    "details": {
+                      "image": {
+                        "height": 1080,
+                        "width": 1920
+                      },
+                      "size": 347878
+                    },
+                    "fileName": "retro-jk-clip-1.mov.00_00_08_15.Still001.jpg",
+                    "url": "//images.ctfassets.net/usf1vwtuqyxm/5tCwVjNGeIEMsMJ8HOTUe6/9280bc00dcda2b2dc5e8fe729f60cb9b/retro-jk-clip-1.mov.00_00_08_15.Still001.jpg"
+                  },
+                  "title": "retro-jk-clip-1.mov.00 00 08 15.Still001"
+                }
+              },
+              "videoFileSource": "https://video.wizardingworld.com/retro-jk-clip-1/h264/playlist.m3u8"
+            },
+            {
+              "_updatedAt": "2021-12-20T16:04:12.020000",
+              "activationDate": "2021-12-01T00:00:00",
+              "contentTypeId": "video",
+              "contentfulId": "2jIttW4FqxT3ML2EprjRw1",
+              "displayTitle": "Exclusive clip from Harry Potter: Return to Hogwarts",
+              "entryTitle": "VIDEO-retro-jkr-clip-2",
+              "externalId": "exclusive-clip-retro-jkr-2",
+              "mainImage": {
+                "_updatedAt": "2021-12-20T16:03:55.919000",
+                "contentTypeId": "image",
+                "contentfulId": "6kJL4JRL7W8FOW05L12nsC",
+                "entryTitle": "retro-jk-clip-2.mov.00 00 10 06.Still001",
+                "image": {
+                  "_updatedAt": "2021-12-20T16:03:49.016000",
+                  "contentTypeId": "asset",
+                  "contentfulId": "5iu8yiqwZgs3fTPYzazso4",
+                  "description": "",
+                  "file": {
+                    "contentType": "image/jpeg",
+                    "details": {
+                      "image": {
+                        "height": 1080,
+                        "width": 1920
+                      },
+                      "size": 190727
+                    },
+                    "fileName": "retro-jk-clip-2.mov.00_00_10_06.Still001.jpg",
+                    "url": "//images.ctfassets.net/usf1vwtuqyxm/5iu8yiqwZgs3fTPYzazso4/8f73510dda21779781847890f45b08e9/retro-jk-clip-2.mov.00_00_10_06.Still001.jpg"
+                  },
+                  "title": "retro-jk-clip-2.mov.00 00 10 06.Still001"
+                }
+              },
+              "videoFileSource": "https://video.wizardingworld.com/retro-jk-clip-2/h264/playlist.m3u8"
+            },
+            {
+              "_updatedAt": "2021-12-20T15:56:57.482000",
+              "contentTypeId": "textSection",
+              "contentfulId": "3KyyE5t4FORpAA6xzkehZG",
+              "entryTitle": "watch-trailer-for-harry-potter-retrospective-show-text-section-2",
+              "text": "Now, you are most likely wondering where (and when) you can watch the show in your territory. Here’s our handy list of what we know so far. \n\n## How to watch Harry Potter: Return to Hogwarts in the US\n\nFrom midnight on 1st January 2022, Harry Potter 20th Anniversary: Return to Hogwarts will be shown on HBO Max. \n\n## How to watch Harry Potter 20th Anniversary: Return to Hogwarts in the UK\n\nYou can watch the show on 1st January both on Sky Max and Sky Showcase live – and you can catch up via Sky and NOW on demand.\n\n## How to watch Harry Potter: Return to Hogwarts in Italy\n\nThe show will be available on the temporary channel Sky Cinema Harry Potter and on Sky Uno live, and you can catch up via Sky and NOW on demand – launching 1st January.\n\n## How to watch Harry Potter: Return to Hogwarts in Spain\n\nThe show will be available on HBO Max – launching 1st January.\n\n## How to watch Harry Potter: Return to Hogwarts in Portugal\n\nThe show will be available on HBO Go – launching 1st January.\n\n## How to watch Harry Potter: Return to Hogwarts in the Nordic countries\n\nThe show will be available on HBO Max – launching 1st January.\n\n__How to watch Harry Potter 20th Anniversary: Return to Hogwarts in Central Europe__ __(Hungary, the Czech Republic, Slovakia, Poland, Romania, Bulgaria, Slovenia, Croatia, Serbia, Montenegro, Macedonia and Bosnia & Herzegovia)__\n\nThe show will be available on HBO Go – with the exact day to be confirmed. Watch this space. \n\n## How to watch Harry Potter 20th Anniversary: Return to Hogwarts in Russia\n\nYou can watch the show via Amediateka (Home of HBO) on 1st January.\n\n## How to watch Harry Potter 20th Anniversary: Return to Hogwarts in Australia\n\nThe show will be available on Foxtel, launching 1st January.\n***\n\nKeep checking WizardingWorld.com for any further updates on Harry Potter: Return to Hogwarts and other magical news. You can also [sign up to the Harry Potter Fan Club and opt in to our newsletter](https://my.wizardingworld.com/register) to get Wizarding World updates flying straight into your inbox."
+            }
+          ],
+          "tags": [
+            {
+              "_updatedAt": "2020-02-20T13:07:09.645000",
+              "contentTypeId": "tag",
+              "contentfulId": "6PK6KxaPndhQsAFS54UCkr",
+              "name": "news"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:07:02.831000",
+              "contentTypeId": "tag",
+              "contentfulId": "L1Cef6BUiA2eC84VPklgq",
+              "name": "hide-from-app"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:06:54.732000",
+              "authorComment": "This excludes the content item from its index page i.e. quizzes run to Quiz section automatically, but for other Quiz content (publishing elsewhere) it excludes from Discover. ALL SECRET CODE OR ENCHANTED CONTENT",
+              "contentTypeId": "tag",
+              "contentfulId": "5pjGg1O8g0NYmdITUba28D",
+              "name": "hide-from-discover"
+            }
+          ],
+          "teaserImage": {
+            "_updatedAt": "2021-12-15T18:58:56.081000",
+            "contentTypeId": "image",
+            "contentfulId": "1kRg5E9Wk2EL9g2TMbWBFY",
+            "entryTitle": "hbo-retrospective-key-art-lighter",
+            "image": {
+              "_updatedAt": "2021-12-15T18:58:53.290000",
+              "contentTypeId": "asset",
+              "contentfulId": "JYUwEgBxP77sPJHrYrr54",
+              "description": "",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 1849,
+                    "width": 2400
+                  },
+                  "size": 4178291
+                },
+                "fileName": "hbo-retrospective-key-art-lighter.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/JYUwEgBxP77sPJHrYrr54/606add5390b8b2a57ca24301e0745af0/hbo-retrospective-key-art-lighter.jpg"
+              },
+              "title": "hbo-retrospective-key-art-lighter"
+            }
+          },
+          "twitterCardImage": {
+            "_updatedAt": "2021-12-15T18:58:56.081000",
+            "contentTypeId": "image",
+            "contentfulId": "1kRg5E9Wk2EL9g2TMbWBFY",
+            "entryTitle": "hbo-retrospective-key-art-lighter",
+            "image": {
+              "_updatedAt": "2021-12-15T18:58:53.290000",
+              "contentTypeId": "asset",
+              "contentfulId": "JYUwEgBxP77sPJHrYrr54",
+              "description": "",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 1849,
+                    "width": 2400
+                  },
+                  "size": 4178291
+                },
+                "fileName": "hbo-retrospective-key-art-lighter.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/JYUwEgBxP77sPJHrYrr54/606add5390b8b2a57ca24301e0745af0/hbo-retrospective-key-art-lighter.jpg"
+              },
+              "title": "hbo-retrospective-key-art-lighter"
+            }
+          },
+          "relatedArticleReference": []
+        },
+        "contentTypeId": "article"
+      },
+      {
+        "__typename": "ContentDoc",
+        "id": "5OulUJ36pKBrHArJD3jkR3:en-GB",
+        "body": {
+          "_updatedAt": "2021-12-16T12:57:19.387000",
+          "activationDate": "2021-12-15T00:00:00",
+          "author": {
+            "_updatedAt": "2020-02-20T13:07:32.943000",
+            "contentTypeId": "author",
+            "contentfulId": "3moP55ZKIanB6wWwRtA4Ea",
+            "displayTitle": "Written by",
+            "entryTitle": "Signature-WizardingWorld",
+            "mainImage": {
+              "_updatedAt": "2019-08-01T11:07:44.068000",
+              "contentTypeId": "asset",
+              "contentfulId": "30OscCI83JoLGsI4MKRnJS",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 360,
+                    "width": 360
+                  },
+                  "size": 36037
+                },
+                "fileName": "WizardingWorldLogo.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/30OscCI83JoLGsI4MKRnJS/2ebebe784733ba3b6a185a8e404e57f7/WizardingWorldLogo.jpg"
+              },
+              "title": "Signature_Logo_WizardingWorld"
+            },
+            "title": "The Wizarding World Team"
+          },
+          "contentTypeId": "article",
+          "contentfulId": "5OulUJ36pKBrHArJD3jkR3",
+          "displayTitle": "Harry Potter: Hogwarts Mystery releases festive updates for 2021",
+          "entryTitle": "WEB-NEWS-hogwarts-mystery-releases-festive-updates",
+          "externalId": "hogwarts-mystery-releases-festive-2021-updates",
+          "intro": "Harry Potter: Hogwarts Mystery is holding their annual in-game Christmas Countdown giveaway event and bringing a special Holiday at Hogwarts time-limited sidequest.",
+          "mainImage": {
+            "_updatedAt": "2021-12-15T14:40:33.336000",
+            "contentTypeId": "image",
+            "contentfulId": "39nEmOJ9VoqzHkhdA6EoCN",
+            "entryTitle": "harry-potter-hogwarts-mystery-2021-festive-content-key-art",
+            "image": {
+              "_updatedAt": "2021-12-15T14:40:28.634000",
+              "contentTypeId": "asset",
+              "contentfulId": "5ZYDmttUlRK4XS13QOZjYD",
+              "description": "",
+              "file": {
+                "contentType": "image/jpeg",
+                "details": {
+                  "image": {
+                    "height": 946,
+                    "width": 2048
+                  },
+                  "size": 1840830
+                },
+                "fileName": "HPHM-winter-artwork.jpg",
+                "url": "//images.ctfassets.net/usf1vwtuqyxm/5ZYDmttUlRK4XS13QOZjYD/891b831fbe3e6bb429973b38c1f64705/HPHM-winter-artwork.jpg"
+              },
+              "title": "harry-potter-hogwarts-mystery-2021-festive-content-key-art"
+            }
+          },
+          "publishDate": "2021-12-15T00:00:00",
+          "section": [
+            {
+              "_updatedAt": "2021-12-16T12:48:37.871000",
+              "contentTypeId": "textSection",
+              "contentfulId": "662QkH8tfVrBELz3wNiSjJ",
+              "entryTitle": "hogwarts-mystery-releases-festive-2021-updates-text-section",
+              "text": "From the 19th December, *Harry Potter: Hogwarts Mystery* is hosting a Christmas Countdown for its players, where fans of the game can expect a daily festive treat - right up 'til Christmas Day. Expect various in-game giveaways, such as coins, extra energy and more. \n\nYou can also expect a new time-limited side quest (TLSQ) within the game, featuring various Hogwarts professors and a yuletide task. Your mission is to convert a Hogwarts classroom into a winter wonderland to surprise one of your favourite teachers using some stealthy tactics. This new in-game treat will be with you from the 16th December. \n\nFinally, starting on 29th December, *Harry Potter: Hogwarts Mystery* will also give out some in-game goodies (including 150 energy) that players can redeem until the 6th January. \n\nThis celebratory update from *Harry Potter: Hogwarts Mystery* should certainly help get you in the Christmassy mood! Hogwarts always feels a bit Christmassy no matter what time of year it is, doesn't it? \n\nLearn more about [Harry Potter: Hogwarts Mystery here.](https://www.wizardingworld.com/discover/portkey-games/harry-potter-hogwarts-mystery)\n\n***\n\n*Portkey Games is the games label dedicated to creating new Wizarding World mobile and video game experiences that place the player at the centre of their own adventure, inspired by J.K. Rowling’s original stories.*"
+            }
+          ],
+          "tags": [
+            {
+              "_updatedAt": "2020-02-20T13:07:09.645000",
+              "contentTypeId": "tag",
+              "contentfulId": "6PK6KxaPndhQsAFS54UCkr",
+              "name": "news"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:07:02.831000",
+              "contentTypeId": "tag",
+              "contentfulId": "L1Cef6BUiA2eC84VPklgq",
+              "name": "hide-from-app"
+            },
+            {
+              "_updatedAt": "2020-02-20T13:06:54.732000",
+              "authorComment": "This excludes the content item from its index page i.e. quizzes run to Quiz section automatically, but for other Quiz content (publishing elsewhere) it excludes from Discover. ALL SECRET CODE OR ENCHANTED CONTENT",
+              "contentTypeId": "tag",
+              "contentfulId": "5pjGg1O8g0NYmdITUba28D",
+              "name": "hide-from-discover"
+            }
+          ],
+          "relatedArticleReference": []
+        },
+        "contentTypeId": "article"
+      }
+    ]
+  },
+  "__N_SSG": true
+}
