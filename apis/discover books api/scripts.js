@@ -1,12 +1,9 @@
 // Se lee información de la API sobre los libros (título, descripción y portada)
 
 const app = document.getElementById("root");
-const logo = document.createElement("img");
 
 const container = document.createElement("div");
 container.setAttribute("class", "container");
-
-app.appendChild(logo);
 app.appendChild(container);
 
 var request = new XMLHttpRequest();
