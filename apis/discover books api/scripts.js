@@ -51,4 +51,40 @@ request.onload = function () {
 
 request.send();
 
+// Aplicación de Callbacks - Ejemplo libros de Harry Potter
+
+const books = [
+  {
+    id: 1,
+    title: "1: Harry Potter y la piedra filosofal",
+  },
+  {
+    id: 2,
+    title: "2: Harry Potter y la cámara secreta",
+  },
+  {
+    id: 3,
+    title: "3: Harry Potter y el prisionero de Azkaban",
+  },
+];
+
+function getBookById(id, callback) {
+  const book = books.find((book) => book.id === id);
+  if (!book) {
+    const error = new Error();
+    error.message = "Book not found!";
+    return callback(error);
+  }
+
+  callback(null, book);
+}
+
+getBookById(2, (err, book) => {
+  if (err) {
+    return console.log(err.message);
+  }
+
+  return console.log(book);
+});
+
 document.addEventListener("DOMContentLoaded", documentReady);
