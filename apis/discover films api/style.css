@@ -121,6 +121,15 @@ html {
   margin: 0 auto;
 }
 
+.button {
+  background-color: var(--text-color);
+  margin: auto;
+}
+
+.buttonColor {
+  background-color: var(--gradient-color-8);
+}
+
 /* Media Queries - Responsive */
 
 @media screen and (min-width: 600px) {

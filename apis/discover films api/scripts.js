@@ -44,4 +44,12 @@ request.onload = function () {
 
 request.send();
 
+/* Explicación de Callback con un botón */
+
+const button = document.querySelector("button");
+
+function toggle() {
+  button.classList.toggle("buttonColor");
+}
+
 document.addEventListener("DOMContentLoaded", documentReady);
