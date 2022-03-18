@@ -86,5 +86,13 @@
     "año": 2018,
     "director": "David Yates",
     "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2Ffilms%2Frectangle-10.png&w=768&q=75"
+  },
+  {
+    "id": 12,
+    "title": "Animales fantásticos: Los secretos de Dumbledore",
+    "titulo_original": "Fantastic Beasts: The Secrets of Dumbledore",
+    "año": 2022,
+    "director": "David Yates",
+    "image": "https://i.postimg.cc/mDnZmYfC/last-movie.jpg"
   }
 ]
