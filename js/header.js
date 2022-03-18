@@ -162,11 +162,20 @@ discoverMenuBack.addEventListener("click", (e) => {
   }
 });
 
+
+
 // Dynamic color on scroll to menu inner wrapper
 const menuInnerWrapper = document.getElementById("menu-inner-wrapper");
 const headerNavEl = document.querySelector(".header__container");
+const bodyEl = document.querySelector(".body");
+
+
+const isLanding = bodyEl.classList.contains("landing");
+
+
 
 window.addEventListener("scroll", () => {
+if (isLanding) {
   if (window.scrollY > 0 && window.innerWidth >= 1024) {
     menuInnerWrapper.classList.add("header__menu-wrapper--scroll");
     headerNavEl.classList.add("header__container--scroll");
@@ -174,22 +183,30 @@ window.addEventListener("scroll", () => {
     menuInnerWrapper.classList.remove("header__menu-wrapper--scroll");
     headerNavEl.classList.remove("header__container--scroll");
   }
+}
 });
 
 // header on hover
 
 header.addEventListener("mouseenter", () => {
-  if (window.scrollY === 0 && window.innerWidth >= 1024) {
+  if (window.scrollY === 0 && window.innerWidth >= 1024 && isLanding) {
     menuInnerWrapper.classList.add("header__menu-wrapper--scroll");
     headerNavEl.classList.add("header__container--scroll");
   }
 });
 header.addEventListener("mouseleave", () => {
-  if (window.scrollY === 0 && window.innerWidth >= 1024) {
+  if (window.scrollY === 0 && window.innerWidth >= 1024 && isLanding) {
     menuInnerWrapper.classList.remove("header__menu-wrapper--scroll");
     headerNavEl.classList.remove("header__container--scroll");
   }
 });
+
+//make sure this only works on non landing pages
+if (!isLanding || window.innerWidth >= 1024) {
+  menuInnerWrapper.classList.add("header__menu-wrapper--scroll");
+  headerNavEl.classList.add("header__container--scroll");
+} 
+
 
 // Reset menu on some elements
 const resetMenuScreen = () => {
@@ -221,4 +238,3 @@ document.addEventListener("mouseleave", (event) => {
     resetMenuScreen();
 });
 
-document.addEventListener("DOMContentLoaded", documentReady);
