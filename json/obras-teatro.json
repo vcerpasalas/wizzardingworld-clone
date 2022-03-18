@@ -1,50 +1,43 @@
 [
   {
     "id": 1,
-    "obra": "Harry Potter and the Cursed Child",
-    "lugar": "Londres, Inglaterra",
+    "title": "Harry Potter and the Cursed Child (Londres, UK)",
     "teatro": "Palace Theatre",
     "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2FonStage%2Flondon.jpg&w=1320&q=75"
   },
   {
     "id": 2,
-    "obra": "Harry Potter and the Cursed Child",
-    "lugar": "Nueva York, Estados Unidos",
+    "title": "Harry Potter and the Cursed Child (Nueva York, EEUU)",
     "teatro": "The Lyric Theatre",
     "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2FonStage%2Fnew-york.jpg&w=1320&q=75"
   },
   {
     "id": 3,
-    "obra": "Harry Potter and the Cursed Child",
-    "lugar": "San Francisco, Estados Unidos",
+    "title": "Harry Potter and the Cursed Child (San Francisco, EEUU",
     "teatro": "Curran Theatre",
     "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2FonStage%2Fsan-francisco.jpg&w=1320&q=75"
   },
   {
     "id": 4,
-    "obra": "Harry Potter and the Cursed Child",
-    "lugar": "Melbourne, Australia",
+    "title": "Harry Potter and the Cursed Child (Melbourne, Australia",
     "teatro": "Princess Theatre",
     "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2FonStage%2Fmelbourne.jpg&w=1320&q=75"
   },
   {
     "id": 5,
-    "obra": "Harry Potter and the Cursed Child",
-    "lugar": "Hamburgo, Alemania",
+    "title": "Harry Potter and the Cursed Child (Hamburgo, Alemania)",
     "teatro": "Mehri Theatre",
     "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2FonStage%2Fhamburg.jpg&w=1320&q=75"
   },
   {
     "id": 6,
-    "obra": "Harry Potter and the Cursed Child",
-    "lugar": "Toronto, Canadá",
+    "title": "Harry Potter and the Cursed Child (Toronto, Canadá)",
     "teatro": "Ed Mirvish Theatre",
     "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2FonStage%2Ftoronto.jpg&w=1320&q=75"
   },
   {
     "id": 7,
-    "obra": "Harry Potter and the Cursed Child",
-    "lugar": "Tokio, Japón",
+    "title": "Harry Potter and the Cursed Child (Tokio, Japón)",
     "teatro": "TBS Akasaka ACT Theater",
     "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2FonStage%2Ftokyo.jpg&w=1320&q=75"
   }
