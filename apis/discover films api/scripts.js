@@ -44,4 +44,19 @@ request.onload = function () {
 
 request.send();
 
+// Intersection Observer
+
+const cards = document.querySelectorAll("card");
+
+const callback = (entries) => {
+  entries.forEach((entry) => {
+    if (entry.isIntersecting) {
+      console.log(entry.target.id, "está insersectando");
+    }
+  });
+};
+
+const observer = new IntersectionObserver(callback, options);
+cards.forEach((element) => observer.observe(element));
+
 document.addEventListener("DOMContentLoaded", documentReady);
