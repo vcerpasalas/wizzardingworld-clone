@@ -43,4 +43,3 @@ export const renderHTMLSubmenu = (subMenu) => {
   return html;
 };
 
-document.addEventListener("DOMContentLoaded", documentReady);
