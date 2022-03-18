@@ -5,4 +5,4 @@ const htmlRendering = (element, data, renderFunctionStructure) => {
 
 export default htmlRendering;
 
-document.addEventListener("DOMContentLoaded", documentReady);
+
