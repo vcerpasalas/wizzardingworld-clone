@@ -49,6 +49,19 @@ En total serán 10 proyectos, que corresponden a 10 retos.
 
 - Intersection Observer API
 - Bootstrap
+- SASS
+- API Web
+- Local Storage
+- Session Storage
+- Observer API
+- Callbacks
+- Promesas
+- try... catch
+- Métodos HTTP
+- JSON
+- Async Await
+- Axios
+- Fetch
 - Layouts
 - Componentes
 - Modificadores
