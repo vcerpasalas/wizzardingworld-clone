@@ -1,3 +1,4 @@
+"use-strict";
 import {
   newsFeaturesSubMenuDataOnDesktop,
   discoverSubMenuDataOnDesktop,
@@ -162,28 +163,23 @@ discoverMenuBack.addEventListener("click", (e) => {
   }
 });
 
-
-
 // Dynamic color on scroll to menu inner wrapper
 const menuInnerWrapper = document.getElementById("menu-inner-wrapper");
 const headerNavEl = document.querySelector(".header__container");
 const bodyEl = document.querySelector(".body");
 
-
 const isLanding = bodyEl.classList.contains("landing");
 
-
-
 window.addEventListener("scroll", () => {
-if (isLanding) {
-  if (window.scrollY > 0 && window.innerWidth >= 1024) {
-    menuInnerWrapper.classList.add("header__menu-wrapper--scroll");
-    headerNavEl.classList.add("header__container--scroll");
-  } else {
-    menuInnerWrapper.classList.remove("header__menu-wrapper--scroll");
-    headerNavEl.classList.remove("header__container--scroll");
+  if (isLanding) {
+    if (window.scrollY > 0 && window.innerWidth >= 1024) {
+      menuInnerWrapper.classList.add("header__menu-wrapper--scroll");
+      headerNavEl.classList.add("header__container--scroll");
+    } else {
+      menuInnerWrapper.classList.remove("header__menu-wrapper--scroll");
+      headerNavEl.classList.remove("header__container--scroll");
+    }
   }
-}
 });
 
 // header on hover
@@ -205,8 +201,7 @@ header.addEventListener("mouseleave", () => {
 if (!isLanding || window.innerWidth >= 1024) {
   menuInnerWrapper.classList.add("header__menu-wrapper--scroll");
   headerNavEl.classList.add("header__container--scroll");
-} 
-
+}
 
 // Reset menu on some elements
 const resetMenuScreen = () => {
@@ -237,4 +232,3 @@ document.addEventListener("mouseleave", (event) => {
   )
     resetMenuScreen();
 });
-

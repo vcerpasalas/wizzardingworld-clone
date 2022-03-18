@@ -54,7 +54,6 @@
 
 .sub-menu__wrapper--opened {
   opacity: 1;
-  user-select: all;
   pointer-events: initial;
 }
 .sub-menu__inner-wrapper {
