@@ -198,10 +198,11 @@ header.addEventListener("mouseleave", () => {
 });
 
 //make sure this only works on non landing pages
-if (!isLanding || window.innerWidth >= 1024) {
-  menuInnerWrapper.classList.add("header__menu-wrapper--scroll");
-  headerNavEl.classList.add("header__container--scroll");
-}
+  if (!isLanding) {
+    menuInnerWrapper.classList.add("header__menu-wrapper--scroll");
+    headerNavEl.classList.add("header__container--scroll");
+  } 
+
 
 // Reset menu on some elements
 const resetMenuScreen = () => {

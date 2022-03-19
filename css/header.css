@@ -21,9 +21,7 @@
   margin: 0 auto;
   transition: all 0.5s;
 }
-.header__container--scroll {
-  background: var(--main-background-light);
-}
+
 .header__menu-wrapper {
   top: 0;
   left: 0;
@@ -36,9 +34,7 @@
   opacity: 1;
   transition: all 0.5s;
 }
-.header__menu-wrapper--scroll {
-  background-color: var(--main-background);
-}
+
 .header__menu-wrapper--opened {
   opacity: 1;
   transform: translateX(0);
@@ -179,6 +175,13 @@
 }
 
 @media (min-width: 1024px) {
+  .header__menu-wrapper--scroll {
+  background-color: var(--main-background);
+}
+
+.header__container--scroll {
+  background: var(--main-background-light);
+}
   .body {
     background-color: gray;
   }
