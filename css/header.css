@@ -94,6 +94,7 @@
 
 .header__logo-container {
   width: 4rem;
+  margin-right: -2rem;
 }
 .header__logo {
   width: 100%;
@@ -182,12 +183,14 @@
 .header__container--scroll {
   background: var(--main-background-light);
 }
-  .body {
-    background-color: gray;
-  }
+
   .header {
     background: transparent;
   }
+  .header__logo-container {
+
+  margin-right: 0;
+}
   .header__menu-wrapper {
     position: static;
     width: 100%;
