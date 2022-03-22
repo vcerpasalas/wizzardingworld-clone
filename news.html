@@ -20,19 +20,19 @@
     </header>
 
 <main class="main">
-  <section class="page-hero">
-    <figure class="page-hero__image-container">
+  <section class="page-hero" id="page-hero">
+    <!-- <figure class="page-hero__image-container">
       <img class="page-hero-image" src="./images/news-hero-image.webp" alt="">
     </figure>
     <div class="page-hero-container-details">
       <h1 class="page-hero__title">News</h1>
       <p class="page-hero__description">Get the latest Wizarding World news here. Faster than an owl and more accurate than the Daily Prophet</p>
-      <!-- lottie here -->
+ 
        <lottie-player id="scroll-indicator-el" class="page-hero__scroll-indicator" src="./images/animated-scroll-indicator.json" speed="0.5" style="width:50px; height:50px"  loop autoplay></lottie-player>
-    </div>
+    </div> -->
   </section>
-  <section class="latest">
-    <h2 class="latest__title">Latest & greatest</h2>
+  <section class="latest" id="latest-posts">
+    <!-- <h2 class="latest__title">Latest & greatest</h2>
     <article class="latest-post">
       <figure class="latest-post__image-container"><img src="https://images.ctfassets.net/usf1vwtuqyxm/7c9HY7fJFyYNW8GrqC6UVv/bb777280eb100a1d723952520a0de23e/spells-hogwarts-legacy-approved-still.jpg?w=700&h=700&fit=fill&f=top&fm=webp" alt="" class="latest-post__image"></figure>
       <div class="latest-post__details-container"><h4 class="latest-post__subtitle">FEATURE SPOTLIGHT</h4> 
@@ -58,7 +58,7 @@
       <hr class="separator-hr">
       <figure class="separator-ornament__image-container"><img src="./images/ornament.svg" alt="" class="separator-ornament__image"></figure>
       <hr class="separator-hr">
-    </div>
+    </div> -->
   </section>
   <section class="more">
        <h2 class="more__title">More to explore</h2>
@@ -69,7 +69,7 @@
            <p class="more-post__author">By The Wizarding World Team</p>
         </article>
          <article class="more-post">
-          <figure class="more-post__image-container"><img src="https://images.ctfassets.net/usf1vwtuqyxm/5Ni4xK7vdm4P3GmLIJOwzw/a64887996895e2375b1cd75474db12ad/5016-hpcc-220224.jpg?w=315&h=215&fit=fill&f=top&fm=webp" alt="" class="more-post__image"></figure>
+          <figure class="more-post__image-container"><img src="https://images.ctfassets.net/usf1vwtuqyxm/5Ni4xK7vdm4P3GmLIJOwzw/a64887996895e2375b1cd75474db12ad/5016-hpcc-220224.jpg?w=315&h=215&fit=fill&f=top&fm=webp" alt="" class="more-post__image"></figure >
           <h3 class="more-post__title">Quiz Championship: Fantastic Beasts edition is coming soon!</h3>
            <p class="more-post__author">By The Wizarding World Team</p>
         </article>
@@ -77,6 +77,7 @@
   </section>
 </main>
     <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/lottie-player.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
     <script src="./js/header.js" type="module"></script>
     <script src="./js/index.js" type="module"></script>
   </body>
