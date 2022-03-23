@@ -214,8 +214,9 @@ height: 110px;
  display: grid;
  grid-template-columns: auto;
  justify-content: center;
- gap: 3.8rem;
-
+ gap: 3.5rem;
+  width: min(1024px, 90%);
+margin: 0 auto;
 }
 .more-post{
  width: 300px;
@@ -313,7 +314,7 @@ justify-content: space-between;
 }
 .more-posts-container {
   grid-template-columns: repeat(3, 1fr);
-  width: 1024px;
+
   margin: 0 auto;
 }
 .more-post__title{ 

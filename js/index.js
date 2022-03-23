@@ -1,4 +1,3 @@
-
 const pagesHero = document.getElementById("page-hero");
 const latestPosts = document.getElementById("latest-posts");
 const morePostsContainer = document.getElementById("more-posts-container");
@@ -77,6 +76,10 @@ const bodyEl = document.querySelector(".body");
 const isNews = bodyEl.classList.contains("news");
 const isFeatures = bodyEl.classList.contains("features");
 
+if (isNews || isFeatures) {
+  bodyEl.classList.add("clear-theme");
+}
+
 const getPagesData = async () => {
   if (isNews || isFeatures) {
     try {
@@ -102,3 +105,10 @@ const getPagesData = async () => {
 };
 
 getPagesData();
+
+// Blog - reproducir canción de Hogwarts
+
+function play() {
+  var audio = document.getElementById("audio");
+  audio.play();
+}
