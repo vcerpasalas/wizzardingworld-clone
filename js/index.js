@@ -20,7 +20,7 @@ const renderHeroHtml = ({ displayTitle, shortDescription, mainImage }, heroPageS
 const renderLatestPostsHtml = ({ displayTitle }, latestData, latestPostsSection) => {
   const secondaryPostsContainer = document.createElement("section");
   secondaryPostsContainer.classList.add("secondary-posts-container");
-  console.log(displayTitle.toLowerCase());
+
   const mainPageHref = `https://www.wizardingworld.com/${displayTitle.toLowerCase()}/`;
 
   latestData.forEach((element, i) => {
@@ -57,8 +57,6 @@ const renderLatestPostsHtml = ({ displayTitle }, latestData, latestPostsSection)
 };
 
 const renderMoreSectionHtml = ({ displayTitle }, moreSectionData, pageSection) => {
-  // displayTitle
-  //externalId
   const mainPageHref = `https://www.wizardingworld.com/${displayTitle.toLowerCase()}/`;
   moreSectionData.forEach((element) => {
     const { displayTitle, externalId, mainImage } = element.body;
@@ -76,29 +74,30 @@ const renderMoreSectionHtml = ({ displayTitle }, moreSectionData, pageSection) =
 };
 
 const bodyEl = document.querySelector(".body");
-
 const isNews = bodyEl.classList.contains("news");
 const isFeatures = bodyEl.classList.contains("features");
 
 const getPagesData = async () => {
-  try {
-    let response;
-    if (isNews) {
-       (response = await axios.get("../json/news/newsData.json"));
-    } else {
-       (response = await axios.get("../json/features/featuresData.json"));
+  if (isNews || isFeatures) {
+    try {
+      let response;
+      if (isNews) {
+        response = await axios.get("../json/news/newsData.json");
+      } else if (isFeatures) {
+        response = await axios.get("../json/features/featuresData.json");
+      }
+      const data = response.data;
+
+      const contentData = data.pageProps.content;
+      const latestContentData = contentData.referencedContent;
+      const moreContentData = data.pageProps.moreToExplore;
+
+      renderHeroHtml(contentData, pagesHero);
+      renderLatestPostsHtml(contentData, latestContentData, latestPosts);
+      renderMoreSectionHtml(contentData, moreContentData, morePostsContainer);
+    } catch (error) {
+      console.log(error);
     }
-    const data = response.data;
-
-    const contentData = data.pageProps.content;
-    const latestContentData = contentData.referencedContent;
-    const moreContentData = data.pageProps.moreToExplore;
-
-    renderHeroHtml(contentData, pagesHero);
-    renderLatestPostsHtml(contentData, latestContentData, latestPosts);
-    renderMoreSectionHtml(contentData, moreContentData, morePostsContainer);
-  } catch (error) {
-    console.log(error);
   }
 };
 
