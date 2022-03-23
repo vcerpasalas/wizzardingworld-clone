@@ -85,9 +85,13 @@ const getPagesData = async () => {
     try {
       let response;
       if (isNews) {
-        response = await axios.get("../json/news/newsData.json");
+        response = await axios.get(
+          "https://raw.githubusercontent.com/vcerpasalas/wizzardingworld-clone/develop/json/news/newsData.json"
+        );
       } else if (isFeatures) {
-        response = await axios.get("../json/features/featuresData.json");
+        response = await axios.get(
+          "https://raw.githubusercontent.com/vcerpasalas/wizzardingworld-clone/develop/json/features/featuresData.json"
+        );
       }
       const data = response.data;
 
