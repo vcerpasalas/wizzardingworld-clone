@@ -232,6 +232,13 @@
     color: white;
     border-bottom: solid 1px var(--primary-purple-hover);
   }
+  .el-page--active {
+    color: white;
+    border-bottom: solid 1px var(--primary-purple-hover);
+  }
+  .header__menu-list--opaque {
+    opacity: 0.5;
+  }
   .header__submenu-arrow,
   .header__submenu-arrow-icon {
     transform: rotate(90deg);

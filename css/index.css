@@ -30,7 +30,10 @@
   overflow-x: hidden;
   background-color: #10141b;
 }
+.clear-theme {
+  background-color: white;
 
+}
 /* Slider section */
 
 /* Blog section */
@@ -109,4 +112,14 @@
   transition: ease-in;
   border: 0;
   animation-timing-function: ease-in-out;
+}
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+@media (min-width:1024px) {
+  .clear-theme {
+      margin-top: 136px;
+  }
 }

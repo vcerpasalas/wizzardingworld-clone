@@ -65,9 +65,9 @@ header.innerHTML += `
 `;
 
 // Render html in submenu on mobile version
-const headerMenuListOnMobile = document.getElementById("header-menu-list");
+const headerMenuList = document.getElementById("header-menu-list");
 
-htmlRendering(headerMenuListOnMobile, headerList, renderHTMLSubmenuOnMobile);
+htmlRendering(headerMenuList, headerList, renderHTMLSubmenuOnMobile);
 
 //Render html in submenu on desktop version
 const submenuContainerDiscover = document.getElementById("submenu-container-discover");
@@ -197,12 +197,11 @@ header.addEventListener("mouseleave", () => {
   }
 });
 
-//make sure this only works on non landing pages
-  if (!isLanding) {
-    menuInnerWrapper.classList.add("header__menu-wrapper--scroll");
-    headerNavEl.classList.add("header__container--scroll");
-  } 
-
+//make sure dynamic header only works on landing pages
+if (!isLanding) {
+  menuInnerWrapper.classList.add("header__menu-wrapper--scroll");
+  headerNavEl.classList.add("header__container--scroll");
+}
 
 // Reset menu on some elements
 const resetMenuScreen = () => {
@@ -233,3 +232,4 @@ document.addEventListener("mouseleave", (event) => {
   )
     resetMenuScreen();
 });
+
