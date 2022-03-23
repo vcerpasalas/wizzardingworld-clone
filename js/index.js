@@ -56,25 +56,38 @@ const renderLatestPostsHtml = ({ displayTitle }, latestData, latestPostsSection)
   });
 };
 
-const renderMoreSectionHtml = (moreSectionData, pageSection) => {
+const renderMoreSectionHtml = ({ displayTitle }, moreSectionData, pageSection) => {
   // displayTitle
   //externalId
+  const mainPageHref = `https://www.wizardingworld.com/${displayTitle.toLowerCase()}/`;
   moreSectionData.forEach((element) => {
     const { displayTitle, externalId, mainImage } = element.body;
+    const { url } = mainImage.image.file;
     pageSection.innerHTML += `
-      
+      <a href=${mainPageHref + externalId} target="_blank">
        <article class="more-post">
-          <figure class="more-post__image-container"><img src="https://images.ctfassets.net/usf1vwtuqyxm/5Ni4xK7vdm4P3GmLIJOwzw/a64887996895e2375b1cd75474db12ad/5016-hpcc-220224.jpg?w=315&h=215&fit=fill&f=top&fm=webp" alt="" class="more-post__image"></figure >
-          <h3 class="more-post__title">Quiz Championship: Fantastic Beasts edition is coming soon!</h3>
+          <figure class="more-post__image-container"><img src="${url}" alt="" class="more-post__image"></figure >
+          <h3 class="more-post__title">${displayTitle}</h3>
            <p class="more-post__author">By The Wizarding World Team</p>
         </article>
+        </a>
       `;
   });
 };
 
+const bodyEl = document.querySelector(".body");
+
+const isNews = bodyEl.classList.contains("news");
+const isFeatures = bodyEl.classList.contains("features");
+
 const getPagesData = async () => {
   try {
-    const response = await axios.get("../json/news/newsData.json");
+    let response;
+    if (isNews) {
+       (response = await axios.get("../json/news/newsData.json"));
+    } else {
+       (response = await axios.get("../json/features/featuresData.json"));
+    }
     const data = response.data;
 
     const contentData = data.pageProps.content;
@@ -83,7 +96,7 @@ const getPagesData = async () => {
 
     renderHeroHtml(contentData, pagesHero);
     renderLatestPostsHtml(contentData, latestContentData, latestPosts);
-    renderMoreSectionHtml(moreContentData, morePostsContainer);
+    renderMoreSectionHtml(contentData, moreContentData, morePostsContainer);
   } catch (error) {
     console.log(error);
   }
