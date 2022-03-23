@@ -53,8 +53,8 @@ html {
   color: var(--text-color);
   font-size: 16px;
   line-height: 1.43;
-  margin-right: 60px;
-  margin-left: 60px;
+  margin: auto;
+  max-width: 1200px;
 }
 
 .card__container-line {
