@@ -48,7 +48,10 @@
   position: relative;
   min-height: 1px;
 }
-
+a {
+  color: inherit;
+  text-decoration:none ;
+}
 @media (min-width: 1024px) {
 .body {
     margin-top: 136px;
