@@ -32,6 +32,7 @@
 }
 .clear-theme {
   background-color: white;
+
 }
 /* Slider section */
 
@@ -115,4 +116,10 @@
 a {
   text-decoration: none;
   color: inherit;
+}
+
+@media (min-width:1024px) {
+  .clear-theme {
+      margin-top: 136px;
+  }
 }
