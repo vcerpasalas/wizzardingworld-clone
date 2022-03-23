@@ -20,15 +20,21 @@
     <header class="header" id="header"></header>
 
     <main class="main">
-      <!-- Blog Section -->
-      <section class="blog__intro">
-        <div class="hero">
-          <div class="hero-intro">
-            <h1><code>Wizzarding World</code>nuestro blog</h1>
-            <p>Conoce más del mágico mundo de Harry Potter & Animales Fantásticos en nuestros posts.</p>
+      <!-- Start Blog Section -->
+
+      <section class="audio">
+        <div class="audio-container">
+          <img class="audio__img" src="./images/blog/blog-1.jpg" />
+          <div class="audio__text">
+            <div class="audio__text-title">Hogwarts house Sound</div>
+            <div class="audio__text-subtitle">You Can Listen To a Hedwigs theme Song here</div>
+            <a><button type="button" class="audio__button" onclick="play()">Play now</button></a>
+            <audio id="audio" src="./media/Harry Potter Theme Song.mp3"></audio>
           </div>
         </div>
       </section>
+
+      <!-- End Blog Section -->
 
       <section class="blog__post">
         <div class="blog__post-1">
@@ -73,7 +79,7 @@
       <section></section>
       <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/lottie-player.js"></script>
       <script src="./js/header.js" type="module"></script>
-      <script src="./js/index.js" type="module"></script>
+      <script src="./js/index.js"></script>
     </main>
   </body>
 </html>

@@ -16,7 +16,7 @@
   --primary-font-200: "sofia_proextra_light";
   --accent-font-bold: "bluu_nextbold";
   --accent-font-titling: "bluu_nexttitling";
-  --alternative-accent-font:'masonsans_regular';
+  --alternative-accent-font: "masonsans_regular";
   --primary-purple: #6b63b5;
   --primary-purple-hover: #514a92;
   --primary-white: #ffff;
@@ -33,30 +33,81 @@
 /* Slider section */
 
 /* Blog section */
-.blog__posts {
+
+.audio {
+  width: 100%;
+  height: 100vh;
+  background-color: #10141b;
+  margin-top: 25%;
   display: flex;
-  flex-direction: column;
-  width: 100%;
-  max-width: 1440px;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.audio-container {
   margin: auto;
+  width: 50%;
+  border: 3px;
+  padding: 10px;
 }
 
-.blog__posts-image {
-  max-height: 595px;
-  clip-path: polygon(0 0, 100% 0, 100% 100%, 0 100%);
-  width: 100%;
-  position: relative;
-  min-height: 1px;
-}
-a {
-  color: inherit;
-  text-decoration:none ;
-}
-@media (min-width: 1024px) {
-.body {
-    margin-top: 136px;
+.audio__img {
+  width: 50%;
+  float: left;
+  padding: 20px;
+  width: 905.66px;
+  height: 509.42px;
 }
 
+.audio__text {
+  position: absolute;
+  left: 800px;
+  width: 50%;
+  float: left;
+  padding: 20px;
+  left: 0;
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  margin-top: 200px;
+  align-items: center;
+  margin-left: 20px;
 }
 
-  
+.audio__text-title {
+  font-weight: 700;
+  font-size: 25px;
+  line-height: 42px;
+  color: #f9f4f2;
+  text-align: left;
+  margin-top: 5px;
+}
+
+.audio__text-subtitle {
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 42px;
+  color: #f9f4f2;
+  text-align: left;
+  margin-top: 5px;
+}
+
+.audio__button {
+  width: 220px;
+  height: 42px;
+  background-color: #6b63b5;
+  color: #fff;
+  font-size: 14px;
+  text-align: center;
+  font-weight: 700;
+  letter-spacing: 1.5px;
+  border-top-left-radius: 20px;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  border-top-right-radius: 20px;
+  margin-top: 40px;
+  animation: growUp 1s;
+  transition: ease-in;
+  border: 0;
+  animation-timing-function: ease-in-out;
+}
