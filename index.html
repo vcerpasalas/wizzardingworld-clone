@@ -5,6 +5,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./css/index.css" />
+    <link rel="stylesheet" href="./css/blog2.css" />
     <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css" />
     <link
       rel="stylesheet"
@@ -22,75 +23,99 @@
     <main class="main">
       <!-- Start Blog Section -->
 
-      <section class="audio">
-        <div class="audio-container">
-          <img class="audio__img" src="./images/blog/blog-audio.jpg" />
-          <div class="audio__text">
-            <h1 class="audio__text-title">Melodía oficial de Hogwarts</h1>
-            <h2 class="audio__text-subtitle">Puedes escuchar la conocida melodía del universo de Harry Potter aquí</h2>
-            <a><button type="button" class="audio__button" onclick="play()">Escuchar ahora</button></a>
-            <audio id="audio" src="./media/Harry Potter Theme Song.mp3"></audio>
+      <div class="blog-section">
+        <div class="blog-card">
+          <div class="meta">
+            <div class="photo" style="background-image: url(./images/blog/blog-audio.jpg)"></div>
+          </div>
+          <div class="description">
+            <h1>Melodía oficial de Hogwarts</h1>
+            <h2>Bla bla bla...</h2>
+            <p>
+              Puedes escuchar la conocida melodía del universo de Harry Potter aquí
+            </p>
+            <p class="read-more">
+              <a><button type="button" class="audio__button" onclick="play()">Escuchar ahora</button></a>
+              <audio id="audio" src="./media/Harry Potter Theme Song.mp3"></audio>
+            </p>
           </div>
         </div>
-      </section>
-      <section class="audio">
-        <div class="audio-container">
-          <img class="audio__img" src="./images/blog/blog-1.jpg" />
-          <div class="audio__text">
-            <h3 class="audio__text-subtitle">Colección</h3>
-            <h1 class="audio__text-title">Más información sobre Harry Potter y el legado maldito</h1>
-            <h2 class="audio__text-subtitle">
+
+        <div class="blog-card alt">
+          <div class="meta">
+            <div class="photo" style="background-image: url(./images/blog/blog-1.jpg)"></div>
+          </div>
+          <div class="description">
+            <h1>Colección</h1>
+            <h2>Más información sobre Harry Potter y el legado maldito</h2>
+            <p>
               Visita la colección, donde podrás conocer más de la obra galardonada digitalmente, a través de exclusivos
               videos, quizzes y otras funciones.
-            </h2>
-            <button class="blog__post-button">Visita la colección</button>
+            </p>
+            <p class="read-more">
+              <a><button type="button" class="audio__button">Visita la colección</button></a>
+            </p>
           </div>
         </div>
-      </section>
-      <section class="audio">
-        <div class="audio-container">
-          <img class="audio__img" src="./images/blog/blog-2.jpg" />
-          <div class="audio__text">
-            <h1 class="audio__text-title">Participa en nuestra ceremonia de varitas</h1>
-            <h2 class="audio__text-subtitle">
+
+        <div class="blog-card">
+          <div class="meta">
+            <div class="photo" style="background-image: url(./images/blog/blog-2.jpg)"></div>
+          </div>
+          <div class="description">
+            <h1>Participa en nuestra ceremonia de varitas</h1>
+            <h2>Bla bla bla...</h2>
+            <p>
               Encontrar una varita es un rito de iniciación de todos los magos y brujas jóvenes. Entonces, ¿qué estás
               esperando? Descubre la tuya en la experiencia de varitas en linea de Harry Potter Fan Club.
-            </h2>
-            <button class="blog__post-button">Encuentra tu varita</button>
+            </p>
+            <p class="read-more">
+              <a><button type="button" class="audio__button">Encuentra tu varita</button></a>
+            </p>
           </div>
         </div>
-      </section>
-      <section class="audio">
-        <div class="audio-container">
-          <img class="audio__img" src="./images/blog/blog-3.jpg" />
-          <div class="audio__text">
-            <h1 class="audio__text-title">Acércate a la magia, en cualquier momento y lugar</h1>
-            <h2 class="audio__text-subtitle">
+
+        <div class="blog-card alt">
+          <div class="meta">
+            <div class="photo" style="background-image: url(./images/blog/blog-3.jpg)"></div>
+          </div>
+          <div class="description">
+            <h1>Acércate a la magia, en cualquier momento y lugar</h1>
+            <h2>Bla bla bla...</h2>
+            <p>
               Únase al Club de fans de Harry Potter, participe en la Ceremonia de clasificación de casas de Hogwarts,
               juegue en concursos y acertijos, y explore todos los rincones del mundo mágico con la aplicación oficial.
-            </h2>
-            <button class="blog__post-button">Saber más</button>
+            </p>
+            <p class="read-more">
+              <a><button type="button" class="audio__button">Saber más</button></a>
+            </p>
           </div>
         </div>
-      </section>
-      <section class="audio">
-        <div class="audio-container">
-          <img class="audio__img" src="./images/blog/blog-4.jpg" />
-          <div class="audio__text">
-            <h1 class="audio__text-title">Descubre en qué casa de Hogwarts estás</h1>
-            <h2 class="audio__text-subtitle">
+
+        <div class="blog-card">
+          <div class="meta">
+            <div class="photo" style="background-image: url(./images/blog/blog-4.jpg)"></div>
+          </div>
+          <div class="description">
+            <h1>Descubre en qué casa de Hogwarts estás</h1>
+            <h2>Bla bla bla...</h2>
+            <p>
               ¿Eres valiente, ambicioso, leal o sabio? Participa en la Ceremonia de Selección para ver dónde te coloca
               el Sombrero Seleccionador.
-            </h2>
+            </p>
+            <p class="read-more">
+              <a><button type="button" class="audio__button">Descubrir mi casa</button></a>
+            </p>
           </div>
         </div>
-      </section>
+
+      </div>
 
       <!-- End Blog Section -->
 
       <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/lottie-player.js"></script>
       <script src="./js/header.js" type="module"></script>
-      <script src="./js/index.js" type="module"></script>
+      <script src="./js/index.js""></script>
     </main>
   </body>
 </html>
