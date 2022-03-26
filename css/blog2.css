@@ -1,4 +1,4 @@
-/*PEN STYLES*/
+/* Estilos cards de Blog */
 * {
   box-sizing: border-box;
 }
@@ -16,16 +16,17 @@ body {
   margin-bottom: 1.6%;
   background: #fff;
   line-height: 1.4;
-  font-family: sans-serif;
+  font-family: var(--primary-font-400), sans-serif;
   border-radius: 5px;
   overflow: hidden;
   z-index: 0;
+  /* Media Queries */
 }
 .blog-card a {
   color: inherit;
 }
 .blog-card a:hover {
-  color: #5ad67d;
+  color: #514a92;
 }
 .blog-card:hover .photo {
   transform: scale(1.3) rotate(3deg);
@@ -99,25 +100,25 @@ body {
 }
 .blog-card .description h1,
 .blog-card .description h2 {
-  font-family: Poppins, sans-serif;
+  font-family: var(--primary-font-500), sans-serif;
 }
 .blog-card .description h1 {
   line-height: 1;
   margin: 0;
-  font-size: 1.7rem;
+  font-size: 1.8rem;
+  color: #514a92;
 }
 .blog-card .description h2 {
-  font-size: 1rem;
+  font-size: 1.2rem;
   font-weight: 300;
-  text-transform: uppercase;
-  color: #a2a2a2;
+  color: #929292;
   margin-top: 5px;
 }
 .blog-card .description .read-more {
   text-align: right;
 }
 .blog-card .description .read-more a {
-  color: #5ad67d;
+  color: #514a92;
   display: inline-block;
   position: relative;
 }
@@ -131,7 +132,6 @@ body {
 }
 .blog-card .description .read-more a:hover:after {
   margin-left: 5px;
-  opacity: 1;
 }
 .blog-card p {
   position: relative;
@@ -144,7 +144,7 @@ body {
   content: "";
   position: absolute;
   height: 5px;
-  background: #5ad67d;
+  background: #514a92;
   width: 35px;
   top: -0.75rem;
   border-radius: 3px;

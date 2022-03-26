@@ -1,4 +1,9 @@
+
+  <link href="http://fonts.cdnfonts.com/css/harry-potter" rel="stylesheet">
+  <style> @import url:('http://fonts.cdnfonts.com/css/harry-potter'); 
+  </style>
 <!DOCTYPE html>
+
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -6,6 +11,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <link rel="stylesheet" href="./css/index.css" />
     <link rel="stylesheet" href="./css/blog2.css" />
+    <link rel="stylesheet" href="./css/hero-compilado.css" />
+    <link rel="stylesheet" href="./css/hero2-compilado.css" />
     <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css" />
     <link
       rel="stylesheet"
@@ -21,6 +28,54 @@
     <header class="header" id="header"></header>
 
     <main class="main">
+
+    <!-- Hero Section -->
+      <article class="hero">
+        <div class="hero-container">
+          <div class="hero__message">
+            <h2 class="hero__message-title">
+              Wizarding World: The Official Home of Harry Potter
+            </h2>
+            <h2 class="hero__message-subtitle">
+              Play our Quiz Championship: Fantastic Beasts edition
+            </h2>
+            <p class="hero__message-paragraph">
+              ⚡🧙 Earn points for your Hogwarts house in our latest quiz challenge! Our new Quiz Championship will test your Fantastic Beasts knowledge with 30 questions. Good luck! ⚡🧙 
+            </p>  
+            <div class="hero__message-shopping-container">
+              <div class="hero__message-cheapest-price-container">
+              </div>
+              <a href="#" class="hero__message-buy-button hero__message-buy-button--active">
+                Hechizos
+              </a>
+              <a href="#" class="hero__message-buy-button hero__message-buy-button--active">
+                Personajes
+              </a>
+            </div>
+          </div>
+          <div class="hero__figure">
+            <figure class="hero__figure-image-container">
+              <img src="./public/img/hero.jpg" alt="Imagen de portada" class="hero__figure-image" />
+            </figure>
+          </div>
+        </div>
+        <figure class="hero__rise-container">
+          <img src="./public/img/rise.svg" alt="Rise de adorno" class="hero__rise" />
+        </figure>
+        <figure class="hero__arrow-container">
+          <img src="./public/img/arrow.svg" alt="Arrow de adorno" class="hero__arrow" />
+        </figure>
+        <figure class="hero__bubbles-container">
+          <img src="./public/img/bubbles.svg" alt="Bubbles de adorno" class="hero__bubbles" />
+        </figure>
+        <figure class="hero__blob-container">
+          <img src="./public/img/blob.svg" alt="Blob de adorno" class="hero__blob" />
+        </figure>
+        <figure class="hero__asterisk-container">
+          <img src="./public/img/asterisk.svg" alt="Asterisk de adorno" class="hero__asterisk" />
+        </figure>
+      </article>
+
       <!-- Start Blog Section -->
 
       <div class="blog-section">
@@ -30,12 +85,12 @@
           </div>
           <div class="description">
             <h1>Melodía oficial de Hogwarts</h1>
-            <h2>Bla bla bla...</h2>
+            <h2>Revive una experiencia inolvidable</h2>
             <p>
-              Puedes escuchar la conocida melodía del universo de Harry Potter aquí
+              Conocida por diversas generaciones de magos y brujas a través de los años. Puedes escuchar la conocida melodía del universo de Harry Potter aquí. Disfruta de tu estadía en Wizzarding World. 
             </p>
             <p class="read-more">
-              <a><button type="button" class="audio__button" onclick="play()">Escuchar ahora</button></a>
+              <a class="audio__button-container"><button type="button" class="audio__button" onclick="play()">Escuchar ahora</button></a>
               <audio id="audio" src="./media/Harry Potter Theme Song.mp3"></audio>
             </p>
           </div>
@@ -46,14 +101,14 @@
             <div class="photo" style="background-image: url(./images/blog/blog-1.jpg)"></div>
           </div>
           <div class="description">
-            <h1>Colección</h1>
-            <h2>Más información sobre Harry Potter y el legado maldito</h2>
+            <h1>Colección especial</h1>
+            <h2>Más información sobre el libro Harry Potter y el legado maldito</h2>
             <p>
-              Visita la colección, donde podrás conocer más de la obra galardonada digitalmente, a través de exclusivos
-              videos, quizzes y otras funciones.
+              Visita nuestra nueva colección, donde podrás conocer más de la obra galardonada. Podrás sumergirte en este nuevo universo a través de exclusivos
+              videos, quizzes y demás funciones.
             </p>
             <p class="read-more">
-              <a><button type="button" class="audio__button">Visita la colección</button></a>
+              <a class="audio__button-container"><button type="button" class="audio__button">Visita la colección</button></a>
             </p>
           </div>
         </div>
@@ -64,13 +119,13 @@
           </div>
           <div class="description">
             <h1>Participa en nuestra ceremonia de varitas</h1>
-            <h2>Bla bla bla...</h2>
+            <h2>Miles de variedades y modelos</h2>
             <p>
               Encontrar una varita es un rito de iniciación de todos los magos y brujas jóvenes. Entonces, ¿qué estás
-              esperando? Descubre la tuya en la experiencia de varitas en linea de Harry Potter Fan Club.
+              esperando? Descubre la tuya en la experiencia de varitas en linea, de Harry Potter Fan Club.
             </p>
             <p class="read-more">
-              <a><button type="button" class="audio__button">Encuentra tu varita</button></a>
+              <a class="audio__button-container"><button type="button" class="audio__button">Encuentra tu varita</button></a>
             </p>
           </div>
         </div>
@@ -81,13 +136,13 @@
           </div>
           <div class="description">
             <h1>Acércate a la magia, en cualquier momento y lugar</h1>
-            <h2>Bla bla bla...</h2>
+            <h2>Tu momento ha llegado</h2>
             <p>
               Únase al Club de fans de Harry Potter, participe en la Ceremonia de clasificación de casas de Hogwarts,
               juegue en concursos y acertijos, y explore todos los rincones del mundo mágico con la aplicación oficial.
             </p>
             <p class="read-more">
-              <a><button type="button" class="audio__button">Saber más</button></a>
+              <a class="audio__button-container"><button type="button" class="audio__button">Saber más</button></a>
             </p>
           </div>
         </div>
@@ -100,11 +155,11 @@
             <h1>Descubre en qué casa de Hogwarts estás</h1>
             <h2>Bla bla bla...</h2>
             <p>
-              ¿Eres valiente, ambicioso, leal o sabio? Participa en la Ceremonia de Selección para ver dónde te coloca
+              ¿Eres valiente, ambicioso, leal o sabio? ¿Crees estar seleccionado en la casa que esperas? Participa en la Ceremonia de Selección Oficial para ver dónde te coloca
               el Sombrero Seleccionador.
             </p>
             <p class="read-more">
-              <a><button type="button" class="audio__button">Descubrir mi casa</button></a>
+              <a class="audio__button-container"><button type="button" class="audio__button">Descubrir mi casa</button></a>
             </p>
           </div>
         </div>

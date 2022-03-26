@@ -54,10 +54,10 @@ margin-right:-10px ;
 
 }
 .latest__title {
- display: flex;
- align-items: center;
- justify-content: center;
- font-size: 1.8em;
+display: flex;
+align-items: center;
+justify-content: center;
+font-size: 1.8em;
 font-family:  var(--accent-font-bold);
 text-align: center;
 height: 130px;
