@@ -1,12 +1,12 @@
-/* .body {
+.body {
   background-color: #10141b;
   padding: 1rem;
-} */
+}
 .footer {
   font-family: sans-serif;
   background-color: #10141b;
-  /* font-size: 1.1rem; */
   font-weight: 600;
+  margin: 2rem 1rem;
 }
 .footer__border {
   border: 1px solid #696b78;
@@ -47,6 +47,7 @@
 
 .footer-credits-up__logo-container {
   display: flex;
+  padding-bottom: 2rem;
 }
 .footer-credits-up__logo-content {
   padding: 0;
