@@ -1,7 +1,7 @@
 @import url("../fonts/fonts.css");
 @import url("./header.css");
 @import url("./page.css");
-
+@import url("./footer.css");
 * {
   box-sizing: border-box;
 }
