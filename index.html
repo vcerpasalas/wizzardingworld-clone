@@ -1,121 +1,203 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="./css/index.css" />
-    <link rel="stylesheet" href="./css/blog2.css" />
-    <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css" />
-    <link
-      rel="stylesheet"
-      href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css"
-      integrity="sha512-NmLkDIU1C/C88wi324HBc+S2kLhi08PN5GDeUVVVC/BVt/9Izdsc9SVeVfA1UZbY3sHUlDSyRXhCzHfr6hmPPw=="
-      crossorigin="anonymous"
-      referrerpolicy="no-referrer"
-    />
-    <title>⚡👓 Wizarding World | Clone</title>
-  </head>
 
-  <body class="body landing">
-    <header class="header" id="header"></header>
+<head>
+  <meta charset="UTF-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="./css/index.css" />
+  <link rel="stylesheet" href="./css/blog2.css" />
+  <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css" />
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css"
+    integrity="sha512-NmLkDIU1C/C88wi324HBc+S2kLhi08PN5GDeUVVVC/BVt/9Izdsc9SVeVfA1UZbY3sHUlDSyRXhCzHfr6hmPPw=="
+    crossorigin="anonymous" referrerpolicy="no-referrer" />
+  <title>⚡👓 Wizarding World | Clone</title>
+</head>
 
-    <main class="main">
-      <!-- Start Blog Section -->
+<body class="body landing">
+  <header class="header" id="header"></header>
 
-      <div class="blog-section">
-        <div class="blog-card">
-          <div class="meta">
-            <div class="photo" style="background-image: url(./images/blog/blog-audio.jpg)"></div>
-          </div>
-          <div class="description">
-            <h1>Melodía oficial de Hogwarts</h1>
-            <h2>Bla bla bla...</h2>
-            <p>
-              Puedes escuchar la conocida melodía del universo de Harry Potter aquí
-            </p>
-            <p class="read-more">
-              <a><button type="button" class="audio__button" onclick="play()">Escuchar ahora</button></a>
-              <audio id="audio" src="./media/Harry Potter Theme Song.mp3"></audio>
-            </p>
-          </div>
+  <main class="main">
+    <!-- Start Blog Section -->
+
+    <div class="blog-section">
+      <div class="blog-card">
+        <div class="meta">
+          <div class="photo" style="background-image: url(./images/blog/blog-audio.jpg)"></div>
         </div>
-
-        <div class="blog-card alt">
-          <div class="meta">
-            <div class="photo" style="background-image: url(./images/blog/blog-1.jpg)"></div>
-          </div>
-          <div class="description">
-            <h1>Colección</h1>
-            <h2>Más información sobre Harry Potter y el legado maldito</h2>
-            <p>
-              Visita la colección, donde podrás conocer más de la obra galardonada digitalmente, a través de exclusivos
-              videos, quizzes y otras funciones.
-            </p>
-            <p class="read-more">
-              <a><button type="button" class="audio__button">Visita la colección</button></a>
-            </p>
-          </div>
+        <div class="description">
+          <h1>Melodía oficial de Hogwarts</h1>
+          <h2>Bla bla bla...</h2>
+          <p>
+            Puedes escuchar la conocida melodía del universo de Harry Potter aquí
+          </p>
+          <p class="read-more">
+            <a><button type="button" class="audio__button" onclick="play()">Escuchar ahora</button></a>
+            <audio id="audio" src="./media/Harry Potter Theme Song.mp3"></audio>
+          </p>
         </div>
-
-        <div class="blog-card">
-          <div class="meta">
-            <div class="photo" style="background-image: url(./images/blog/blog-2.jpg)"></div>
-          </div>
-          <div class="description">
-            <h1>Participa en nuestra ceremonia de varitas</h1>
-            <h2>Bla bla bla...</h2>
-            <p>
-              Encontrar una varita es un rito de iniciación de todos los magos y brujas jóvenes. Entonces, ¿qué estás
-              esperando? Descubre la tuya en la experiencia de varitas en linea de Harry Potter Fan Club.
-            </p>
-            <p class="read-more">
-              <a><button type="button" class="audio__button">Encuentra tu varita</button></a>
-            </p>
-          </div>
-        </div>
-
-        <div class="blog-card alt">
-          <div class="meta">
-            <div class="photo" style="background-image: url(./images/blog/blog-3.jpg)"></div>
-          </div>
-          <div class="description">
-            <h1>Acércate a la magia, en cualquier momento y lugar</h1>
-            <h2>Bla bla bla...</h2>
-            <p>
-              Únase al Club de fans de Harry Potter, participe en la Ceremonia de clasificación de casas de Hogwarts,
-              juegue en concursos y acertijos, y explore todos los rincones del mundo mágico con la aplicación oficial.
-            </p>
-            <p class="read-more">
-              <a><button type="button" class="audio__button">Saber más</button></a>
-            </p>
-          </div>
-        </div>
-
-        <div class="blog-card">
-          <div class="meta">
-            <div class="photo" style="background-image: url(./images/blog/blog-4.jpg)"></div>
-          </div>
-          <div class="description">
-            <h1>Descubre en qué casa de Hogwarts estás</h1>
-            <h2>Bla bla bla...</h2>
-            <p>
-              ¿Eres valiente, ambicioso, leal o sabio? Participa en la Ceremonia de Selección para ver dónde te coloca
-              el Sombrero Seleccionador.
-            </p>
-            <p class="read-more">
-              <a><button type="button" class="audio__button">Descubrir mi casa</button></a>
-            </p>
-          </div>
-        </div>
-
       </div>
 
-      <!-- End Blog Section -->
+      <div class="blog-card alt">
+        <div class="meta">
+          <div class="photo" style="background-image: url(./images/blog/blog-1.jpg)"></div>
+        </div>
+        <div class="description">
+          <h1>Colección</h1>
+          <h2>Más información sobre Harry Potter y el legado maldito</h2>
+          <p>
+            Visita la colección, donde podrás conocer más de la obra galardonada digitalmente, a través de exclusivos
+            videos, quizzes y otras funciones.
+          </p>
+          <p class="read-more">
+            <a><button type="button" class="audio__button">Visita la colección</button></a>
+          </p>
+        </div>
+      </div>
 
-      <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/lottie-player.js"></script>
-      <script src="./js/header.js" type="module"></script>
-      <script src="./js/index.js""></script>
+      <div class="blog-card">
+        <div class="meta">
+          <div class="photo" style="background-image: url(./images/blog/blog-2.jpg)"></div>
+        </div>
+        <div class="description">
+          <h1>Participa en nuestra ceremonia de varitas</h1>
+          <h2>Bla bla bla...</h2>
+          <p>
+            Encontrar una varita es un rito de iniciación de todos los magos y brujas jóvenes. Entonces, ¿qué estás
+            esperando? Descubre la tuya en la experiencia de varitas en linea de Harry Potter Fan Club.
+          </p>
+          <p class="read-more">
+            <a><button type="button" class="audio__button">Encuentra tu varita</button></a>
+          </p>
+        </div>
+      </div>
+
+      <div class="blog-card alt">
+        <div class="meta">
+          <div class="photo" style="background-image: url(./images/blog/blog-3.jpg)"></div>
+        </div>
+        <div class="description">
+          <h1>Acércate a la magia, en cualquier momento y lugar</h1>
+          <h2>Bla bla bla...</h2>
+          <p>
+            Únase al Club de fans de Harry Potter, participe en la Ceremonia de clasificación de casas de Hogwarts,
+            juegue en concursos y acertijos, y explore todos los rincones del mundo mágico con la aplicación oficial.
+          </p>
+          <p class="read-more">
+            <a><button type="button" class="audio__button">Saber más</button></a>
+          </p>
+        </div>
+      </div>
+
+      <div class="blog-card">
+        <div class="meta">
+          <div class="photo" style="background-image: url(./images/blog/blog-4.jpg)"></div>
+        </div>
+        <div class="description">
+          <h1>Descubre en qué casa de Hogwarts estás</h1>
+          <h2>Bla bla bla...</h2>
+          <p>
+            ¿Eres valiente, ambicioso, leal o sabio? Participa en la Ceremonia de Selección para ver dónde te coloca
+            el Sombrero Seleccionador.
+          </p>
+          <p class="read-more">
+            <a><button type="button" class="audio__button">Descubrir mi casa</button></a>
+          </p>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- End Blog Section -->
+
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/lottie-player.js"></script>
+    <script src="./js/header.js" type="module"></script>
+    <script src="./js/index.js""></script>
     </main>
+    <footer class=" footer">
+      <div class="footer__border">
+          <article class="footer__credits-container">
+              <section class="footer__credits-up">
+                  <ul class="footer-credits-up__links-item-list">
+                      <li class="footer-credits-up__link-item">
+                          <a href="https://www.wizardingworld.com/about-us" class="footer-credits-up__link">About Us</a>
+                      </li>
+                      <li class="footer-credits-up__link-item">
+                          <a href="https://www.wizardingworld.com/press" class="footer-credits-up__link">Press</a>
+                      </li>
+                      <li class="footer-credits-up__link-item">
+                          <a href="https://help.wizardingworld.com/hc/en-us" class="footer-credits-up__link">FAQs</a>
+                      </li>
+                      <li class="footer-credits-up__link-item">
+                          <a href="https://www.wizardingworld.com/terms" class="footer-credits-up__link">Terms & Conditions</a>
+                      </li>
+                      <li class="footer-credits-up__link-item">
+                          <a href="https://www.wizardingworld.com/privacy#choices" class="footer-credits-up__link">Ad Choices</a>
+                      </li>
+                      <li class="footer-credits-up__link-item">
+                          <a href="https://www.wizardingworld.com/privacy" class="footer-credits-up__link">Privacy & Cookies</a>
+                      </li>
+                      <li class="footer-credits-up__link-item">
+                          <a href="https://www.wizardingworld.com/childrens-privacy-policy" class="footer-credits-up__link">Children's
+                              Privacy
+                              Policy</a>
+                      </li>
+                      <li class="footer-credits-up__link-item">
+                          <a href="https://www.wizardingworld.com/legals" class="footer-credits-up__link">Legals</a>
+                      </li>
+                  </ul>
+                  <a href="https://www.wizardingworld.com/" class="footer-credits-up__logo-container">
+                      <figure class="footer-credits-up__logo-content">
+                          <img src="img/wwlogo.svg" alt="wizardingWorldLogo" class="footer-credits-up__logo" />
+                      </figure>
+                  </a>
+
+              </section>
+              <hr class="footer__line-divider" />
+              <section class="footer__credits-down">
+                  <article class="footer-credits-down__paragraphs-content">
+                      <h3 class="footer-credits-down__title"> &COPY; Wizarding World Digital 2022 </h3>
+                      <p class="footer-credits-down__paragraph">Looking for Pottermore? Wizarding World is the new official home of Harry Potter &
+                          Fantastic
+                          Beasts. Join the Fan Club and bring your traits with you.</p>
+                      <p class="footer-credits-down__paragraph">Brought to you by Wizarding World Digital, a partnership between Warner Bros. and
+                          Pottermore.
+                          Delivering the latest news and official products from the Wizarding World and our partners.
+                      </p>
+                      <p class="footer-credits-down__paragraph">TM & &COPY; WBEI. WIZARDING WORLD Publishing and Theatrical Stage Rights &COPY; J.K. Rowling.
+                      </p>
+
+                  </article>
+                  <ul class="footer-credits-down__links-list">
+                      <li class="footer-credits-down__links">
+                          <a href="https://www.youtube.com/channel/UChPRO1CB_Hvd0TvKRU62iSQ" class="footer-credits-down__link-icon">
+                              <img src="./img/youtube.svg" alt="youtubeIcon" class="footer-credits-down__icon"/>
+                          </a>
+                      </li>
+                      <li class="footer-credits-down__links">
+                          <a href="https://www.facebook.com/wizardingworld" class="footer-credits-down__link-icon">
+                              <img src="./img/facebook.svg" alt="facebookIcon" class="footer-credits-down__icon"/>
+                          </a>
+                      </li>
+                      <li class="footer-credits-down__links">
+                          <a href="https://www.instagram.com/wizardingworld/" class="footer-credits-down__link-icon">
+                              <img src="./img/instagram.svg" alt="instagramIcon" class="footer-credits-down__icon"/>
+                          </a>
+                      </li>
+                      <li class="footer-credits-down__links">
+                          <a href="https://twitter.com/wizardingworld" class="footer-credits-down__link-icon">
+                              <img src="./img/twitter.svg" alt="twitterIcon" class="footer-credits-down__icon"/>
+                          </a>
+                      </li>
+                  </ul>
+
+              </section>
+          </article>
+      </div>
+  </footer>
+
+</body>
+
+</html>
   </body>
 </html>
