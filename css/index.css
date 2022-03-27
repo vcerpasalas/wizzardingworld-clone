@@ -2,6 +2,7 @@
 @import url("./header.css");
 @import url("./page.css");
 @import url("http://fonts.cdnfonts.com/css/harry-potter");
+@import url("./footer.css");
 
 * {
   box-sizing: border-box;
