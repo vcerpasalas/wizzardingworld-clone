@@ -67,7 +67,7 @@
 
 .card__buttons-twitter {
   text-decoration: none;
-  font-size: 20px;
+  font-size: 16px;
   background-color: var(--primary-color);
   padding: 10px;
   color: var(--secondary-color);
@@ -78,7 +78,7 @@
   cursor: pointer;
   border: none;
   color: var(--secondary-color);
-  font-size: 20px;
+  font-size: 16px;
   font-weight: 700;
   background-color: var(--primary-color);
   padding: 10px;
