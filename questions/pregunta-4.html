@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Play - Quizzes</title>
+    <link rel="stylesheet" href="./css/pregunta.css" />
+    <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css" />
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+<body class="body">
+
+    <main class="main">
+        <div class="line-container">
+            4/5
+            <hr class="line__hr" />
+        </div>
+
+        <h1 class="question">Which Hogwarts house has green as one of its colours?</h1>
+
+        <figure class="image__container">
+            <img src="https://movement-prod.imgix.net/uploads/96/331daece344515abe816fbd456b056/upload.jpg?auto=compress,format&fit=min&h=324&w=576" alt="imagen de la pregunta" class="image__img" />
+        </figure>
+
+        <div class="answers_container">
+            <div class="answers">
+                <div class="answer">
+                    <input type="radio" id="Ravenclaw" name="question__text" value="Ravenclaw" />
+                    <label for="Ravenclaw">Ravenclaw</label>
+                </div>
+
+                <div class="answer">
+                    <input type="radio" id="Slytherin" name="question__text" value="Slytherin"/>
+                    <label for="Slytherin">Slytherin</label>
+                </div>
+
+                <div class="answer">
+                    <input type="radio" id="Hufflepuff" name="question__text" value="Hufflepuff" />
+                    <label for="Hufflepuff">Hufflepuff</label>
+                </div>
+
+                <div class="answer">
+                    <input type="radio" id="Gryffindor" name="question__text" value="Gryffindor"/>
+                    <label for="Gryffindor" >Gryffindor</label>
+                </div>
+            </div>
+
+            <button class="boton" id="btn-siguiente">Next</button></a>
+        </div>
+
+    </main>
+
+    <script src="./js/pregunta-4.js"></script>
+</body>
+</html>
