@@ -1,7 +1,5 @@
 @charset "UTF-8";
-
 /* Estilos de la sección Hero */
-
 :root {
   --primary-theme-color: #20232a;
   --secondary-theme-color: #282c34;
@@ -30,7 +28,6 @@
   overflow: hidden;
   min-height: 100vh;
 }
-
 .hero__message {
   display: flex;
   flex-direction: column;
@@ -39,35 +36,30 @@
   gap: 2rem;
   text-align: center;
 }
-
 @media (min-width: 854px) {
   .hero__message {
     text-align: start;
     gap: 2rem;
   }
 }
-
 .hero__message-title {
   font-weight: 100;
   font-size: 4.5rem;
   font-family: "Harry Potter", sans-serif;
   margin: 0;
 }
-
 .hero__message-subtitle {
   font-weight: 400;
   font-family: "sofia_probold", sans-serif;
   font-size: 2.2rem;
   margin: 0;
 }
-
 .hero__message-paragraph {
   font-weight: 300;
   font-family: "sofia_prolight", sans-serif;
   font-size: 1.4rem;
   margin: 0;
 }
-
 .hero__message-pages-container {
   display: flex;
   flex-direction: row;
@@ -75,13 +67,11 @@
   justify-content: center;
   gap: 2rem;
 }
-
 @media (min-width: 854px) {
   .hero__message-pages-container {
     justify-content: stretch;
   }
 }
-
 .hero__message-page-button {
   text-decoration: none;
   font-size: 1.325rem;
@@ -92,13 +82,10 @@
   border-radius: 1.5rem;
   transition: var(--all-transitions);
 }
-
-.hero__message-page-button--active,
-.hero__message-page-button:hover {
+.hero__message-page-button--active, .hero__message-page-button:hover {
   background-color: var(--button-color-active);
   color: var(--button-text-color);
 }
-
 .hero__figure-image-container {
   display: flex;
   max-width: 250px;
@@ -106,13 +93,11 @@
   overflow: hidden;
   margin: 0;
 }
-
 @media (min-width: 854px) {
   .hero__figure-image-container {
     max-width: 640px;
   }
 }
-
 .hero__figure-image {
   width: 100%;
 }
@@ -127,10 +112,11 @@
   margin: auto;
   padding: var(--padding-container);
 }
-
 @media (min-width: 854px) {
   .hero-container {
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
 }
+
+/*# sourceMappingURL=hero2-compilado.css.map */
