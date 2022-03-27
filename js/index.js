@@ -117,4 +117,29 @@ function play() {
   audio.play();
 }
 
+// Uso de Local Storage - Ejemplo datos de Harry Potter
+
+guardar_localstorage();
+
+function guardar_localstorage() {
+  let persona = {
+    nombre: "Harry",
+    apellido: "Potter",
+    altura: "1.68 m",
+    casa: "Gryffindor",
+    patronus: "ciervo",
+    ocupación: "jefe de oficina de aurores",
+    correo: "harry-potter@hogwarts.edu.uk",
+    coordenadas: {
+      latitud: 10,
+      longitud: -10,
+    },
+  };
+}
+
+let nombre = "Harry Potter";
+
+localStorage.setItem("nombre", nombre);
+localStorage.setItem("persona", JSON.stringify(persona));
+
 document.addEventListener("DOMContentLoaded", documentReady);

@@ -48,7 +48,7 @@ request.onload = function () {
 
 request.send();
 
-// Aplicación de Callbacks - Ejemplo libros de Harry Potter
+// Aplicación de Callbacks - Imprimiendo datos del segundo libro de HP
 
 const books = [
   {

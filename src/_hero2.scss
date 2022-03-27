@@ -50,6 +50,7 @@
   margin: 0;
 }
 
+/* Uso de Content Block */
 @mixin desktop() {
   @media (min-width: 854px) {
     @content;
@@ -123,7 +124,6 @@
 
 .hero-container {
   @include d-flex-fd-ai-jc-g(column, center, center, 2rem);
-
 
   @include desktop() {
     display: grid;

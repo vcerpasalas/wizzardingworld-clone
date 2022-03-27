@@ -4,7 +4,7 @@ $theme-color: #fff;
 $text-color: hsl(0, 0%, 0%);
 $inverse-theme-color: #20232a;
 $inverse-text-color: #fff;
-$padding-container: 0 1rem + 1rem;
+$padding-container: 0 1rem + 1rem; /* Uso de operador de concatenación */
 
 @mixin texto-hero($ancho-texto: 400) {
   font-weight: $ancho-texto;
