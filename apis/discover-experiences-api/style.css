@@ -36,6 +36,7 @@ html {
 
 .banner__title {
   text-align: center;
+  font-family: var(--accent-font-bold);
   color: var(--text-color);
   margin-top: 30px;
   text-shadow: 2px 2px 4px var(--inverse-text-color);
