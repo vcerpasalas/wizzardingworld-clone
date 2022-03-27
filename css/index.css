@@ -19,6 +19,7 @@
   --accent-font-bold: "bluu_nextbold";
   --accent-font-titling: "bluu_nexttitling";
   --alternative-accent-font: "masonsans_regular";
+  --harry-potter-font: "harry-potter";
   --primary-purple: #6b63b5;
   --primary-purple-hover: #514a92;
   --primary-white: #ffff;
@@ -38,7 +39,6 @@
 .hero__message-button-container {
   display: flex;
   justify-content: center;
-
 }
 
 .hero__message-button-animate {
@@ -65,7 +65,7 @@
 }
 
 .hero__message-title {
-  font-family: "Harry Potter", sans-serif;
+  font-family: var(--harry-potter-font), sans-serif;
 }
 
 /* Slider section */
@@ -104,12 +104,11 @@
   color: inherit;
 }
 
-
 .hero-container--responsive {
-width: min(  90%, 1024px);
-display: flex;
-flex-direction: column;
-gap: 5rem;
+  width: min(90%, 1024px);
+  display: flex;
+  flex-direction: column;
+  gap: 5rem;
 }
 /* Media Queries */
 
@@ -118,8 +117,6 @@ gap: 5rem;
     margin-top: 136px;
   }
   .hero-container--responsive {
-
-flex-direction: row;
+    flex-direction: row;
+  }
 }
-}
-
