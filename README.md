@@ -1,12 +1,18 @@
 # Wizzarding World Clone ⚡👓🏰🧙‍♂ - Reto 6 & 7
 
-Este proyecto se trató de clonar la web Wizzarding World......
+El presente proyecto constó de clonar la web oficlal "Wizzarding World" del universo de Harry Potter y Animales Fantásticos. Cabe resaltar que este proyecto de desarrollo web es hecho por fans para fans. En nuestra propuesta, se añadieron nuevas funcionalidades que permitirán que tu experiencia en el mundo mágico sea memorable.
+
+Para comenzar, encontrarás un Header interactivo con secciones en las que puedes navegar y te direccionarán a nuevas páginas, como "News & Features". Podrás enterarte de las últimas novedades o leer artículos de interés. Así también, se cuenta con una sección llamada "Discover", donde verás cards con información y fotografías sobre libros, películas, experiencias, entre otros. Nuestra sección Hero propone una experiencia diferente, ingresa a la biblioteca de personajes donde podrás averiguar a que casa de Hogwarts perteneció cada personaje del universo HP y Animales Fantásitcos. Además, te presentamos un generador mágico de hechizos.
+
+Al seguir navegando en la landing page, tendrás la posibilidad de escuchar la melodía de Hogwarts al presionar un botón y enterarte de las últimas noticias a través de secciones que cuentan con cards o un slider informativo y visual.
+
+¿Vas a perderte esta nueva experiencia mágica?
 
 [![logo.png](https://i.postimg.cc/LXdQ94j6/logo.png)](https://postimg.cc/mcwyVsd0)
 
 ## Introducción
 
-El presente proyecto contiene los archivos .hmtl .css, .js y json , que fueron escritos mediante el editor Visual Studio Code.
+El presente proyecto contiene los archivos .hmtl .css, .js y json, que fueron escritos mediante el editor Visual Studio Code. Por otra parte, contiene imágenes y audio (mp3). Por otra parte, el repositorio contiene archivos escritos en SASS y Bootstrap.
 Te invitamos a que lo puedas descargar en tu máquina local, testear y revisar. Puedes guiarte de estas notas para revisar la página.
 
 ## Edición, creación y manejo de archivos json
