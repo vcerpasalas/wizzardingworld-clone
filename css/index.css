@@ -1,6 +1,7 @@
 @import url("../fonts/fonts.css");
 @import url("./header.css");
 @import url("./page.css");
+@import url("./footer.css");
 
 * {
   box-sizing: border-box;
@@ -17,28 +18,63 @@
   --accent-font-bold: "bluu_nextbold";
   --accent-font-titling: "bluu_nexttitling";
   --alternative-accent-font: "masonsans_regular";
+  --harry-potter-font: "harry-potter";
   --primary-purple: #6b63b5;
   --primary-purple-hover: #514a92;
   --primary-white: #ffff;
   --main-background: #10141b;
   --main-background-light: #242633;
+  scroll-behavior: smooth;
 }
 
 .body {
   font-family: var(--primary-font-500), sans-serif;
   position: relative;
   overflow-x: hidden;
-  background-color: #10141b;
+  background-color: var(--main-background);
 }
-.clear-theme {
-  background-color: white;
+
+/* Botones Animados - Personajes y Hechizos */
+
+.hero__message-button-container {
+  display: flex;
+  justify-content: center;
 }
+
+.hero__message-button-animate {
+  font-weight: bold;
+  text-align: center;
+  background-color: var(--primary-purple);
+  font-size: 1em;
+  padding: 0.4em 1em;
+  -webkit-appearance: none;
+  appearance: none;
+  color: var(--text-color);
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+  position: relative;
+  transition: transform ease-in 0.1s, box-shadow ease-in 0.25s;
+  box-shadow: 0 2px 25px var(--primary-purple-hover);
+}
+
+.hero__message-button-animate:active {
+  transform: scale(0.9);
+  background-color: var(--primary-purple-hover);
+  box-shadow: 0 2px 25px var(--primary-purple);
+}
+
+.hero__message-title {
+  font-family: var(--harry-potter-font), sans-serif;
+}
+
 /* Slider section */
 
 /* Blog section */
 
-.blog-section {
-  margin-top: 200px;
+.blog {
+  margin-top: 80px;
+  margin-bottom: 80px;
   margin-left: 20px;
   margin-right: 20px;
 }
@@ -46,8 +82,8 @@
 .audio__button {
   width: 220px;
   height: 42px;
-  background-color: #6b63b5;
-  color: #fff;
+  background-color: var(--primary-purple);
+  color: var(--primary-white);
   font-size: 14px;
   text-align: center;
   font-weight: 700;
@@ -68,10 +104,20 @@
   color: inherit;
 }
 
+.hero-container--responsive {
+  width: min(90%, 1024px);
+  display: flex;
+  flex-direction: column;
+  gap: 5rem;
+}
+
 /* Media Queries */
 
 @media (min-width: 1024px) {
   .clear-theme {
     margin-top: 136px;
+  }
+  .hero-container--responsive {
+    flex-direction: row;
   }
 }

@@ -2,15 +2,14 @@
   min-height: 100vh;
   display: flex;
   align-items: center;
-  background:url(../css/fondo-harrypotter.jpg) no-repeat;
+  background: url(../images/fondo-harrypotter.jpg) no-repeat;
   background-size: cover;
   background-position: denter;
   color: #fff;
   padding: 200px 0;
   width: 100%;
-  margin:auto;
+  margin: auto;
   overflow: hidden;
-    
 }
 
 .hero__title {
@@ -19,8 +18,6 @@
   letter-spacing: 0.1rem;
   margin: 0;
   text-align: center;
-  text-transform: uppercase;
-  text-shadow: 0.5rem 0.5rem 0.5rem #61dafb, 1rem 1rem 1rem #61dafb;
 }
 .hero__paragraph {
   font-weight: 400;

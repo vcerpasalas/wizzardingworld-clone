@@ -2,7 +2,7 @@
   {
     "id": 1,
     "title": "Warner Bros. Studio Tour London - The Making of Harry Potter",
-    "description": "Descubra la magia que hay detrás de los hechizantes efectos especiales y explore los secretos entre bastidores de la serie de películas de Harry Potter. Descubra el emblemático Gran Salón de Hogwarts y explore el Bosque Prohibido, todo ello antes de subir al Expreso de Hogwarts original en el andén 9-3/4. y recorrer el Callejón Diagon.",
+    "description": "Descubra la magia que hay detrás de los hechizantes efectos especiales y explore los secretos entre bastidores de la serie de películas de Harry Potter. Descubra el emblemático Gran Salón de Hogwarts y explore el Bosque Prohibido, todo ello antes de subir al Expreso de Hogwarts original en el andén.",
     "lugar": "Londres, Inglaterra",
     "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2Fexperiences%2Fstudio-tour-london.jpg&w=1320&q=75"
   },
@@ -16,7 +16,7 @@
   {
     "id": 3,
     "title": "The Wizarding World of Harry Potter. Universal Orlando Resort",
-    "description": "Adéntrate en dos tierras de emociones rompedoras y diversión mágica en Universal's Islands of Adventure y Universal Studios Florida. Adéntrate en la historia en las calles del Callejón Diagon, donde los peligros ocultos acechan muy por debajo del banco Gringotts. A continuación, sube al Expreso de Hogwarts para viajar a Hogsmeade y Hogwarts.",
+    "description": "Adéntrate en dos tierras de emociones rompedoras y diversión mágica en Universal's Islands of Adventure y Universal Studios Florida. Adéntrate en la historia en las calles del Callejón Diagon, donde los peligros ocultos acechan muy por debajo del banco Gringotts. No olvides subir al Expreso.",
     "lugar": "Orlando, Estados Unidos",
     "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2Fexperiences%2Funiversal-studios-orlando.jpg&w=768&q=75"
   },
@@ -30,14 +30,14 @@
   {
     "id": 5,
     "title": "Cineconciertos. The Harry Potter Film Concert Series",
-    "description": " La serie de películas más querida de la historia proyectada en HD en la gran pantalla, mientras una orquesta sinfónica completa interpreta en VIVO todas las notas de cada partitura inolvidable. Vive una experiencia diferente.",
+    "description": " La serie de películas de brujas y magos más querida, se presenta esta vez proyectada en HD en la gran pantalla. Disfruta tu película favorita mientras una orquesta sinfónica completa acompaña el sountrack e interpreta en VIVO todas las notas de cada partitura inolvidable. Vive la experiencia.",
     "lugar": "Varias locaciones alrededor del mundo",
     "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2Fexperiences%2Fcineconcert.jpg&w=768&q=75"
   },
   {
     "id": 6,
     "title": "Harry Potter: The Exhibition. Imagine Exhibitions, Inc.",
-    "description": "Una nueva exposición itinerante entre bastidores que se estrenará en todo el mundo en 2022, celebra las películas, historias y el extenso Wizarding World utilizando el mejor diseño y tecnología de inmersión de su clase. Los visitantes podrán adentrarse en entornos e instalaciones innovadores, asombrosos y mágicos en esta experiencia inolvidable.",
+    "description": "Una nueva exposición itinerante entre bastidores que se estrenará en todo el mundo en 2022, celebra las películas, historias y el extenso Wizarding World utilizando el mejor diseño y tecnología de inmersión de su clase. Los visitantes podrán adentrarse en entornos e instalaciones innovadoras.",
     "lugar": "Varias locaciones alrededor del mundo",
     "image": "https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fproducts%2Fexperiences%2Fexhibition.jpg&w=768&q=75"
   }

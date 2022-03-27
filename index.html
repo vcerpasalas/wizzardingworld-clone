@@ -1,9 +1,4 @@
-
-  <link href="http://fonts.cdnfonts.com/css/harry-potter" rel="stylesheet">
-  <style> @import url:('http://fonts.cdnfonts.com/css/harry-potter'); 
-  </style>
 <!DOCTYPE html>
-
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -13,7 +8,11 @@
     <link rel="stylesheet" href="./css/blog2.css" />
     <link rel="stylesheet" href="./css/hero-compilado.css" />
     <link rel="stylesheet" href="./css/hero2-compilado.css" />
+    <link rel="stylesheet" href="./css/estilosIndex.css" />
+    <link href="http://fonts.cdnfonts.com/css/harry-potter" rel="stylesheet" />
     <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.12/dist/css/splide.min.css">
+    <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.12/dist/js/splide.min.js"></script>
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css"
@@ -25,32 +24,203 @@
   </head>
 
   <body class="body landing">
+
     <header class="header" id="header"></header>
+
+    <!--Aqui empieza mi codigo - Gino-->
+    <div class="hero">
+
+      <article class="hero-container">
+          <figure class="hero__image-container">
+              <img src="https://www.wizardingworld.com/_next/image?url=%2Fimages%2Fpages%2Fhome%2Flogo.png&w=576&q=75" alt="Letras de Harry Potter" class="hero__image" />
+          </figure>
+          <h1 class="hero__title">Explore our entire quiz collection</h1>
+          <h2 class="hero__subtitle">Fancy a challenge? We have hundreds of quizzes for you to play and put your wizarding world knowledge to the ultimate test.</h2>
+          <a href="./quizzes/quizzes.html" class="hero__button">PLAY THEM ALL</a>
+      </article>
+  
+    </div>
 
     <main class="main">
 
-    <!-- Hero Section -->
-      <article class="hero">
-        <div class="hero-container">
-          <div class="hero__message">
-            <h2 class="hero__message-title">
-              Wizarding World: The Official Home of Harry Potter
-            </h2>
-            <h2 class="hero__message-subtitle">
-              Play our Quiz Championship: Fantastic Beasts edition
-            </h2>
-            <p class="hero__message-paragraph">
-              ⚡🧙 Earn points for your Hogwarts house in our latest quiz challenge! Our new Quiz Championship will test your Fantastic Beasts knowledge with 30 questions. Good luck! ⚡🧙 
-            </p>  
-            <div class="hero__message-shopping-container">
-              <div class="hero__message-cheapest-price-container">
+      <div class="splide">
+        <div class="splide__track">
+            <ul class="splide__list" id="splideList">
+                <li class="splide__slide">
+                    <figure class="splide__image-container">
+                        <img src="https://images.ctfassets.net/usf1vwtuqyxm/5fF7dSYnafRR5nEjVQhATt/ea82c2aca1925942310dcb6633882eec/HP-F3-prisoner-of-azkaban-professor-sybill-trelawney-close-up-web-landscape?w=380&h=213&fit=fill&f=top&fm=webp" alt="imagen de carrousell" class="splide__image" />
+                    </figure>
+                    <p class="splide__link-paragraph">
+                        <a href="https://www.wizardingworld.com/quiz/complete-the-quote-quiz-sybill-trelawney-edition" class="splide__paragraph">Complete the quote quiz: Sybill Trelawney edition</a>
+                    </p>
+                </li>
+                
+                <li class="splide__slide">
+                    <figure class="splide__image-container">
+                        <img src="https://images.ctfassets.net/usf1vwtuqyxm/7GXo7mab9pPauATRz3qyuL/7760eadc44c1d84a161109a9df074636/HP-F2-chamber-of-secrets-hermione-writing-quill-thoughtful-web-landscape?w=380&h=213&fit=fill&f=top&fm=webp" alt="imagen de carrousell" class="splide__image" />
+                    </figure>
+                    <p class="splide__link-paragraph">
+                        <a href="https://www.wizardingworld.com/features/which-wizarding-world-witch-would-be-your-role-model" class="splide__paragraph">Which wizarding world witch would be your role model?</a>
+                    </p>
+                </li>
+
+                <li class="splide__slide">
+                    <figure class="splide__image-container">
+                        <img src="https://images.ctfassets.net/usf1vwtuqyxm/3rQ6V9h9D20qiQmM08iAKa/67dee554f5768c82862b4cfa0c18dd65/BartyCrouchJr_WB_F4_BartyCrouchJrStruggling_Still_080615_Land.jpg?w=380&h=213&fit=fill&f=top&fm=webp" alt="imagen de carrousell" class="splide__image" />
+                    </figure>
+                    <p class="splide__link-paragraph">
+                        <a href="https://www.wizardingworld.com/features/plot-twists-crossword" class="splide__paragraph">The plot twists crossword</a>
+                    </p>
+                </li>
+
+                <li class="splide__slide">
+                    <figure class="splide__image-container">
+                        <img src="https://images.ctfassets.net/usf1vwtuqyxm/28qgIF2Fkj3A3Hmw1hI5py/6f90b371d1679d7b1a41ed718c9c9e6d/fb3-key-art-crop-web-landscape.jpg?w=380&h=213&fit=fill&f=top&fm=webp" alt="imagen de carrousell" class="splide__image" />
+                    </figure>
+                    <p class="splide__link-paragraph">
+                        <a href="https://www.wizardingworld.com/news/watch-the-second-trailer-for-fantastic-beasts-the-secrets-of-dumbledore" class="splide__paragraph">Watch the second trailer for Fantastic Beasts: The Secrets of Dumbledore</a>
+                    </p>
+                </li>
+
+                <li class="splide__slide">
+                    <figure class="splide__image-container">
+                        <img src="https://images.ctfassets.net/usf1vwtuqyxm/4gEjJGDhmJ2peaRLj4szP1/171e47b98d2f189ff85f87d751683c7d/HP-F7-deathly-hallows-part-1-lupin-tonks-together-web-landscape?w=380&h=213&fit=fill&f=top&fm=webp" alt="imagen de carrousell" class="splide__image" />
+                    </figure>
+                    <p class="splide__link-paragraph">
+                        <a href="https://www.wizardingworld.com/quiz/the-lupin-and-tonks-quiz" class="splide__paragraph">The Lupin and Tonks quiz</a>
+                    </p>
+                </li>
+
+                <li class="splide__slide">
+                    <figure class="splide__image-container">
+                        <img src="https://images.ctfassets.net/usf1vwtuqyxm/577Vi4QJw0d6VPoOQT1k9c/2ad0fcb89beac2cb10d480a2e3091f37/FB-F2-crimes-of-grindelwald-albus-dumbledore-rooftop-looking-over-shoulder-web-landscape?w=380&h=213&fit=fill&f=top&fm=webp" alt="imagen de carrousell" class="splide__image" />
+                    </figure>
+                    <p class="splide__link-paragraph">
+                        <a href="https://www.wizardingworld.com/features/grindelwald-and-dumbledores-history-a-deep-dive" class="splide__paragraph">Grindelwald and Dumbledore's chequered history: A deep dive</a>
+                    </p>
+                </li>
+
+                <li class="splide__slide">
+                    <figure class="splide__image-container">
+                        <img src="https://images.ctfassets.net/usf1vwtuqyxm/61Sv1uHFt9jfEYllf6jP8B/44e80498dea6c1eacc11f19b6923f361/hogwarts-legacy-gameplay-still-potions-web-landscape?w=380&h=213&fit=fill&f=top&fm=webp" alt="imagen de carrousell" class="splide__image" />
+                    </figure>
+                    <p class="splide__link-paragraph">
+                        <a href="https://www.wizardingworld.com/news/go-behind-the-scenes-of-hogwarts-legacy" class="splide__paragraph">Go behind the scenes of Hogwarts Legacy with a new featurette</a>
+                    </p>
+                </li>
+
+                <li class="splide__slide">
+                    <figure class="splide__image-container">
+                        <img src="https://images.ctfassets.net/usf1vwtuqyxm/6Dzvr1iTOJVmCy3L0QZyg8/bfd92f50e68727b628bfdc5b7d09bbd4/dumbledore-crest.jpg?w=380&h=213&fit=fill&f=top&fm=webp" alt="imagen de carrousell" class="splide__image" />
+                    </figure>
+                    <p class="splide__link-paragraph">
+                        <a href="https://www.wizardingworld.com/news/exclusive-first-look-at-minalima-fantastic-beasts-secrets-of-dumbledore-prints" class="splide__paragraph">First look at MinaLima’s Fantastic Beasts: The Secrets of Dumbledore graphic art prints</a>
+                    </p>
+                </li>
+
+                <li class="splide__slide">
+                    <figure class="splide__image-container">
+                        <img src="https://images.ctfassets.net/usf1vwtuqyxm/4FGYeb1N8hTsBLOdOLRUYw/ed8876b0e1a5c0e72a18b145f3077294/HP-F3-prisoner-of-azkaban-harry-ron-hermione-steps-hogwarts-grounds-web-landscape?w=380&h=213&fit=fill&f=top&fm=webp" alt="imagen de carrousell" class="splide__image" />
+                    </figure>
+                    <p class="splide__link-paragraph">
+                        <a href="https://www.wizardingworld.com/quiz/how-well-do-you-know-the-third-harry-potter-book" class="splide__paragraph">How well do you know the third Harry Potter book?</a>
+                    </p>
+                </li>
+            </ul>
+        </div>
+      </div>
+      <script>
+        var splide = new Splide( '.splide', {
+            type: 'loop',
+            dragp: 'free',
+            perPage: 3,
+            focus  : 'center',
+            breakpoints: {
+                900: {
+                    perPage: 2,
+                },
+                800: {
+                    perPage: 1,
+                },
+                570: {
+                    perPage: 1,
+                },
+            },
+            pauseOnHover: true,
+            autoScroll: {
+                speed: 0.12,
+            },
+        } );
+
+        splide.mount();
+
+        /*
+        new Splide('.splide', {
+            type: 'loop',
+            perPage: 3,
+            autoplay:true
+        }).mount();*/
+      </script>
+      
+      <section class="lastest-news">
+        <div class="lastest-news__container">
+            <h2 class="lastest-news__title">Lastest News</h2>
+            <div class="lastest-news__news" id="lastestNewsNews">
+                
+            </div>
+        </div>
+      </section>
+
+      <div class="sections-separator">
+        <hr class="sections-separator__line" />
+        <a href="%" class="sections-separator__text">VIEW ALL NEWS</a>
+      </div>
+
+      <section class="magical-features">
+        <div class="magical-features__container">
+            <h2 class="magical-features__title">Magical features</h2>
+            <div class="magical-features__features" id="magicalFeaturesFeatures">
+                
+              <div class="magical-features__features-first" id="magicalFeaturesFeaturesFirst">
+                    
               </div>
-              <a href="#" class="hero__message-buy-button hero__message-buy-button--active">
-                Hechizos
-              </a>
-              <a href="#" class="hero__message-buy-button hero__message-buy-button--active">
-                Personajes
-              </a>
+                
+              <div class="magical-features__features-second" id="magicalFeaturesFeaturesSecond">
+                    
+              </div>
+            </div>
+        </div>
+      </section>
+
+      <!--Aqui termina mi codigo - Gino-->
+
+      <!-- Hero Section -->
+      <article class="hero hero-responsive">
+        <div class="hero-container hero-container--responsive">
+          <div class="hero__message">
+            <h2 class="hero__message-title">Wizzarding World</h2>
+            <h2 class="hero__message-subtitle">Juega nuestro nuevo concurso: Edición Animales Fantásticos</h2>
+            <p class="hero__message-paragraph">
+              ❤ Gana puntos para tu casa de Hogwartss. Averigua sobre la casa de los personajes del universo Harry
+              Potter y Aniamles Fantásticos. Encuentraa hechizos en nuestro generador de hechizos mágico ¡Buena suerte!
+              ❤
+            </p>
+            <div class="hero__message-pages-container">
+              <div class="hero__message-button-container">
+                <a
+                  href="https://vcerpasalas.github.io/wizzardingworld-clone/apis/potter-characters-api/index.html"
+                  class="hero__message-page-button hero__message-page-button--active"
+                >
+                  <button class="hero__message-button-animate">Personajes</button></a
+                >
+              </div>
+              <div class="hero__message-button-container">
+                <a
+                  href="./apis/potter-hechizos-api/index.html"
+                  class="hero__message-page-button hero__message-page-button--active"
+                  ><button class="hero__message-button-animate">Hechizos</button></a
+                >
+              </div>
             </div>
           </div>
           <div class="hero__figure">
@@ -59,118 +229,198 @@
             </figure>
           </div>
         </div>
-        <figure class="hero__rise-container">
-          <img src="./public/img/rise.svg" alt="Rise de adorno" class="hero__rise" />
-        </figure>
-        <figure class="hero__arrow-container">
-          <img src="./public/img/arrow.svg" alt="Arrow de adorno" class="hero__arrow" />
-        </figure>
-        <figure class="hero__bubbles-container">
-          <img src="./public/img/bubbles.svg" alt="Bubbles de adorno" class="hero__bubbles" />
-        </figure>
-        <figure class="hero__blob-container">
-          <img src="./public/img/blob.svg" alt="Blob de adorno" class="hero__blob" />
-        </figure>
-        <figure class="hero__asterisk-container">
-          <img src="./public/img/asterisk.svg" alt="Asterisk de adorno" class="hero__asterisk" />
-        </figure>
       </article>
 
-      <!-- Start Blog Section -->
-
-      <div class="blog-section">
+      <!-- Blog Section -->
+      <section class="blog">
         <div class="blog-card">
-          <div class="meta">
-            <div class="photo" style="background-image: url(./images/blog/blog-audio.jpg)"></div>
+          <div class="blog__image-container">
+            <div class="blog__image" style="background-image: url(./images/blog/blog-audio.jpg)"></div>
           </div>
-          <div class="description">
-            <h1>Melodía oficial de Hogwarts</h1>
-            <h2>Revive una experiencia inolvidable</h2>
-            <p>
-              Conocida por diversas generaciones de magos y brujas a través de los años. Puedes escuchar la conocida melodía del universo de Harry Potter aquí. Disfruta de tu estadía en Wizzarding World. 
+          <div class="blog__description">
+            <h1 class="blog__title">Melodía oficial de Hogwarts</h1>
+            <h2 class="blog__subtitle">Revive una experiencia inolvidable</h2>
+            <p class="blog__paragraph">
+              Conocida por diversas generaciones de magos y brujas a través de los años. Puedes escuchar la conocida
+              melodía del universo de Harry Potter aquí. Disfruta de tu estadía en Wizzarding World.
             </p>
-            <p class="read-more">
-              <a class="audio__button-container"><button type="button" class="audio__button" onclick="play()">Escuchar ahora</button></a>
+            <p class="blog__button">
+              <a class="audio__button-container"
+                ><button type="button" class="audio__button" onclick="play()">Escuchar ahora</button></a
+              >
               <audio id="audio" src="./media/Harry Potter Theme Song.mp3"></audio>
             </p>
           </div>
         </div>
 
         <div class="blog-card alt">
-          <div class="meta">
-            <div class="photo" style="background-image: url(./images/blog/blog-1.jpg)"></div>
+          <div class="blog__image-container">
+            <div class="blog__image" style="background-image: url(./images/blog/blog-1.jpg)"></div>
           </div>
-          <div class="description">
-            <h1>Colección especial</h1>
-            <h2>Más información sobre el libro Harry Potter y el legado maldito</h2>
-            <p>
-              Visita nuestra nueva colección, donde podrás conocer más de la obra galardonada. Podrás sumergirte en este nuevo universo a través de exclusivos
-              videos, quizzes y demás funciones.
+          <div class="blog__description">
+            <h1 class="blog__title">Colección especial</h1>
+            <h2 class="blog__subtitle">Más información sobre el libro Harry Potter y el legado maldito</h2>
+            <p class="blog__paragraph">
+              Visita nuestra nueva colección, donde podrás conocer más de la obra galardonada. Podrás sumergirte en este
+              nuevo universo a través de exclusivos videos, quizzes y demás funciones.
             </p>
-            <p class="read-more">
-              <a class="audio__button-container"><button type="button" class="audio__button">Visita la colección</button></a>
+            <p class="blog__button">
+              <a class="audio__button-container"
+                ><button type="button" class="audio__button">Visita la colección</button></a
+              >
             </p>
           </div>
         </div>
 
         <div class="blog-card">
-          <div class="meta">
-            <div class="photo" style="background-image: url(./images/blog/blog-2.jpg)"></div>
+          <div class="blog__image-container">
+            <div class="blog__image" style="background-image: url(./images/blog/blog-2.jpg)"></div>
           </div>
-          <div class="description">
-            <h1>Participa en nuestra ceremonia de varitas</h1>
-            <h2>Miles de variedades y modelos</h2>
-            <p>
+          <div class="blog__description">
+            <h1 class="blog__title">Participa en nuestra ceremonia de varitas</h1>
+            <h2 class="blog__subtitle">Miles de variedades y modelos</h2>
+            <p class="blog__paragraph">
               Encontrar una varita es un rito de iniciación de todos los magos y brujas jóvenes. Entonces, ¿qué estás
               esperando? Descubre la tuya en la experiencia de varitas en linea, de Harry Potter Fan Club.
             </p>
-            <p class="read-more">
-              <a class="audio__button-container"><button type="button" class="audio__button">Encuentra tu varita</button></a>
+            <p class="blog__button">
+              <a class="audio__button-container"
+                ><button type="button" class="audio__button">Encuentra tu varita</button></a
+              >
             </p>
           </div>
         </div>
 
         <div class="blog-card alt">
-          <div class="meta">
-            <div class="photo" style="background-image: url(./images/blog/blog-3.jpg)"></div>
+          <div class="blog__image-container">
+            <div class="blog__image" style="background-image: url(./images/blog/blog-3.jpg)"></div>
           </div>
-          <div class="description">
-            <h1>Acércate a la magia, en cualquier momento y lugar</h1>
-            <h2>Tu momento ha llegado</h2>
-            <p>
+          <div class="blog__description">
+            <h1 class="blog__title">Acércate a la magia, en cualquier momento y lugar</h1>
+            <h2 class="blog__subtitle">Tu momento ha llegado</h2>
+            <p class="blog__paragraph">
               Únase al Club de fans de Harry Potter, participe en la Ceremonia de clasificación de casas de Hogwarts,
               juegue en concursos y acertijos, y explore todos los rincones del mundo mágico con la aplicación oficial.
             </p>
-            <p class="read-more">
+            <p class="blog__button">
               <a class="audio__button-container"><button type="button" class="audio__button">Saber más</button></a>
             </p>
           </div>
         </div>
 
         <div class="blog-card">
-          <div class="meta">
-            <div class="photo" style="background-image: url(./images/blog/blog-4.jpg)"></div>
+          <div class="blog__image-container">
+            <div class="blog__image" style="background-image: url(./images/blog/blog-4.jpg)"></div>
           </div>
-          <div class="description">
-            <h1>Descubre en qué casa de Hogwarts estás</h1>
-            <h2>Bla bla bla...</h2>
-            <p>
-              ¿Eres valiente, ambicioso, leal o sabio? ¿Crees estar seleccionado en la casa que esperas? Participa en la Ceremonia de Selección Oficial para ver dónde te coloca
-              el Sombrero Seleccionador.
+          <div class="blog__description">
+            <h1 class="blog__title">Descubre en qué casa de Hogwarts estás</h1>
+            <h2 class="blog__subtitle">Ingresa al test de selección</h2>
+            <p class="blog__paragraph">
+              ¿Eres valiente, ambicioso, leal o sabio? ¿Crees estar seleccionado en la casa que esperas? Participa en la
+              Ceremonia de Selección Oficial para ver dónde te coloca el Sombrero Seleccionador.
             </p>
-            <p class="read-more">
-              <a class="audio__button-container"><button type="button" class="audio__button">Descubrir mi casa</button></a>
+            <p class="blog__button">
+              <a class="audio__button-container">
+                <button type="button" class="audio__button">Descubrir mi casa</button></a
+              >
             </p>
           </div>
         </div>
-
-      </div>
-
-      <!-- End Blog Section -->
-
-      <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/lottie-player.js"></script>
-      <script src="./js/header.js" type="module"></script>
-      <script src="./js/index.js""></script>
+      </section>
     </main>
+
+    <!-- Footer -->
+    <footer class="footer">
+      <div class="footer__border">
+        <article class="footer__credits-container">
+          <section class="footer__credits-up">
+            <ul class="footer-credits-up__links-item-list">
+              <li class="footer-credits-up__link-item">
+                <a href="https://www.wizardingworld.com/about-us" class="footer-credits-up__link">About Us</a>
+              </li>
+              <li class="footer-credits-up__link-item">
+                <a href="https://www.wizardingworld.com/press" class="footer-credits-up__link">Press</a>
+              </li>
+              <li class="footer-credits-up__link-item">
+                <a href="https://help.wizardingworld.com/hc/en-us" class="footer-credits-up__link">FAQs</a>
+              </li>
+              <li class="footer-credits-up__link-item">
+                <a href="https://www.wizardingworld.com/terms" class="footer-credits-up__link">Terms & Conditions</a>
+              </li>
+              <li class="footer-credits-up__link-item">
+                <a href="https://www.wizardingworld.com/privacy#choices" class="footer-credits-up__link">Ad Choices</a>
+              </li>
+              <li class="footer-credits-up__link-item">
+                <a href="https://www.wizardingworld.com/privacy" class="footer-credits-up__link">Privacy & Cookies</a>
+              </li>
+              <li class="footer-credits-up__link-item">
+                <a href="https://www.wizardingworld.com/childrens-privacy-policy" class="footer-credits-up__link"
+                  >Children's Privacy Policy</a
+                >
+              </li>
+              <li class="footer-credits-up__link-item">
+                <a href="https://www.wizardingworld.com/legals" class="footer-credits-up__link">Legals</a>
+              </li>
+            </ul>
+            <a href="https://www.wizardingworld.com/" class="footer-credits-up__logo-container">
+              <figure class="footer-credits-up__logo-content">
+                <img src="images/footer/wwlogo.svg" alt="wizardingWorldLogo" class="footer-credits-up__logo" />
+              </figure>
+            </a>
+          </section>
+          <hr class="footer__line-divider" />
+          <section class="footer__credits-down">
+            <article class="footer-credits-down__paragraphs-content">
+              <h3 class="footer-credits-down__title">&COPY; Wizarding World Digital 2022</h3>
+              <p class="footer-credits-down__paragraph">
+                Looking for Pottermore? Wizarding World is the new official home of Harry Potter & Fantastic Beasts.
+                Join the Fan Club and bring your traits with you.
+              </p>
+              <p class="footer-credits-down__paragraph">
+                Brought to you by Wizarding World Digital, a partnership between Warner Bros. and Pottermore. Delivering
+                the latest news and official products from the Wizarding World and our partners.
+              </p>
+              <p class="footer-credits-down__paragraph">
+                TM & &COPY; WBEI. WIZARDING WORLD Publishing and Theatrical Stage Rights &COPY; J.K. Rowling.
+              </p>
+            </article>
+            <ul class="footer-credits-down__links-list">
+              <li class="footer-credits-down__links">
+                <a
+                  href="https://www.youtube.com/channel/UChPRO1CB_Hvd0TvKRU62iSQ"
+                  class="footer-credits-down__link-icon"
+                >
+                  <img src="./images/footer/youtube.svg" alt="youtubeIcon" class="footer-credits-down__icon" />
+                </a>
+              </li>
+              <li class="footer-credits-down__links">
+                <a href="https://www.facebook.com/wizardingworld" class="footer-credits-down__link-icon">
+                  <img src="./images/footer/facebook.svg" alt="facebookIcon" class="footer-credits-down__icon" />
+                </a>
+              </li>
+              <li class="footer-credits-down__links">
+                <a href="https://www.instagram.com/wizardingworld/" class="footer-credits-down__link-icon">
+                  <img src="./images/footer/instagram.svg" alt="instagramIcon" class="footer-credits-down__icon" />
+                </a>
+              </li>
+              <li class="footer-credits-down__links">
+                <a href="https://twitter.com/wizardingworld" class="footer-credits-down__link-icon">
+                  <img src="./images/footer/twitter.svg" alt="twitterIcon" class="footer-credits-down__icon" />
+                </a>
+              </li>
+            </ul>
+          </section>
+        </article>
+      </div>
+    </footer>
+
+    <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/lottie-player.js"></script>
+    <script src="./js/header.js" type="module"></script>
+    <script src="./js/lastestNews.js"></script>
+    <script src="./js/magicalFeatures.js"></script>
+    <script src="./js/index.js"></script>
+    <style>
+      @import url("http://fonts.cdnfonts.com/css/harry-potter");
+    </style>
   </body>
 </html>

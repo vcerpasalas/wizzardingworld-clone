@@ -1,0 +1,90 @@
+/*Todo este codigo css es mío - Gino*/
+
+.body{
+    background-color: beige;
+}
+
+.main{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    gap: 1rem;
+}
+
+.quiz-extra-data__information{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.quiz-extra-data__image-container{
+    margin: 1rem auto;
+    width: 7rem;
+}
+
+.quiz-extra-data__image{
+    max-width: 100%;
+    border-radius: 50%;
+}
+
+.quiz-extra-data__info{
+    margin: 0.8rem 0;
+}
+
+.quiz-extra-data__h3{
+    margin: 0;
+    font-size: 1rem;
+    color: #696b78;
+    letter-spacing: 2px;
+}
+
+.quiz-extra-data__h2{
+    margin: 0;
+    letter-spacing: 2px;
+}
+
+.texto-resultado{
+    font-size: 1.5rem;
+}
+
+.button-select{
+    margin-top: 0.8rem;
+}
+
+.boton{
+    font-size: 1rem;
+    padding: 0.5rem 1rem;
+    background-color: black;
+    color:beige;
+    border: 1px solid black;
+    border-radius: 8px;
+}
+
+@media (min-width: 854px){
+    .quiz-extra-data__information{
+        display: flex;
+        flex-direction: row;
+        text-align: center;
+        gap: 1.5rem;
+    }
+
+    .quiz-extra-data__info{
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        margin: 0.8rem 0;
+    }
+
+    .boton{
+        font-size: 1.2rem;
+        padding: 0.8rem 1.2rem;
+        background-color: black;
+        color:beige;
+        border: 1px solid black;
+        border-radius: 8px;
+        cursor: pointer;
+    }
+}

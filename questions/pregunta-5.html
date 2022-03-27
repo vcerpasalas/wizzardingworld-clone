@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Play - Quizzes</title>
+    <link rel="stylesheet" href="./css/pregunta.css" />
+    <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css" />
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+<body class="body">
+    <!--Todo este codigo html es mío - Gino-->
+    <main class="main">
+        <div class="line-container">
+            5/5
+            <hr class="line__hr" />
+        </div>
+
+        <h1 class="question">Who is head of Gryffindor house?</h1>
+
+        <figure class="image__container">
+            <img src="https://movement-prod.imgix.net/uploads/ec/6b47e390034bc6b6514d457bf9b8a5/upload.jpg?auto=compress,format&fit=min&h=324&w=576" alt="imagen de la pregunta" class="image__img" />
+        </figure>
+
+        <div class="answers_container">
+            <div class="answers">
+                <div class="answer">
+                    <input type="radio" id="Professor Sprout" name="question__text" value="Professor Sprout" />
+                    <label for="Professor Sprout">Professor Sprout</label>
+                </div>
+
+                <div class="answer">
+                    <input type="radio" id="Professor McGonagall" name="question__text" value="Professor McGonagall"/>
+                    <label for="Professor McGonagall">Professor McGonagall</label>
+                </div>
+
+                <div class="answer">
+                    <input type="radio" id="Professor Flitwick" name="question__text" value="Professor Flitwick" />
+                    <label for="Professor Flitwick">Professor Flitwick</label>
+                </div>
+
+                <div class="answer">
+                    <input type="radio" id="Professor Dumbledore" name="question__text" value="Professor Dumbledore"/>
+                    <label for="Professor Dumbledore" >Professor Dumbledore</label>
+                </div>
+            </div>
+
+            <button class="boton" id="btn-siguiente">Finish</button></a>
+        </div>
+
+    </main>
+
+    <script src="./js/pregunta-5.js"></script>
+</body>
+</html>
