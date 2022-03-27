@@ -32,7 +32,7 @@ const renderInfoLastestNewsNews = (src, href, paragraph, elemento) => {
 
 const loadedLastestNewsNews = async () => {
     try {
-        const response = await fetch("../json/lastestNews.json");
+        const response = await fetch("https://github.com/vcerpasalas/wizzardingworld-clone/blob/develop/json/lastestNews.json");
         dataInfo = await response.json();
         for (let index = 0; index < dataInfo.length; index++) {
             renderInfoLastestNewsNews(dataInfo[index].src, dataInfo[index].href, dataInfo[index].paragraph, lastestNewsNews);

@@ -64,7 +64,7 @@ const renderMagicalFeaturesSecond = (src, alt, href, paragraph, elemento) => {
 
 const loadedMagicalFeatures = async () => {
     try {
-        const res = await fetch("../json/magicalFeatures.json");
+        const res = await fetch("https://github.com/vcerpasalas/wizzardingworld-clone/blob/develop/json/magicalFeatures.json");
         data = await res.json();
         //console.log(data);
         
