@@ -183,6 +183,7 @@
 .magical-features__title{
     font-size: 3rem;
     text-align: left;
+    margin: 1rem;
 }
 
 .magical-features__features,
@@ -190,7 +191,7 @@
 .magical-features__features-second{
     display: flex;
     flex-direction: column;
-    gap: 2rem;
+    gap: 3.5rem;
 }
 
 .magical-features__feature{
@@ -214,7 +215,7 @@
 .magical-features__link-text{
     text-decoration: none;
     position: absolute;
-    top: 1.5rem;
+    top: 0.6rem;
     color: white;
     text-align: left;
     border: 1px solid #696b78;
