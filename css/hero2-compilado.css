@@ -1,15 +1,13 @@
-
+@charset "UTF-8";
+/* Estilos de sección Hero */
 :root {
   --primary-theme-color: #20232a;
   --secondary-theme-color: #282c34;
   --text-color: #fff;
   --shadow-color: #999;
-  --button-color: #282c34;
+  --button-color: #30b43b;
   --button-text-color: #fff;
-  --button-color-active: #8d4925;
   --button-text-color-active: #000;
-  --primary-highlight: #61dafb;
-  --secondary-highlight: #ffd700;
   --padding-container: 0 2rem;
   --border-radius: 1rem;
   --all-transitions: all 0.25s;
@@ -146,7 +144,7 @@
   flex-direction: column;
   align-items: stretch;
   justify-content: center;
-  gap: 1rem;
+  gap: 2rem;
   text-align: center;
 }
 @media (min-width: 854px) {
@@ -156,26 +154,18 @@
   }
 }
 .hero__message-title {
-  font-family: 'Harry Potter', sans-serif;    
-  font-size: 4rem;;
+  font-weight: 100;
+  margin: 0;
 }
-
 .hero__message-subtitle {
-  font-family: "Homer Simpson UI"
-  font-weight: 1rem;
+  font-weight: 400;
   margin: 0;
 }
-.hero__message-paragraph {  
-  font: bold 60% monospace;
-  color:#ccc;
-  padding:1rem 0;
-  line-height: 1.5;
-  font-weight: 1rem;
+.hero__message-paragraph {
+  font-weight: 300;
   margin: 0;
-  
 }
 .hero__message-shopping-container {
-  font-family: 'Harry Potter', sans-serif;
   display: flex;
   flex-direction: row;
   align-items: center;
@@ -207,7 +197,7 @@
   text-decoration: none;
   font-size: 1.125rem;
   background-color: var(--button-color);
-  color:#ccc;
+  color: var(--button-text-color);
   padding: 1rem 1.5rem;
   font-weight: 800;
   border-radius: 1.5rem;
@@ -256,109 +246,6 @@
     transform: translate(-50%, -50%);
     margin: 0;
   }
-}
-.hero__rise {
-  width: 100%;
-}
-.hero__arrow-container {
-  display: flex;
-  position: absolute;
-  z-index: -1;
-  top: 50%;
-  left: 10%;
-  width: 50%;
-  transform: translate(-50%, -50%);
-  margin: 0;
-}
-@media (min-width: 854px) {
-  .hero__arrow-container {
-    display: flex;
-    position: absolute;
-    z-index: -1;
-    top: 100%;
-    left: 10%;
-    width: 50%;
-    transform: translate(-50%, -50%);
-    margin: 0;
-  }
-}
-.hero__arrow {
-  width: 100%;
-}
-.hero__bubbles-container {
-  display: flex;
-  position: absolute;
-  z-index: -1;
-  top: 50%;
-  left: 105%;
-  width: 50%;
-  transform: translate(-50%, -50%) rotate(180deg);
-  margin: 0;
-}
-@media (min-width: 854px) {
-  .hero__bubbles-container {
-    display: flex;
-    position: absolute;
-    z-index: -1;
-    top: -5%;
-    left: 50%;
-    width: 25%;
-    transform: translate(-50%, -50%) rotate(90deg);
-    margin: 0;
-  }
-}
-.hero__bubbles {
-  width: 100%;
-}
-.hero__blob-container {
-  display: flex;
-  position: absolute;
-  z-index: -1;
-  top: 100%;
-  left: 50%;
-  width: 100%;
-  transform: translate(-50%, -50%);
-  margin: 0;
-}
-@media (min-width: 854px) {
-  .hero__blob-container {
-    display: flex;
-    position: absolute;
-    z-index: -1;
-    top: 80%;
-    left: 100%;
-    width: 100%;
-    transform: translate(-50%, -50%);
-    margin: 0;
-  }
-}
-.hero__blob {
-  width: 100%;
-}
-.hero__asterisk-container {
-  display: flex;
-  position: absolute;
-  z-index: -1;
-  top: 100%;
-  left: 50%;
-  width: 50%;
-  transform: translate(-50%, -50%);
-  margin: 0;
-}
-@media (min-width: 854px) {
-  .hero__asterisk-container {
-    display: flex;
-    position: absolute;
-    z-index: -1;
-    top: 80%;
-    left: 100%;
-    width: 50%;
-    transform: translate(-50%, -50%);
-    margin: 0;
-  }
-}
-.hero__asterisk {
-  width: 100%;
 }
 
 .hero-container {

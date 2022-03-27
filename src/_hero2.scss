@@ -1,9 +1,11 @@
+/* Estilos de sección Hero */
+
 :root {
   --primary-theme-color: #20232a;
   --secondary-theme-color: #282c34;
   --text-color: #fff;
   --shadow-color: #999;
-  --button-color: #282c34;
+  --button-color: #30b43b;
   --button-text-color: #fff;
   --button-text-color-active: #000;
   --padding-container: 0 2rem;
@@ -32,7 +34,6 @@
   font-weight: $font-weight;
   border-radius: $border-radius;
   transition: var(--all-transitions);
-
   &--active,
   &:hover {
     background-color: var(--button-color-active);
@@ -223,54 +224,6 @@
     @include desktop() {
       @include decorator($top: -5%, $left: 5%, $width: 25%, $transform: translate(-50%, -50%));
     }
-  }
-
-  &__rise {
-    width: 100%;
-  }
-
-  &__arrow-container {
-    @include decorator($top: 50%, $left: 10%, $width: 50%, $transform: translate(-50%, -50%));
-    @include desktop() {
-      @include decorator($top: 100%, $left: 10%, $width: 50%, $transform: translate(-50%, -50%));
-    }
-  }
-
-  &__arrow {
-    width: 100%;
-  }
-
-  &__bubbles-container {
-    @include decorator($top: 50%, $left: 105%, $width: 50%, $transform: translate(-50%, -50%) rotate(180deg));
-    @include desktop() {
-      @include decorator($top: -5%, $left: 50%, $width: 25%, $transform: translate(-50%, -50%) rotate(90deg));
-    }
-  }
-
-  &__bubbles {
-    width: 100%;
-  }
-
-  &__blob-container {
-    @include decorator($top: 100%, $left: 50%, $width: 100%, $transform: translate(-50%, -50%));
-    @include desktop() {
-      @include decorator($top: 80%, $left: 100%, $width: 100%, $transform: translate(-50%, -50%));
-    }
-  }
-
-  &__blob {
-    width: 100%;
-  }
-
-  &__asterisk-container {
-    @include decorator($top: 100%, $left: 50%, $width: 50%, $transform: translate(-50%, -50%));
-    @include desktop() {
-      @include decorator($top: 80%, $left: 100%, $width: 50%, $transform: translate(-50%, -50%));
-    }
-  }
-
-  &__asterisk {
-    width: 100%;
   }
 }
 .hero-container {
