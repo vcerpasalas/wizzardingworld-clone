@@ -4,7 +4,7 @@ window.onload = function(){
     localStorage.setItem("Puntaje", 0);
     const btn = document.getElementById('quiz-game__button-game');
     btn.addEventListener('click', () => {
-        opcionEscogida = document.querySelector('input[name="meme_name"]:checked');
+        opcionEscogida = document.querySelector('input[name="question__text"]:checked');
 
         if (!opcionEscogida) {
             alert('Por favor marca una respuesta');
