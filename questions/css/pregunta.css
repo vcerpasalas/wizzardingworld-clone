@@ -1,0 +1,115 @@
+/*Todo este codigo css es mío - Gino*/
+
+.body{
+    background-color: beige;
+}
+.main{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+    max-width: 300px;
+    min-height: 100vh;
+    margin: 1rem auto;
+}
+.line-container{
+    display: flex;
+    gap: 0.5rem;
+    font-weight: 700;
+    letter-spacing: 2px;
+    opacity: .5;
+    width: 90%;
+}
+.line__hr{
+    width: 100%;
+}
+.question{
+    margin: 0;
+}
+.image__container{
+    margin: 0;
+    width: 100%;
+}
+.image__img{
+    max-width: 100%;
+    border-radius: 12px;
+}
+.answers_container{
+    display: flex;
+    flex-direction: column;
+    gap: 1.5rem;
+    justify-content: center;
+}
+.answers{
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+.answer{
+    display: flex;
+    gap: 1rem;
+}
+.boton{
+    border-radius: 8px;
+    background-color: rgb(17, 17, 17);
+    color:beige;
+    padding: 0.5rem;
+    border: 0;
+}
+
+@media (min-width: 854px){
+
+    .main{
+        display: flex;
+        text-align: center;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        gap: 1rem;
+        max-width: 1024px;
+        min-height: 100vh;
+        margin: 0 auto;
+    }
+
+    .line-container{
+        display: flex;
+        gap: 0.5rem;
+        font-weight: 700;
+        letter-spacing: 2px;
+        opacity: .5;
+        width: 80%;
+    }
+
+    .question{
+        margin: 0;
+    }
+
+    .answers_container{
+        display: flex;
+        flex-direction: column;
+        gap: 1.3rem;
+        justify-content: center;
+        align-items: center;
+    }
+
+    .answers{
+        display: flex;
+        flex-direction: column;
+        gap: 0.5rem;
+    }
+
+    .answer{
+        display: flex;
+        font-size: 1.2rem;
+        gap: 1rem;
+    }
+
+    .boton{
+        border-radius: 8px;
+        background-color: rgb(17, 17, 17);
+        color:beige;
+        padding: 0.8rem;
+        border: 0;
+    }
+}
