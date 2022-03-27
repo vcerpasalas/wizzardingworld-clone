@@ -12,6 +12,7 @@
   --gradient-color-6: #1c5e94;
   --gradient-color-7: #9567bb;
   --gradient-color-8: #1638aa;
+  scroll-behavior: smooth;
 }
 
 * {
