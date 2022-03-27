@@ -12,7 +12,6 @@
   --gradient-color-6: #1c5e94;
   --gradient-color-7: #9567bb;
   --gradient-color-8: #1638aa;
-  --harry-potter-font: "harry-potter";
 }
 
 * {
@@ -43,7 +42,7 @@ html {
 }
 
 .banner__subtitle {
-  font-family: var(--harry-potter-font), sans-serif;
+  font-family: "Quicksand", sans-serif;
   color: var(--text-color);
   text-align: center;
   font-size: 22px;
