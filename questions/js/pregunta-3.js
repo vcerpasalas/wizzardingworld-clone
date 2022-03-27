@@ -1,3 +1,5 @@
+/*Todo este codigo js es mío - Gino */
+
 window.onload = function () {
     var puntajeActual = parseInt(localStorage.getItem("Puntaje"));
     const btnSiguiente = document.getElementById('btn-siguiente');

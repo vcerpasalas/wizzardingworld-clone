@@ -1,3 +1,5 @@
+/*Todo este codigo js es mío - Gino */
+
 window.onload = function(){
 
     var puntajeFinal = localStorage.getItem("Puntaje");

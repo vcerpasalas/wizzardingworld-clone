@@ -1,3 +1,5 @@
+/* Todo este codigo js es mío - Gino */
+
 const lastestNewsNews = document.getElementById('lastestNewsNews');
 
 const renderInfoLastestNewsNews = (src, href, paragraph, elemento) => {

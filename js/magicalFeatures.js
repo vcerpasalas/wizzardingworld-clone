@@ -1,3 +1,5 @@
+/* Todo este codigo js es mío - Gino */
+
 const magicalFeaturesFeatures = document.getElementById('magicalFeaturesFeatures');
 const magicalFeaturesFeaturesFirst = document.getElementById('magicalFeaturesFeaturesFirst');
 const magicalFeaturesFeaturesSecond = document.getElementById('magicalFeaturesFeaturesSecond');
