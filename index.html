@@ -1,9 +1,4 @@
-
-  <link href="http://fonts.cdnfonts.com/css/harry-potter" rel="stylesheet">
-  <style> @import url:('http://fonts.cdnfonts.com/css/harry-potter'); 
-  </style>
 <!DOCTYPE html>
-
 <html lang="en">
   <head>
     <meta charset="UTF-8" />
@@ -28,29 +23,19 @@
     <header class="header" id="header"></header>
 
     <main class="main">
-
-    <!-- Hero Section -->
+      <!-- Hero Section -->
       <article class="hero">
         <div class="hero-container">
           <div class="hero__message">
-            <h2 class="hero__message-title">
-              Wizarding World: The Official Home of Harry Potter
-            </h2>
-            <h2 class="hero__message-subtitle">
-              Play our Quiz Championship: Fantastic Beasts edition
-            </h2>
+            <h2 class="hero__message-title">Wizzarding World</h2>
+            <h2 class="hero__message-subtitle">Juega nuestro nuevo concursos: Edición Animales Fantásticos</h2>
             <p class="hero__message-paragraph">
-              ⚡🧙 Earn points for your Hogwarts house in our latest quiz challenge! Our new Quiz Championship will test your Fantastic Beasts knowledge with 30 questions. Good luck! ⚡🧙 
-            </p>  
+              ❤ Gana puntos para tu casa de Hogwarts en nuestro último desafío de preguntas. Nuestro nuevo Concurso
+              pondrá a prueba tus conocimientos sobre Animales Fantásticos, con 30 preguntas ¡Buena suerte! ❤
+            </p>
             <div class="hero__message-shopping-container">
-              <div class="hero__message-cheapest-price-container">
-              </div>
-              <a href="#" class="hero__message-buy-button hero__message-buy-button--active">
-                Hechizos
-              </a>
-              <a href="#" class="hero__message-buy-button hero__message-buy-button--active">
-                Personajes
-              </a>
+              <a href="#" class="hero__message-buy-button hero__message-buy-button--active"> Personajes </a>
+              <a href="#" class="hero__message-buy-button hero__message-buy-button--active"> Hechizos </a>
             </div>
           </div>
           <div class="hero__figure">
@@ -76,101 +61,106 @@
         </figure>
       </article>
 
-      <!-- Start Blog Section -->
-
-      <div class="blog-section">
+      <!-- Blog Section -->
+      <section class="blog">
         <div class="blog-card">
-          <div class="meta">
-            <div class="photo" style="background-image: url(./images/blog/blog-audio.jpg)"></div>
+          <div class="blog__image-container">
+            <div class="blog__image" style="background-image: url(./images/blog/blog-audio.jpg)"></div>
           </div>
-          <div class="description">
-            <h1>Melodía oficial de Hogwarts</h1>
-            <h2>Revive una experiencia inolvidable</h2>
-            <p>
-              Conocida por diversas generaciones de magos y brujas a través de los años. Puedes escuchar la conocida melodía del universo de Harry Potter aquí. Disfruta de tu estadía en Wizzarding World. 
+          <div class="blog__description">
+            <h1 class="blog__title">Melodía oficial de Hogwarts</h1>
+            <h2 class="blog__subtitle">Revive una experiencia inolvidable</h2>
+            <p class="blog__paragraph">
+              Conocida por diversas generaciones de magos y brujas a través de los años. Puedes escuchar la conocida
+              melodía del universo de Harry Potter aquí. Disfruta de tu estadía en Wizzarding World.
             </p>
-            <p class="read-more">
-              <a class="audio__button-container"><button type="button" class="audio__button" onclick="play()">Escuchar ahora</button></a>
+            <p class="blog__button">
+              <a class="audio__button-container"
+                ><button type="button" class="audio__button" onclick="play()">Escuchar ahora</button></a
+              >
               <audio id="audio" src="./media/Harry Potter Theme Song.mp3"></audio>
             </p>
           </div>
         </div>
 
         <div class="blog-card alt">
-          <div class="meta">
-            <div class="photo" style="background-image: url(./images/blog/blog-1.jpg)"></div>
+          <div class="blog__image-container">
+            <div class="blog__image" style="background-image: url(./images/blog/blog-1.jpg)"></div>
           </div>
-          <div class="description">
-            <h1>Colección especial</h1>
-            <h2>Más información sobre el libro Harry Potter y el legado maldito</h2>
-            <p>
-              Visita nuestra nueva colección, donde podrás conocer más de la obra galardonada. Podrás sumergirte en este nuevo universo a través de exclusivos
-              videos, quizzes y demás funciones.
+          <div class="blog__description">
+            <h1 class="blog__title">Colección especial</h1>
+            <h2 class="blog__subtitle">Más información sobre el libro Harry Potter y el legado maldito</h2>
+            <p class="blog__paragraph">
+              Visita nuestra nueva colección, donde podrás conocer más de la obra galardonada. Podrás sumergirte en este
+              nuevo universo a través de exclusivos videos, quizzes y demás funciones.
             </p>
-            <p class="read-more">
-              <a class="audio__button-container"><button type="button" class="audio__button">Visita la colección</button></a>
+            <p class="blog__button">
+              <a class="audio__button-container"
+                ><button type="button" class="audio__button">Visita la colección</button></a
+              >
             </p>
           </div>
         </div>
 
         <div class="blog-card">
-          <div class="meta">
-            <div class="photo" style="background-image: url(./images/blog/blog-2.jpg)"></div>
+          <div class="blog__image-container">
+            <div class="blog__image" style="background-image: url(./images/blog/blog-2.jpg)"></div>
           </div>
-          <div class="description">
-            <h1>Participa en nuestra ceremonia de varitas</h1>
-            <h2>Miles de variedades y modelos</h2>
-            <p>
+          <div class="blog__description">
+            <h1 class="blog__title">Participa en nuestra ceremonia de varitas</h1>
+            <h2 class="blog__subtitle">Miles de variedades y modelos</h2>
+            <p class="blog__paragraph">
               Encontrar una varita es un rito de iniciación de todos los magos y brujas jóvenes. Entonces, ¿qué estás
               esperando? Descubre la tuya en la experiencia de varitas en linea, de Harry Potter Fan Club.
             </p>
-            <p class="read-more">
-              <a class="audio__button-container"><button type="button" class="audio__button">Encuentra tu varita</button></a>
+            <p class="blog__button">
+              <a class="audio__button-container"
+                ><button type="button" class="audio__button">Encuentra tu varita</button></a
+              >
             </p>
           </div>
         </div>
 
         <div class="blog-card alt">
-          <div class="meta">
-            <div class="photo" style="background-image: url(./images/blog/blog-3.jpg)"></div>
+          <div class="blog__image-container">
+            <div class="blog__image" style="background-image: url(./images/blog/blog-3.jpg)"></div>
           </div>
-          <div class="description">
-            <h1>Acércate a la magia, en cualquier momento y lugar</h1>
-            <h2>Tu momento ha llegado</h2>
-            <p>
+          <div class="blog__description">
+            <h1 class="blog__title">Acércate a la magia, en cualquier momento y lugar</h1>
+            <h2 class="blog__subtitle">Tu momento ha llegado</h2>
+            <p class="blog__paragraph">
               Únase al Club de fans de Harry Potter, participe en la Ceremonia de clasificación de casas de Hogwarts,
               juegue en concursos y acertijos, y explore todos los rincones del mundo mágico con la aplicación oficial.
             </p>
-            <p class="read-more">
+            <p class="blog__button">
               <a class="audio__button-container"><button type="button" class="audio__button">Saber más</button></a>
             </p>
           </div>
         </div>
 
         <div class="blog-card">
-          <div class="meta">
-            <div class="photo" style="background-image: url(./images/blog/blog-4.jpg)"></div>
+          <div class="blog__image-container">
+            <div class="blog__image" style="background-image: url(./images/blog/blog-4.jpg)"></div>
           </div>
-          <div class="description">
-            <h1>Descubre en qué casa de Hogwarts estás</h1>
-            <h2>Bla bla bla...</h2>
-            <p>
-              ¿Eres valiente, ambicioso, leal o sabio? ¿Crees estar seleccionado en la casa que esperas? Participa en la Ceremonia de Selección Oficial para ver dónde te coloca
-              el Sombrero Seleccionador.
+          <div class="blog__description">
+            <h1 class="blog__title">Descubre en qué casa de Hogwarts estás</h1>
+            <h2 class="blog__subtitle">Ingresa al test de selección</h2>
+            <p class="blog__paragraph">
+              ¿Eres valiente, ambicioso, leal o sabio? ¿Crees estar seleccionado en la casa que esperas? Participa en la
+              Ceremonia de Selección Oficial para ver dónde te coloca el Sombrero Seleccionador.
             </p>
-            <p class="read-more">
-              <a class="audio__button-container"><button type="button" class="audio__button">Descubrir mi casa</button></a>
+            <p class="blog__button">
+              <a class="audio__button-container">
+                <button type="button" class="audio__button">Descubrir mi casa</button></a
+              >
             </p>
           </div>
         </div>
-
-      </div>
-
-      <!-- End Blog Section -->
+      </section>
 
       <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/lottie-player.js"></script>
       <script src="./js/header.js" type="module"></script>
-      <script src="./js/index.js""></script>
+      <script src="./js/index.js"></script>
     </main>
   </body>
 </html>

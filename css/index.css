@@ -28,17 +28,16 @@
   font-family: var(--primary-font-500), sans-serif;
   position: relative;
   overflow-x: hidden;
-  background-color: #10141b;
+  background-color: var(--main-background);
 }
-.clear-theme {
-  background-color: white;
-}
+
 /* Slider section */
 
 /* Blog section */
 
-.blog-section {
-  margin-top: 200px;
+.blog {
+  margin-top: 80px;
+  margin-bottom: 80px;
   margin-left: 20px;
   margin-right: 20px;
 }
@@ -46,8 +45,8 @@
 .audio__button {
   width: 220px;
   height: 42px;
-  background-color: #6b63b5;
-  color: #fff;
+  background-color: var(--primary-purple);
+  color: var(--primary-white);
   font-size: 14px;
   text-align: center;
   font-weight: 700;
@@ -67,12 +66,6 @@
   text-decoration: none;
   color: inherit;
 }
-
-a {
-  text-decoration: none;
-  color: inherit;
-}
-
 
 /* Media Queries */
 
