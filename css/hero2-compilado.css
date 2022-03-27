@@ -33,8 +33,9 @@
   flex-direction: column;
   align-items: stretch;
   justify-content: center;
-  gap: 2rem;
+  gap: 2.5rem;
   text-align: center;
+  flex-wrap: wrap;
 }
 @media (min-width: 854px) {
   .hero__message {
@@ -44,8 +45,10 @@
 }
 .hero__message-title {
   font-weight: 100;
-  font-size: 4.5rem;
+  font-size: 4.3rem;
   margin: 0;
+  display: inline;
+  min-width: 80%
 }
 .hero__message-subtitle {
   font-weight: 400;
@@ -58,10 +61,12 @@
   font-family: "sofia_prolight", sans-serif;
   font-size: 1.4rem;
   margin: 0;
+  display: flex;
 }
 .hero__message-pages-container {
+  margin-top: 1rem;
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   align-items: center;
   justify-content: center;
   gap: 2rem;
@@ -69,6 +74,7 @@
 @media (min-width: 854px) {
   .hero__message-pages-container {
     justify-content: stretch;
+    flex-direction: row;
   }
 }
 .hero__message-page-button {
@@ -76,7 +82,6 @@
   font-size: 1.325rem;
   background-color: var(--button-color);
   color: var(--button-text-color);
-  padding: 1rem 1.5rem;
   font-weight: 800;
   border-radius: 1.5rem;
   transition: var(--all-transitions);
@@ -92,6 +97,11 @@
   overflow: hidden;
   margin: 0;
 }
+.hero__figure {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
 @media (min-width: 854px) {
   .hero__figure-image-container {
     max-width: 640px;
@@ -101,16 +111,7 @@
   width: 100%;
 }
 
-.hero-container {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  gap: 2rem;
-  max-width: 1024px;
-  margin: auto;
-  padding: var(--padding-container);
-}
+
 @media (min-width: 854px) {
   .hero-container {
     display: grid;

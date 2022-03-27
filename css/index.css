@@ -36,9 +36,9 @@
 /* Botones Animados - Personajes y Hechizos */
 
 .hero__message-button-container {
-  margin-top: -1.5rem;
   display: flex;
   justify-content: center;
+
 }
 
 .hero__message-button-animate {
@@ -47,8 +47,6 @@
   background-color: var(--primary-purple);
   font-size: 1.1em;
   padding: 0.4em 1em;
-  margin-top: 25px;
-  margin-bottom: 20px;
   -webkit-appearance: none;
   appearance: none;
   color: var(--text-color);
@@ -106,10 +104,22 @@
   color: inherit;
 }
 
+
+.hero-container--responsive {
+width: min(  90%, 1024px);
+display: flex;
+flex-direction: column;
+gap: 5rem;
+}
 /* Media Queries */
 
 @media (min-width: 1024px) {
   .clear-theme {
     margin-top: 136px;
   }
+  .hero-container--responsive {
+
+flex-direction: row;
 }
+}
+
