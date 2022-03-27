@@ -1,7 +1,6 @@
 @import url("../fonts/fonts.css");
 @import url("./header.css");
 @import url("./page.css");
-@import url("http://fonts.cdnfonts.com/css/harry-potter");
 @import url("./footer.css");
 
 * {
@@ -25,6 +24,7 @@
   --primary-white: #ffff;
   --main-background: #10141b;
   --main-background-light: #242633;
+  scroll-behavior: smooth;
 }
 
 .body {

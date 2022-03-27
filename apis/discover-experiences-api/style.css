@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap");
+@import url("../fonts/fonts.css");
 
 :root {
   --text-color: #ffffff;
@@ -12,6 +12,7 @@
   --gradient-color-6: #1c5e94;
   --gradient-color-7: #9567bb;
   --gradient-color-8: #1638aa;
+  --harry-potter-font: "harry-potter";
 }
 
 * {
@@ -19,7 +20,6 @@
 }
 
 html {
-  font-family: "Quicksand", sans-serif;
   line-height: 1.6;
   background: url(https://i.postimg.cc/QNJ1kzxj/background.jpg);
 }
@@ -36,7 +36,6 @@ html {
 
 .banner__title {
   text-align: center;
-  font-family: var(--accent-font-bold);
   color: var(--text-color);
   margin-top: 30px;
   text-shadow: 2px 2px 4px var(--inverse-text-color);
@@ -44,12 +43,14 @@ html {
 }
 
 .banner__subtitle {
+  font-family: var(--harry-potter-font), sans-serif;
   color: var(--text-color);
   text-align: center;
   font-size: 22px;
 }
 
 .banner__text-container {
+  font-family: "Quicksand", sans-serif;
   text-align: center;
   color: var(--text-color);
   font-size: 16px;
@@ -68,6 +69,7 @@ html {
 /* Cards sobre los juegos */
 
 .card {
+  font-family: "Quicksand", sans-serif;
   margin: 1rem;
   background: var(--background-card-color);
   box-shadow: 2px 4px 25px rgba(0, 0, 0, 0.1);
