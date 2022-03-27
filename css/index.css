@@ -110,6 +110,7 @@
   flex-direction: column;
   gap: 5rem;
 }
+
 /* Media Queries */
 
 @media (min-width: 1024px) {
