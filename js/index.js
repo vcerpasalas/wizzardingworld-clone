@@ -116,3 +116,5 @@ function play() {
   var audio = document.getElementById("audio");
   audio.play();
 }
+
+document.addEventListener("DOMContentLoaded", documentReady);
