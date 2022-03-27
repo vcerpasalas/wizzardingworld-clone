@@ -27,6 +27,7 @@ html {
 /* Intro */
 
 .banner__phrase {
+  font-family: "Quicksand", sans-serif;
   color: var(--text-color);
   text-align: center;
   margin-top: 120px;
