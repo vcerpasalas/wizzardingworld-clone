@@ -62,6 +62,8 @@ Manejo de APIS en la sección "Descubriendo" de la web.
 [![mobile-2.png](https://i.postimg.cc/SRtgdt9R/mobile-2.png)](https://postimg.cc/BPH5QpMf)
     
 [![mobile-3.png](https://i.postimg.cc/VNB4pNt3/mobile-3.png)](https://postimg.cc/GBtksdqQ)
+        
+[![mobile-4.png](https://i.postimg.cc/Dz8pJh4D/mobile-4.png)](https://postimg.cc/DW3PHtgd)
     
 ### Módulo
 
