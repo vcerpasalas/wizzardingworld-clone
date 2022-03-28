@@ -110,6 +110,13 @@ const getPagesData = async () => {
 
 getPagesData();
 
+// Casas de Hogwarts - Lógica para sección con Bootstrap
+
+$(function () {
+  $('[data-toggle="popover"]').popover();
+  $('[data-toggle="tooltip"]').tooltip();
+});
+
 // Blog - reproducir canción de Hogwarts
 
 function play() {

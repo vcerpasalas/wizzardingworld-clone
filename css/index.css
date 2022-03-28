@@ -84,6 +84,7 @@
   color: white;
   text-decoration: none;
   font-size: 1.8rem;
+  font-family: "sofia_prosemi_bold", sans-serif;
 }
 
 /* Latests news Section */
@@ -104,6 +105,7 @@
   font-size: 3rem;
   text-align: left;
   margin: 1rem;
+  font-family: "sofia_probold", sans-serif;
 }
 
 .lastest-news__news {
@@ -192,6 +194,7 @@
   font-size: 3rem;
   text-align: left;
   margin: 1rem;
+  font-family: "sofia_probold", sans-serif;
 }
 
 .magical-features__features,
@@ -232,9 +235,23 @@
 }
 
 .magical-features__text {
+  font-family: "sofia_prosemi_bold", sans-serif;
   padding: 7rem 0.2rem 0.5rem 0.2rem;
   margin: 0;
   font-size: 1.8rem;
+}
+
+/* Bootstrap - Casas de Hogwarts */
+
+.section-title {
+  margin-top: 0;
+  margin-bottom: 0.6em;
+  font-weight: 500;
+}
+
+.section-title .fa {
+  margin-right: 5px;
+  color: #07a;
 }
 
 /* Blog section */
@@ -244,6 +261,14 @@
   margin-bottom: 80px;
   margin-left: 20px;
   margin-right: 20px;
+}
+
+.blog-features__title {
+  font-size: 3rem;
+  text-align: center;
+  margin: 1rem;
+  margin-bottom: 40px;
+  font-family: "sofia_probold", sans-serif;
 }
 
 .audio__button {
@@ -400,6 +425,9 @@
   }
 
   .lastest-news__paragraph {
+    margin-top: 160px;
+    font-family: "sofia_prosemi_bold", sans-serif;
+    font-size: 20px;
     max-width: 100%;
   }
 
@@ -421,7 +449,7 @@
 
   .sections-separator__text {
     font-weight: 700;
-    font-size: 1.5rem;
+    font-size: 1rem;
     text-decoration: none;
     color: white;
     transition: all 0.2s;
@@ -502,7 +530,8 @@
   }
 
   .magical-features__text {
-    padding: 10rem 0.8rem 0 0.8rem;
+    font-family: "sofia_prosemi_bold", sans-serif;
+    padding: 13.5rem 0.8rem 0 0.8rem;
     font-size: 2.2rem;
     margin: 0;
     transition: all 0.5s;
