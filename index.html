@@ -10,6 +10,7 @@
     <link rel="stylesheet" href="./css/hero2-compilado.css" />
     <link href="http://fonts.cdnfonts.com/css/harry-potter" rel="stylesheet" />
     <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.12/dist/css/splide.min.css" />
     <link
       rel="stylesheet"
       href="https://cdnjs.cloudflare.com/ajax/libs/meyer-reset/2.0/reset.min.css"
@@ -62,7 +63,7 @@
       </article>
 
       <!-- Splide Section -->
-      <section class="splide">
+      <div class="splide">
         <div class="splide__track">
           <ul class="splide__list" id="splideList">
             <li class="splide__slide">
@@ -214,6 +215,56 @@
               </p>
             </li>
           </ul>
+        </div>
+      </div>
+
+      <script>
+        var splide = new Splide(".splide", {
+          type: "loop",
+          dragp: "free",
+          perPage: 3,
+          focus: "center",
+          breakpoints: {
+            900: {
+              perPage: 2,
+            },
+            800: {
+              perPage: 1,
+            },
+            570: {
+              perPage: 1,
+            },
+          },
+          pauseOnHover: true,
+          autoScroll: {
+            speed: 0.12,
+          },
+        });
+
+        splide.mount();
+      </script>
+
+      <!-- Latest News Section -->
+      <section class="lastest-news">
+        <div class="lastest-news__container">
+          <h2 class="lastest-news__title">Lastest News</h2>
+          <div class="lastest-news__news" id="lastestNewsNews"></div>
+        </div>
+      </section>
+
+      <div class="sections-separator">
+        <hr class="sections-separator__line" />
+        <a href="%" class="sections-separator__text">VIEW ALL NEWS</a>
+      </div>
+
+      <!-- Magical Features Section -->
+      <section class="magical-features">
+        <div class="magical-features__container">
+          <h2 class="magical-features__title">Magical features</h2>
+          <div class="magical-features__features" id="magicalFeaturesFeatures">
+            <div class="magical-features__features-first" id="magicalFeaturesFeaturesFirst"></div>
+            <div class="magical-features__features-second" id="magicalFeaturesFeaturesSecond"></div>
+          </div>
         </div>
       </section>
 
@@ -401,7 +452,10 @@
     </footer>
 
     <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/lottie-player.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.12/dist/js/splide.min.js"></script>
     <script src="./js/header.js" type="module"></script>
+    <script src="./js/lastestNews.js"></script>
+    <script src="./js/magicalFeatures.js"></script>
     <script src="./js/index.js"></script>
     <style>
       @import url("http://fonts.cdnfonts.com/css/harry-potter");

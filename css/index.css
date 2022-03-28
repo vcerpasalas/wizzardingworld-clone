@@ -70,6 +70,17 @@
 
 /* Splide section */
 
+.splide__link-paragraph {
+  max-width: 280px;
+  margin: 0.5rem auto;
+}
+
+.splide__paragraph {
+  color: white;
+  text-decoration: none;
+  font-size: 1.8rem;
+}
+
 /* Blog section */
 
 .blog {
