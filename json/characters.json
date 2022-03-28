@@ -2522,7 +2522,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://static.wikia.nocookie.net/esharrypotter/images/8/8c/Godric_Griff.jpg/revision/latest?cb=20150506175135"
+    "image": "https://i.postimg.cc/yNzsFrnP/Godric-Griff.webp"
   },
   {
     "name": "Rowena Ravenclaw",
@@ -2547,7 +2547,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://static.wikia.nocookie.net/esharrypotter/images/6/6d/Rowena.jpg/revision/latest?cb=20150506175227"
+    "image": "https://i.postimg.cc/ydLKC6KQ/rowena.webp"
   },
   {
     "name": "Helga Hufflepuff",
@@ -2572,7 +2572,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://static.wikia.nocookie.net/esharrypotter/images/a/a5/Helga.jpg/revision/latest?cb=20150506175413"
+    "image": "https://i.postimg.cc/CM60vKmd/Helga.webp"
   },
   {
     "name": "Salazar Slytherin",
@@ -2597,7 +2597,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://static.wikia.nocookie.net/esharrypotter/images/b/b3/Salazar.jpg/revision/latest?cb=20150506175324"
+    "image": "https://i.postimg.cc/8CrwVZVq/Salazar.webp"
   },
   {
     "name": "Madame Pince",
@@ -2622,7 +2622,7 @@
     "actor": "Sally Mortemore",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/esharrypotter/images/c/ce/Madam_Irma_Prince.png/revision/latest/top-crop/width/360/height/450?cb=20120501182312"
+    "image": "https://i.postimg.cc/9MdpDz0b/madam-pince.jpg"
   },
   {
     "name": "Ernie Macmillan",
@@ -2647,7 +2647,7 @@
     "actor": "Louis Doyle",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/esharrypotter/images/3/30/Ernie.PNG/revision/latest/top-crop/width/360/height/450?cb=20120221193334"
+    "image": "https://i.postimg.cc/Dfc6FWty/Ernie-Macmillan-JPG.webp"
   },
   {
     "name": "Armando Dippet",
@@ -2672,7 +2672,7 @@
     "actor": "Alfred Burke",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://static.wikia.nocookie.net/esharrypotter/images/0/02/Armando_Dippet_pel%C3%ADcula.PNG/revision/latest/top-crop/width/360/height/450?cb=20130221190552"
+    "image": "https://i.postimg.cc/Kjcn4Ndc/Armando-Dippet-pel-cula-PNG.webp"
   },
   {
     "name": "Penelope Clearwater",
@@ -2697,7 +2697,7 @@
     "actor": "Gemma Padley",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/esharrypotter/images/c/ce/250px-Pepe4.jpg/revision/latest/top-crop/width/360/height/450?cb=20120331131151"
+    "image": "https://i.postimg.cc/bNJxhmx3/penelope-c.webp"
   },
   {
     "name": "Cornelius Fudge",
@@ -2722,7 +2722,7 @@
     "actor": "Robert Hardy",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/esharrypotter/images/e/e6/Cornelius_Fudge_1994_.jpg/revision/latest?cb=20150228090100"
+    "image": "https://i.postimg.cc/HLGXbHfh/Cornelius-Fudge-1994.webp"
   },
   {
     "name": "Aragog",
@@ -2772,7 +2772,7 @@
     "actor": "Lee Ingleby",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/esharrypotter/images/4/49/StanShunpike.jpg/revision/latest?cb=20110729033032"
+    "image": "https://i.postimg.cc/QCMTjMTH/Stan-Shunpike.webp"
   },
   {
     "name": "Ernest Prang",
@@ -2797,7 +2797,7 @@
     "actor": "Jimmy Gardner",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/p__/images/6/68/DCEED897-5CDF-4CA7-88FB-3DBC7FFB6A02.jpeg/revision/latest/top-crop/width/360/height/360?cb=20200806145623&path-prefix=protagonist"
+    "image": "https://i.postimg.cc/BZhFM2rD/ernie-p.webp"
   },
   {
     "name": "Sybill Trelawney",
@@ -2822,7 +2822,7 @@
     "actor": "Emma Thompson",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/esharrypotter/images/b/bd/Trelawney_1996.jpg/revision/latest?cb=20131126124343"
+    "image": "https://i.postimg.cc/X7mC047Y/Trelawney-1996.webp"
   },
   {
     "name": "Buckbeak",
@@ -2847,7 +2847,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/heroes-and-villain/images/f/f4/Buckbeak.jpg/revision/latest/top-crop/width/360/height/450?cb=20181016151919"
+    "image": "https://i.postimg.cc/GpJ8YDP4/Buckbeak.webp"
   },
   {
     "name": "Peter Pettigrew",
@@ -2872,7 +2872,7 @@
     "actor": "Timothy Spall",
     "alternate_actors": ["Charles Hughes"],
     "alive": false,
-    "image": "https://static.wikia.nocookie.net/esharrypotter/images/7/7c/Peter_Pettigrew.PNG/revision/latest/top-crop/width/360/height/450?cb=20120422201942"
+    "image": "https://i.postimg.cc/8csjqn2v/Peter-Pettigrew-PNG.webp"
   },
   {
     "name": "Madam Rosmerta",
@@ -2897,7 +2897,7 @@
     "actor": "Julie Christie",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/esharrypotter/images/b/b4/Madam_Rosmerta.PNG/revision/latest?cb=20120106122946"
+    "image": "https://i.postimg.cc/mg7tf95m/Madam-Rosmerta-PNG.webp"
   },
   {
     "name": "Septima Vector",
@@ -2922,7 +2922,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/esharrypotter/images/8/86/Vikti.jpg/revision/latest/top-crop/width/360/height/450?cb=20111208151624"
+    "image": "https://i.postimg.cc/Cx4nnDsz/septima-v.webp"
   },
   {
     "name": "Cassius Warrington",
@@ -2972,7 +2972,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/c/c3/Graham_montague.jpg/revision/latest/top-crop/width/360/height/450?cb=20140701101409&path-prefix=fr"
+    "image": "https://i.postimg.cc/TwbRgvvC/Graham-montague.webp"
   },
   {
     "name": "Peregrine Derrick",
@@ -2997,7 +2997,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/6/62/Bole_CoS.PNG/revision/latest/top-crop/width/360/height/360?cb=20130828070639"
+    "image": "https://i.postimg.cc/6qzFGMqM/perregrine.webp"
   },
   {
     "name": "Walden Macnair",
@@ -3022,7 +3022,7 @@
     "actor": "Peter Best",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/heroes-and-villain/images/6/69/5E7CB45B-4493-4496-929A-E7C31D62A92B.webp/revision/latest/top-crop/width/360/height/450?cb=20201126182747"
+    "image": "https://i.postimg.cc/3NwnzYrZ/walden-m.webp"
   },
   {
     "name": "Franc Bryce",
@@ -3072,7 +3072,7 @@
     "actor": "Roger Lloyd-Pack",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://static.wikia.nocookie.net/esharrypotter/images/e/e3/Roger_Lloyd_Pack_as_Barty_Crouch_Sr._%28GoF-promo-02%29.jpg/revision/latest?cb=20100803184237"
+    "image": "https://i.postimg.cc/528q76qV/barty-c.webp"
   },
   {
     "name": "Amos Diggory",
@@ -3122,7 +3122,7 @@
     "actor": "Stanislav Ianevski",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/esharrypotter/images/9/91/Viktor_krum.jpg/revision/latest/top-crop/width/360/height/450?cb=20090809221546"
+    "image": "https://i.postimg.cc/ThM5gJsW/Viktor-krum.webp"
   },
   {
     "name": "Winky",
