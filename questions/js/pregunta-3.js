@@ -19,7 +19,7 @@ window.onload = function () {
           timer: 2000,
           showConfirmButton: false,
         }).then((result) => {
-          location.href = "/questions/pregunta-4.html";
+          location.href = "../questions/pregunta-4.html";
         });
       } else {
         Swal.fire({
@@ -29,7 +29,7 @@ window.onload = function () {
           timer: 2000,
           showConfirmButton: false,
         }).then((result) => {
-          location.href = "/questions/pregunta-4.html";
+          location.href = "../questions/pregunta-4.html";
         });
       }
     }
