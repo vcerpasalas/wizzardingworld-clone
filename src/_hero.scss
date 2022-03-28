@@ -1,9 +1,10 @@
+/* Estilos de sección Hero */
+
 $theme-color: #fff;
 $text-color: hsl(0, 0%, 0%);
-$highlight-color-1: #61dafb;
 $inverse-theme-color: #20232a;
 $inverse-text-color: #fff;
-$padding-container: 0 1rem + 1rem;
+$padding-container: 0 1rem + 1rem; /* Uso de operador de concatenación */
 
 @mixin texto-hero($ancho-texto: 400) {
   font-weight: $ancho-texto;
@@ -11,8 +12,6 @@ $padding-container: 0 1rem + 1rem;
   margin: 0;
   text: {
     align: center;
-    transform: uppercase;
-    shadow: 0.5rem 0.5rem 0.5rem $highlight-color-1, 1rem 1rem 1rem $highlight-color-1;
   }
 }
 

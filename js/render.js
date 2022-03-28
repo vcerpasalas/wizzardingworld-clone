@@ -4,5 +4,3 @@ const htmlRendering = (element, data, renderFunctionStructure) => {
 };
 
 export default htmlRendering;
-
-

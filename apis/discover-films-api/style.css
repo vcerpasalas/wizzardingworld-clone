@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Quicksand:wght@700&display=swap");
+@import url("../fonts/fonts.css");
 
 :root {
   --text-color: #ffffff;
@@ -12,6 +12,7 @@
   --gradient-color-6: #1c5e94;
   --gradient-color-7: #9567bb;
   --gradient-color-8: #1638aa;
+  scroll-behavior: smooth;
 }
 
 * {
@@ -19,7 +20,6 @@
 }
 
 html {
-  font-family: "Quicksand", sans-serif;
   line-height: 1.6;
   background: url(https://i.postimg.cc/QNJ1kzxj/background.jpg);
 }
@@ -27,6 +27,7 @@ html {
 /* Intro */
 
 .banner__phrase {
+  font-family: "Quicksand", sans-serif;
   color: var(--text-color);
   text-align: center;
   margin-top: 120px;
@@ -43,12 +44,14 @@ html {
 }
 
 .banner__subtitle {
+  font-family: "Quicksand", sans-serif;
   color: var(--text-color);
   text-align: center;
   font-size: 22px;
 }
 
 .banner__text-container {
+  font-family: "Quicksand", sans-serif;
   text-align: center;
   color: var(--text-color);
   font-size: 16px;
@@ -67,6 +70,7 @@ html {
 /* Cards sobre los libros */
 
 .card {
+  font-family: "Quicksand", sans-serif;
   margin: 1rem;
   background: var(--background-card-color);
   box-shadow: 2px 4px 25px rgba(0, 0, 0, 0.1);
@@ -119,6 +123,64 @@ html {
 .root {
   max-width: 1200px;
   margin: 0 auto;
+}
+
+/* Botón para regresar a Landing Page */
+
+.card__return-button {
+  margin: 0;
+  margin-top: 30px;
+  margin-bottom: 60px;
+  padding: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.return-button {
+  position: relative;
+  display: inline-flex;
+  width: 180px;
+  height: 55px;
+  margin: 0 15px;
+  perspective: 1000px;
+}
+
+.return-button a {
+  font-size: 19px;
+  letter-spacing: 1px;
+  transform-style: preserve-3d;
+  transform: translateZ(-25px);
+  transition: transform 0.25s;
+  font-family: "Montserrat", sans-serif;
+}
+
+.return-button a:before,
+.return-button a:after {
+  position: absolute;
+  content: "Regresar";
+  height: 55px;
+  width: 180px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border: 2px solid var(--text-color);
+  box-sizing: border-box;
+  border-radius: 5px;
+}
+
+.return-button a:before {
+  color: var(--text-color);
+  transform: rotateY(0deg) translateZ(25px);
+}
+
+.return-button a:after {
+  color: var(--text-color);
+  transform: rotateX(90deg) translateZ(25px);
+}
+
+.return-button a:hover {
+  transform: translateZ(-25px) rotateX(-90deg);
 }
 
 /* Media Queries - Responsive */
