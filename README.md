@@ -52,8 +52,10 @@ Manejo de APIS en la sección "Descubriendo" de la web.
 [![web-5.png](https://i.postimg.cc/DZ1htL67/web-5.png)](https://postimg.cc/LY4GPqGW)
        
 [![web-6.png](https://i.postimg.cc/qBnc5qdQ/web-6.png)](https://postimg.cc/SjSzXyRz)
-      
+       
 [![web-7.png](https://i.postimg.cc/rsyHQrYn/web-7.png)](https://postimg.cc/S25VKJ4C)
+             
+[![web-8.png](https://i.postimg.cc/kgqRCP2r/web-8.png)](https://postimg.cc/D8pwQDQ5)
          
 ### Vista responsive en mobile
         
@@ -64,7 +66,9 @@ Manejo de APIS en la sección "Descubriendo" de la web.
 [![mobile-3.png](https://i.postimg.cc/VNB4pNt3/mobile-3.png)](https://postimg.cc/GBtksdqQ)
         
 [![mobile-4.png](https://i.postimg.cc/Dz8pJh4D/mobile-4.png)](https://postimg.cc/DW3PHtgd)
-    
+        
+[![mobile-5.png](https://i.postimg.cc/Qt9HmXy7/mobile-5.png)](https://postimg.cc/gXpzkPdc)
+     
 ### Módulo
 
 Este proyecto corresponde a la sexta y séptima semana del módulo de Frontend.
