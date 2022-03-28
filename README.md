@@ -2,9 +2,11 @@
 
 El presente proyecto constó de clonar la web oficlal "Wizzarding World" del universo de Harry Potter y Animales Fantásticos. Cabe resaltar que este proyecto de desarrollo web es hecho por fans para fans. En nuestra propuesta, se añadieron nuevas funcionalidades que permitirán que tu experiencia en el mundo mágico sea memorable.
 
-Para comenzar, encontrarás un Header interactivo con secciones en las que puedes navegar y te direccionarán a nuevas páginas, como "News & Features". Podrás enterarte de las últimas novedades o leer artículos de interés. Así también, se cuenta con una sección llamada "Discover", donde verás cards con información y fotografías sobre libros, películas, experiencias, entre otros. Nuestra sección Hero propone una experiencia diferente, ingresa a la biblioteca de personajes donde podrás averiguar a que casa de Hogwarts perteneció cada personaje del universo HP y Animales Fantásitcos. Además, te presentamos un generador mágico de hechizos.
+Para comenzar, encontrarás un Header interactivo con diversas secciones, en las que puedes navegar y te direccionarán a nuevas páginas, como "News" & "Features". Podrás enterarte de las últimas novedades o leer artículos de interés. Así también, se cuenta con una sección llamada "Discover" con subcategorías, donde verás cards con información y fotografías sobre libros, películas, experiencias, entre otros datos de interés. 
+Nuestra sección Hero propone una experiencia diferente, ingresa a la biblioteca de personajes donde podrás averiguar a que casa de Hogwarts perteneció cada personaje del universo HP y Animales Fantásitcos. Además, te presentamos un generador mágico de hechizos.
+No olvides realizar el test de casas de Hogwarts ¡Pon a prueba tu conocimiento!
 
-Al seguir navegando en la landing page, tendrás la posibilidad de escuchar la melodía de Hogwarts al presionar un botón y enterarte de las últimas noticias a través de secciones que cuentan con cards o un slider informativo y visual.
+Al seguir navegando en la landing page, tendrás la posibilidad de escuchar la melodía de Hogwarts al presionar un botón y a la vez, podrás enterarte de las últimas noticias a través de secciones que cuentan con cards y/o un splide con información.
 
 ¿Vas a perderte esta nueva experiencia mágica?
 
@@ -38,11 +40,29 @@ Manejo de APIS en la sección "Descubriendo" de la web.
 ## Vistas del proyecto
 
 ### Vista pantalla completa en laptop
-   
-  
+        
+[![portada-wizzarding.png](https://i.postimg.cc/d0nhZMdb/portada-wizzarding.png)](https://postimg.cc/cKgxPbFh)
+      
+[![web-2.png](https://i.postimg.cc/wMJ141yN/web-2.png)](https://postimg.cc/sGjfvDJf)
+      
+[![web-3.png](https://i.postimg.cc/hGfP3XNG/web-3.png)](https://postimg.cc/xkV2X1fr)
+     
+[![web-4.png](https://i.postimg.cc/vHhYY7sB/web-4.png)](https://postimg.cc/xckDgzqD)
+     
+[![web-5.png](https://i.postimg.cc/DZ1htL67/web-5.png)](https://postimg.cc/LY4GPqGW)
+       
+[![web-6.png](https://i.postimg.cc/tJDKj5xG/web-6.png)](https://postimg.cc/Pvp3b1yS)
+      
+[![web-7.png](https://i.postimg.cc/rsyHQrYn/web-7.png)](https://postimg.cc/S25VKJ4C)
+         
 ### Vista responsive en mobile
-
-
+        
+[![mobile-1.png](https://i.postimg.cc/SxYvTqDh/mobile-1.png)](https://postimg.cc/dhv63bbH)
+          
+[![mobile-2.png](https://i.postimg.cc/SRtgdt9R/mobile-2.png)](https://postimg.cc/BPH5QpMf)
+    
+[![mobile-3.png](https://i.postimg.cc/VNB4pNt3/mobile-3.png)](https://postimg.cc/GBtksdqQ)
+    
 ### Módulo
 
 Este proyecto corresponde a la sexta y séptima semana del módulo de Frontend.
@@ -63,7 +83,6 @@ En total serán 10 proyectos, que corresponden a 10 retos.
 - Callbacks
 - Promesas
 - try... catch
-- Métodos HTTP
 - JSON
 - Async Await
 - Axios
