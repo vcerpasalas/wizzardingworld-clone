@@ -244,14 +244,10 @@
 /* Bootstrap - Casas de Hogwarts */
 
 .section-title {
-  margin-top: 0;
-  margin-bottom: 0.6em;
+  margin-top: 30px;
+  margin-bottom: 70px;
   font-weight: 500;
-}
-
-.section-title .fa {
-  margin-right: 5px;
-  color: #07a;
+  font-size: 30px;
 }
 
 /* Blog section */
