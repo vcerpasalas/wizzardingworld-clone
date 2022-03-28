@@ -70,9 +70,14 @@
 
 /* Splide section */
 
+.splide {
+  margin-top: 100px;
+}
+
 .splide__link-paragraph {
   max-width: 280px;
   margin: 0.5rem auto;
+  text-align: right;
 }
 
 .splide__paragraph {
