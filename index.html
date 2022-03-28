@@ -8,6 +8,7 @@
     <link rel="stylesheet" href="./css/blog2.css" />
     <link rel="stylesheet" href="./css/hero-compilado.css" />
     <link rel="stylesheet" href="./css/hero2-compilado.css" />
+
     <link href="http://fonts.cdnfonts.com/css/harry-potter" rel="stylesheet" />
     <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.12/dist/js/splide.min.js"></script>
     <link
@@ -16,6 +17,7 @@
       integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
       crossorigin="anonymous"
     />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.8.1/font/bootstrap-icons.css" />
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>
 
     <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css" />
@@ -285,51 +287,16 @@
         </div>
       </section>
 
-      <!-- Bootstrap - Casas de Hogwarts -->
+      <!-- Bootstrap Section -->
       <section id="three" class="i-row i-row-odd">
-        <h2 class="casa__titulo">¿Cuál es tu casa favorita?</h2>
-        <div class="casa__botones-container">
-          <button
-            type="button"
-            class="btn btn-secondary"
-            data-bs-container="body"
-            data-bs-toggle="popover"
-            data-bs-placement="top"
-            data-bs-content="Top popover"
-          >
-            Popover on top
-          </button>
-          <button
-            type="button"
-            class="btn btn-secondary"
-            data-bs-container="body"
-            data-bs-toggle="popover"
-            data-bs-placement="right"
-            data-bs-content="Right popover"
-          >
-            Popover on right
-          </button>
-          <button
-            type="button"
-            class="btn btn-secondary"
-            data-bs-container="body"
-            data-bs-toggle="popover"
-            data-bs-placement="bottom"
-            data-bs-content="Bottom popover"
-          >
-            Popover on bottom
-          </button>
-          <button
-            type="button"
-            class="btn btn-secondary"
-            data-bs-container="body"
-            data-bs-toggle="popover"
-            data-bs-placement="left"
-            data-bs-content="Left popover"
-          >
-            Popover on left
-          </button>
+        <h2 class="form__title">¿Qué quieres saber de tu casa favorita?</h2>
+        <div class="icon-container">
+          <i class="bi bi-search"></i>
         </div>
+        <form class="d-flex">
+          <input class="form-control me-2" type="search" placeholder="Buscar" aria-label="Search" />
+          <button class="btn btn-outline-warning" type="submit">Buscar</button>
+        </form>
       </section>
 
       <!-- Blog Section -->

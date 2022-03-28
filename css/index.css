@@ -238,23 +238,31 @@
   font-family: "sofia_prosemi_bold", sans-serif;
   padding: 7rem 0.2rem 0.5rem 0.2rem;
   margin: 0;
-  font-size: 1.8rem;
+  font-size: 1rem;
 }
 
 /* Bootstrap - Casas de Hogwarts */
 
-.casa__titulo {
+.form__title {
   font-family: "sofia_prosemi_bold", sans-serif;
-  margin-top: 120px;
-  margin-bottom: 60px;
-  font-weight: 500;
-  font-size: 30px;
   text-align: center;
+  font-size: 28px;
+  margin-top: 80px;
+  margin-bottom: 20px;
 }
 
-.casa__botones-container {
-  display: inline-block;
-  margin: 0 10px;
+.d-flex {
+  font-family: "sofia_promedium", sans-serif;
+  width: 25%;
+  margin: 0 auto;
+  font-size: 20px;
+}
+
+.icon-container {
+  font-size: 35px;
+  color: var(--primary-white);
+  text-align: center;
+  margin-bottom: 25px;
 }
 
 /* Blog section */
@@ -535,7 +543,7 @@
   .magical-features__text {
     font-family: "sofia_prosemi_bold", sans-serif;
     padding: 13.5rem 0.8rem 0 0.8rem;
-    font-size: 2.2rem;
+    font-size: 2rem;
     margin: 0;
     transition: all 0.5s;
   }
