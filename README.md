@@ -49,7 +49,7 @@ Manejo de APIS en la sección "Descubriendo" de la web.
      
 [![web-4.png](https://i.postimg.cc/vHhYY7sB/web-4.png)](https://postimg.cc/xckDgzqD)
      
-[![web-5.png](https://i.postimg.cc/DZ1htL67/web-5.png)]https://postimg.cc/xckDgzqD)
+[![web-5.png](https://i.postimg.cc/DZ1htL67/web-5.png)](https://postimg.cc/LY4GPqGW)
        
 [![web-6.png](https://i.postimg.cc/qBnc5qdQ/web-6.png)](https://postimg.cc/SjSzXyRz)
       
