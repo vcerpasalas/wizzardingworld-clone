@@ -136,7 +136,7 @@ function guardar_localstorage() {
     },
   };
 }
-
+// Visto en Local Storage
 let nombre = "Harry Potter";
 
 localStorage.setItem("nombre", nombre);
