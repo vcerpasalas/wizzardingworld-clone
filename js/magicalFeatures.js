@@ -95,5 +95,3 @@ const loadedMagicalFeatures = async () => {
 };
 
 loadedMagicalFeatures();
-
-document.addEventListener("DOMContentLoaded", documentReady);

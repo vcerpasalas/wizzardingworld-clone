@@ -47,4 +47,3 @@ const loadedLastestNewsNews = async () => {
 
 loadedLastestNewsNews();
 
-document.addEventListener("DOMContentLoaded", documentReady);
