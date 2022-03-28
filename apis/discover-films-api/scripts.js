@@ -55,5 +55,3 @@ const callback = (entries) => {
 
 const observer = new IntersectionObserver(callback, options);
 cards.forEach((element) => observer.observe(element));
-
-document.addEventListener("DOMContentLoaded", documentReady);
