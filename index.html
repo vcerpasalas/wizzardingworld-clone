@@ -9,6 +9,7 @@
     <link rel="stylesheet" href="./css/hero-compilado.css" />
     <link rel="stylesheet" href="./css/hero2-compilado.css" />
     <link href="http://fonts.cdnfonts.com/css/harry-potter" rel="stylesheet" />
+    <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.12/dist/js/splide.min.js"></script>
     <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css" />
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.12/dist/css/splide.min.css" />
     <link
@@ -32,11 +33,15 @@
             <h2 class="hero__message-title">Wizzarding World</h2>
             <h2 class="hero__message-subtitle">Juega nuestro nuevo concurso: Edición Animales Fantásticos</h2>
             <p class="hero__message-paragraph">
-              ❤ Gana puntos para tu casa de Hogwartss. Averigua sobre la casa de los personajes del universo Harry
-              Potter y Aniamles Fantásticos. Encuentraa hechizos en nuestro generador de hechizos mágico ¡Buena suerte!
-              ❤
+              ❤ Haz el Quizz y gana puntos para tu casa. Averigua la casa de los personajes del universo Harry Potter y
+              Animales Fantásticos. Encuentra hechizos en nuestro generador de hechizos mágico ¡Buena suerte! ❤
             </p>
             <div class="hero__message-pages-container">
+              <div class="hero__message-button-container">
+                <a href="./quizzes/quizzes.html" class="hero__message-page-button hero__message-page-button--active"
+                  ><button class="hero__message-button-animate">Quizz</button></a
+                >
+              </div>
               <div class="hero__message-button-container">
                 <a
                   href="https://vcerpasalas.github.io/wizzardingworld-clone/apis/potter-characters-api/index.html"
@@ -252,6 +257,8 @@
         </div>
       </section>
 
+      <!-- Section Separator -->
+
       <div class="sections-separator">
         <hr class="sections-separator__line" />
         <a href="%" class="sections-separator__text">VIEW ALL NEWS</a>
@@ -452,7 +459,6 @@
     </footer>
 
     <script src="https://unpkg.com/@lottiefiles/lottie-player@0.4.0/dist/lottie-player.js"></script>
-    <script src="https://cdn.jsdelivr.net/npm/@splidejs/splide@3.6.12/dist/js/splide.min.js"></script>
     <script src="./js/header.js" type="module"></script>
     <script src="./js/lastestNews.js"></script>
     <script src="./js/magicalFeatures.js"></script>
