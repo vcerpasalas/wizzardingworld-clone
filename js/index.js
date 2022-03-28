@@ -142,4 +142,7 @@ let nombre = "Harry Potter";
 localStorage.setItem("nombre", nombre);
 localStorage.setItem("persona", JSON.stringify(persona));
 
+// Uso de Session Storage - Ejemplo
+// sessionStorage.setItem("Draco Malfoy", "Slytherin");
+
 document.addEventListener("DOMContentLoaded", documentReady);
