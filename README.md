@@ -14,7 +14,7 @@ Al seguir navegando en la landing page, tendrás la posibilidad de escuchar la m
 
 ## Introducción
 
-El presente proyecto contiene los archivos .hmtl .css, .js y json, que fueron escritos mediante el editor Visual Studio Code. Por otra parte, contiene imágenes y audio (mp3). Por otra parte, el repositorio contiene archivos escritos en SASS y Bootstrap.
+El repositorio contiene los archivos .hmtl .css, .js y json, que fueron escritos mediante el editor Visual Studio Code. Por otra parte, contiene imágenes y audio (mp3). Por otra parte, los archivos también tienen código SASS y Bootstrap.
 Te invitamos a que lo puedas descargar en tu máquina local, testear y revisar. Puedes guiarte de estas notas para revisar la página.
 
 ## Edición, creación y manejo de archivos json
