@@ -1172,7 +1172,7 @@
     "actor": "Chris Rankin",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://i.postimg.cc/gJry4rBG/P5-Percy-Weasley.webps"
+    "image": "https://i.postimg.cc/gJry4rBG/P5-Percy-Weasley.webp"
   },
   {
     "name": "Fred Weasley",
@@ -1322,7 +1322,7 @@
     "actor": "Simon Fisher-Becker",
     "alternate_actors": [],
     "alive": false,
-    "image": "https://static.wikia.nocookie.net/harrypotter/images/e/ea/Fat_Friar_Profile.png/revision/latest?cb=20160409230657"
+    "image": "https://i.postimg.cc/8CGNh6cr/Fat-Friar-Profile.webp"
   },
   {
     "name": "Hannah Abbott",
@@ -1347,7 +1347,7 @@
     "actor": "Charlotte Skeoch",
     "alternate_actors": ["Louisa Warren"],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/esharrypotter/images/c/c4/Hannah_Abbott_1994.jpg/revision/latest/top-crop/width/360/height/450?cb=20120221192858"
+    "image": "https://i.postimg.cc/Y9m5Z2vw/hannah.webp"
   },
   {
     "name": "Rolf Scamander",
@@ -1372,7 +1372,7 @@
     "actor": "",
     "alternate_actors": [""],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/hpfanon/images/4/49/Rolf_Scamander.JPG/revision/latest/scale-to-width-down/300?cb=20191107184554&path-prefix=es"
+    "image": "https://i.postimg.cc/BnYRvPD0/Rolf-Scamander-JPG.webp"
   },
   {
     "name": "Lorcan Scamander",
@@ -1397,7 +1397,7 @@
     "actor": "",
     "alternate_actors": [""],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/universo-fanon-harry-potter/images/b/b7/Lorcan.jpg/revision/latest?cb=20181221013934&path-prefix=es"
+    "image": "https://i.postimg.cc/tThrFs17/lorcan-scamander.webp"
   },
   {
     "name": "Lizander Scamander",
@@ -1422,7 +1422,7 @@
     "actor": "",
     "alternate_actors": [""],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/universo-fanon-harry-potter/images/4/44/Lysander.jpg/revision/latest/top-crop/width/360/height/450?cb=20181221191621&path-prefix=es"
+    "image": "https://i.postimg.cc/xdmgSX3g/lysander.webp"
   },
   {
     "name": "Susan Bones",
@@ -1447,7 +1447,7 @@
     "actor": "Eleanor Columbus",
     "alternate_actors": ["Emma Jayne-Corboz"],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/esharrypotter/images/7/7f/SusanBones.png/revision/latest/top-crop/width/360/height/450?cb=20150824184232"
+    "image": "https://i.postimg.cc/Hkq43p1M/Susan-Bones.webp"
   },
   {
     "name": "Terry Boot",
@@ -1522,7 +1522,7 @@
     "actor": "Kathleen Cauley",
     "alternate_actors": ["Jennifer Smith", "Jessie Cave"],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/esharrypotter/images/5/57/LavenderBrown.jpg/revision/latest?cb=20110910011655"
+    "image": "https://i.postimg.cc/GmX9hKqm/Lavender-Brown.webp"
   },
   {
     "name": "Millicent Bulstrode",
@@ -1547,14 +1547,14 @@
     "actor": "Helen Stuart",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/esharrypotter/images/b/bc/Millicent_in_class.jpg/revision/latest/top-crop/width/360/height/450?cb=20150707221716"
+    "image": "https://i.postimg.cc/9fT3NFRH/Millicent-Bulstrode-JPG.webp"
   },
   {
     "name": "Delphini",
     "alternate_names": [],
     "species": "human",
     "gender": "female",
-    "house": "Slytherin",
+    "house": "None",
     "dateOfBirth": "",
     "yearOfBirth": "",
     "wizard": true,
@@ -1572,7 +1572,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/esharrypotter/images/f/f1/Delphini_Diggory.jpg/revision/latest/top-crop/width/360/height/450?cb=20210824031831"
+    "image": "https://i.postimg.cc/kGgp9n44/Delphini-Diggory.webp"
   },
   {
     "name": "Justin Finch-Fletchley",
@@ -1597,7 +1597,7 @@
     "actor": "Edward Randell",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/esharrypotter/images/c/c4/Justin_Finch-Fletchley.jpg/revision/latest?cb=20111109191945"
+    "image": "https://i.postimg.cc/W3h5f5fF/Justin-Finch-Fletchley.webp"
   },
   {
     "name": "Seamus Finnegan",
@@ -1622,7 +1622,7 @@
     "actor": "Devon Murray",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/hpfanon/images/e/e1/Seamus_Finnigan.JPG/revision/latest?cb=20191121203622&path-prefix=es"
+    "image": "https://i.postimg.cc/pTwJcRF4/Seamus-Finnigan-JPG.webp"
   },
   {
     "name": "Morag MacDougal",
@@ -1647,7 +1647,7 @@
     "actor": "",
     "alternate_actors": [],
     "alive": true,
-    "image": "https://static.wikia.nocookie.net/harry-potter-the-new-era/images/e/ec/Morag_MacDougal.jpg/revision/latest?cb=20201130145018"
+    "image": "https://i.postimg.cc/YCDgytcR/Morag-Mac-Dougal.webp"
   },
   {
     "name": "Theodore Nott",
