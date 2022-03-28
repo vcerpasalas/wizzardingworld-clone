@@ -37,7 +37,7 @@ Finalmente se consumió la API alojada en el mismo proyecto, para la visualizaci
    
 Manejo de APIS en la sección "Descubriendo" de la web.
     
-[![esquema-apis.png](https://i.postimg.cc/tgJjq59d/esquema-apis.png)](https://postimg.cc/v4JjX5gD)
+[![diagram.png](https://i.postimg.cc/VsWGqM3X/diagram.png)](https://postimg.cc/V55W1SsN)
 
 ## Vistas del proyecto
 
