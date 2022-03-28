@@ -59,10 +59,10 @@ Manejo de APIS en la sección "Descubriendo" de la web.
          
 ### Vista responsive en mobile
         
-[![mobile-1.png](https://i.postimg.cc/SxYvTqDh/mobile-1.png)](https://postimg.cc/dhv63bbH)
-          
 [![mobile-2.png](https://i.postimg.cc/SRtgdt9R/mobile-2.png)](https://postimg.cc/BPH5QpMf)
-    
+     
+[![mobile-1.png](https://i.postimg.cc/SxYvTqDh/mobile-1.png)](https://postimg.cc/dhv63bbH)
+            
 [![mobile-3.png](https://i.postimg.cc/VNB4pNt3/mobile-3.png)](https://postimg.cc/GBtksdqQ)
         
 [![mobile-4.png](https://i.postimg.cc/Dz8pJh4D/mobile-4.png)](https://postimg.cc/DW3PHtgd)
