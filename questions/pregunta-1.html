@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Play - Quizzes</title>
+    <link rel="stylesheet" href="./css/pregunta.css" />
+    <link rel="stylesheet" href="https://necolas.github.io/normalize.css/8.0.1/normalize.css" />
+    <script src="//cdn.jsdelivr.net/npm/sweetalert2@11"></script>
+</head>
+<body class="body">
+    <main class="main">
+        <div class="line-container">
+            1/5
+            <hr class="line__hr" />
+        </div>
+
+        <h1 class="question">Which Hogwarts house has the mascot of a lion?</h1>
+
+        <figure class="image__container">
+            <img src="https://movement-prod.imgix.net/uploads/4a/715859b4a5470686b43b83486510c8/upload.jpg?auto=compress,format&blur=500&bri=-35&fit=scale&h=324&mark64=aHR0cHM6Ly9tb3ZlbWVudC1wcm9kLmltZ2l4Lm5ldC91cGxvYWRzLzRhLzcxNTg1OWI0YTU0NzA2ODZiNDNiODM0ODY1MTBjOC91cGxvYWQuanBnP2F1dG89Y29tcHJlc3MsZm9ybWF0JmZpdD1maWxsJmg9MzI0JnJlY3Q9MTIzLDAsMjMwNywxMjk5Jnc9NTc2&markalign=middle,center&markpad=0&w=576" alt="imagen de la pregunta" class="image__img" />
+        </figure>
+
+        <div class="answers_container">
+            <div class="answers">
+                <div class="answer">
+                    <input type="radio" id="Slytherin" name="question__text" value="Slytherin" />
+                    <label for="Slytherin">Slytherin</label>
+                </div>
+
+                <div class="answer">
+                    <input type="radio" id="Ravenclaw" name="question__text" value="Ravenclaw" />
+                    <label for="Ravenclaw">Ravenclaw</label>
+                </div>
+
+                <div class="answer">
+                    <input type="radio" id="Gryffindor" name="question__text" value="Gryffindor"/>
+                    <label for="Gryffindor">Gryffindor</label>
+                </div>
+
+                <div class="answer">
+                    <input type="radio" id="Hufflepuff" name="question__text" value="Hufflepuff"/>
+                    <label for="Hufflepuff" >Hufflepuff</label>
+                </div>
+            </div>
+
+            <button class="boton" id="btn-siguiente">Next</button></a>
+        </div>
+
+    </main>
+
+    <script src="./js/pregunta-1.js"></script>
+</body>
+</html>
