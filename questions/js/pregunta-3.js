@@ -2,7 +2,7 @@ window.onload = function () {
   var puntajeActual = parseInt(localStorage.getItem("Puntaje"));
   const btnSiguiente = document.getElementById("btn-siguiente");
   var opcionEscogida = "";
-  var respuestaCorrecta = "Slytherin";
+  var respuestaCorrecta = "Ravenclaw";
   btnSiguiente.addEventListener("click", () => {
     opcionEscogida = document.querySelector('input[name="question__text"]:checked');
     if (!opcionEscogida) {
