@@ -1,6 +1,6 @@
 # Wizarding World Clone ⚡👓🏰🧙‍♂ - Reto 6 & 7
 
-El presente proyecto constó de clonar y proponer nuevos componentes a la web oficlal "Wizarding World" del universo de Harry Potter y Animales Fantásticos. Cabe resaltar que este proyecto es hecho por fans para fans. En nuestra propuesta, se añadieron nuevas funcionalidades que permitirán que tu experiencia en el mundo mágico sea memorable.
+El presente proyecto constó de clonar y proponer nuevos componentes para la web oficlal "Wizarding World" del universo de Harry Potter y Animales Fantásticos. Cabe resaltar que este proyecto es hecho por fans para fans. En nuestra propuesta, se añadieron nuevas funcionalidades que permitirán que tu experiencia en el mundo mágico sea memorable.
 
 Para comenzar, encontrarás un Header interactivo con diversas secciones, en las que puedes navegar y te direccionarán a nuevas páginas, como "News" & "Features". Podrás enterarte de las últimas novedades o leer artículos de interés allí. Así también, cuenta con una sección llamada "Discover" con cinco subcategorías, donde verás cards con información y fotografías sobre libros, películas, experiencias, entre otros datos de interés. 
 En la landing page, nuestra sección Hero propone una experiencia diferente por medio de 3 actividades a realizar, ingresa a la biblioteca de personajes donde podrás averiguar a que casa de Hogwarts perteneció cada personaje del universo HP y Animales Fantásitcos. Además, te presentamos un generador mágico de hechizos.
