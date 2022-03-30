@@ -34,6 +34,10 @@
   background-color: var(--main-background);
 }
 
+.news, .features {
+  background-color: white;
+}
+
 /* Botones Animados - Personajes y Hechizos - Hero */
 
 .hero__message-button-container {
@@ -150,6 +154,14 @@
   cursor: pointer;
   max-width: 100%;
 }
+
+a {
+  text-decoration: none;
+  color: inherit;
+}
+a:hover {
+  /* color: inherit; */
+} 
 
 /* Section Separator */
 
