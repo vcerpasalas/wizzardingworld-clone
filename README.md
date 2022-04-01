@@ -1,12 +1,12 @@
-# Wizzarding World Clone ⚡👓🏰🧙‍♂ - Reto 6 & 7
+# Wizarding World Clone ⚡👓🏰🧙‍♂ - Reto 6 & 7
 
-El presente proyecto constó de clonar la web oficlal "Wizzarding World" del universo de Harry Potter y Animales Fantásticos. Cabe resaltar que este proyecto de desarrollo web es hecho por fans para fans. En nuestra propuesta, se añadieron nuevas funcionalidades que permitirán que tu experiencia en el mundo mágico sea memorable.
+El presente proyecto constó de clonar y proponer nuevos componentes para la web oficlal "Wizarding World" del universo de Harry Potter y Animales Fantásticos. Cabe resaltar que este proyecto es hecho por fans para fans. En nuestra propuesta, se añadieron nuevas funcionalidades que permitirán que tu experiencia en el mundo mágico sea memorable.
 
-Para comenzar, encontrarás un Header interactivo con diversas secciones, en las que puedes navegar y te direccionarán a nuevas páginas, como "News" & "Features". Podrás enterarte de las últimas novedades o leer artículos de interés. Así también, se cuenta con una sección llamada "Discover" con subcategorías, donde verás cards con información y fotografías sobre libros, películas, experiencias, entre otros datos de interés. 
-Nuestra sección Hero propone una experiencia diferente, ingresa a la biblioteca de personajes donde podrás averiguar a que casa de Hogwarts perteneció cada personaje del universo HP y Animales Fantásitcos. Además, te presentamos un generador mágico de hechizos.
-No olvides realizar el test de casas de Hogwarts ¡Pon a prueba tu conocimiento!
+Para comenzar, encontrarás un Header interactivo con diversas secciones, en las que puedes navegar y te direccionarán a nuevas páginas, como "News" & "Features". Podrás enterarte de las últimas novedades o leer artículos de interés allí. Así también, cuenta con una sección llamada "Discover" con cinco subcategorías, donde verás cards con información y fotografías sobre libros, películas, experiencias, entre otros datos de interés. 
+En la landing page, nuestra sección Hero propone una experiencia diferente por medio de 3 actividades a realizar, ingresa a la biblioteca de personajes donde podrás averiguar a que casa de Hogwarts perteneció cada personaje del universo HP y Animales Fantásitcos. Además, te presentamos un generador mágico de hechizos.
+No olvides realizar el test de casas de Hogwarts ¡Pon a prueba tus conocimientos!
 
-Al seguir navegando en la landing page, tendrás la posibilidad de escuchar la melodía de Hogwarts al presionar un botón y a la vez, podrás enterarte de las últimas noticias a través de secciones que cuentan con cards y/o un splide con información.
+Al seguir navegando en la landing page, tendrás la posibilidad de escuchar la melodía de Hogwarts al presionar un botón en una de las cards de la sección "Blogs" y a la vez, podrás enterarte de las últimas noticias o datos mágicos a través de otras secciones que cuentan con cards y/o un splide con información.
 
 ¿Vas a perderte esta nueva experiencia mágica?
 
@@ -14,28 +14,30 @@ Al seguir navegando en la landing page, tendrás la posibilidad de escuchar la m
 
 ## Introducción
 
-El presente proyecto contiene los archivos .hmtl .css, .js y json, que fueron escritos mediante el editor Visual Studio Code. Por otra parte, contiene imágenes y audio (mp3). Por otra parte, el repositorio contiene archivos escritos en SASS y Bootstrap.
+El repositorio contiene los archivos .hmtl .css, .js y json, que fueron escritos mediante el editor Visual Studio Code. Por otra parte, contiene imágenes y archivos de audio (mp3). Por otra parte, los archivos también tienen código SASS y Bootstrap.
 Te invitamos a que lo puedas descargar en tu máquina local, testear y revisar. Puedes guiarte de estas notas para revisar la página.
 
 ## Edición, creación y manejo de archivos json
 
-Las APIS trabajadas en el presente proyecto fueron consideradas tomando como base la información presentada en la web Wizzarding World.
+Las APIS trabajadas en el presente proyecto fueron consideradas tomando como base la información presentada en la web Wizarding World, así como información añadida.
 
-1) La web consume una API de personajes del universo de Harry Potter y Animales Fantásticos. Para fines exclusivos del proyecto, se trabajó a partir de la API de Personajes, obtenida de: https://hp-api.herokuapp.com/.
-En la cual, se editó manualmente la información de cerca el 80% de personajes, añadiendo información respecto a la casa de Hogwarts a la que pertenece cada personaje y su fotografía. Adicionalmente se añadieron ciertos personajes del universo de Animales Fantásticos.
+1) La web consume una API de personajes del universo Harry Potter y Animales Fantásticos. Para fines exclusivos del proyecto, se trabajó a partir de la API de Personajes, obtenida de: https://hp-api.herokuapp.com/.
+En la cual, se editó manualmente la información de cerca el 80% de personajes, añadiendo nueva información respecto a la casa de Hogwarts a la que pertenece cada personaje y su fotografía. Adicionalmente se añadieron ciertos personajes del universo Animales Fantásticos.
 Finalmente se consumió la API alojada en el mismo proyecto, para la visualización de cada personaje en el buscador interactivo. Este código se encuentra en lenguaje JavaScript.
 
-2) Se trabajó a partir de la siguiente API de libros https://fedeperin-harry-potter-api.herokuapp.com/libros, se editó la información añadiendo fotografías para cada libro. Así como todos los datos respecto a los libros del universo de Animales Fantásticos, entre otros.
+2) Se trabajó a partir de la siguiente API de libros https://fedeperin-harry-potter-api.herokuapp.com/libros, se editó la información añadiendo fotografías de cada libro. Así como todos otros datos respecto a los libros del universo de Animales Fantásticos.
 
-3) Se trabajó a partir de la API de hechizos https://fedeperin-harry-potter-api.herokuapp.com/hechizos. Se añadieron 43 hechizos nuevos y se amplió la información de los hechizos exitentes.
+3) Se trabajó a partir de la API de hechizos https://fedeperin-harry-potter-api.herokuapp.com/hechizos. Se añadieron 43 hechizos nuevos, ampliando la información almacenada.
    
-5) Se crearon APIS desde cero, sobre juegos, obras de teatro y experiencias en relación al universo HP.
+5) Se crearon nuevas APIS desde cero, sobre juegos, obras de teatro y experiencias en relación al universo HP.
+
+6) A partir de la información vista en wizardingworld.com, se crearon archivos .json para imprimir las secciones de "News", "Features", "Magical Features" y "Lastests news". 
     
 ## Esquemas explicativos 
    
 Manejo de APIS en la sección "Descubriendo" de la web.
     
-[![esquema-apis.png](https://i.postimg.cc/tgJjq59d/esquema-apis.png)](https://postimg.cc/v4JjX5gD)
+[![diagram.png](https://i.postimg.cc/VsWGqM3X/diagram.png)](https://postimg.cc/V55W1SsN)
 
 ## Vistas del proyecto
 
@@ -52,19 +54,23 @@ Manejo de APIS en la sección "Descubriendo" de la web.
 [![web-5.png](https://i.postimg.cc/DZ1htL67/web-5.png)](https://postimg.cc/LY4GPqGW)
        
 [![web-6.png](https://i.postimg.cc/qBnc5qdQ/web-6.png)](https://postimg.cc/SjSzXyRz)
-      
+       
 [![web-7.png](https://i.postimg.cc/rsyHQrYn/web-7.png)](https://postimg.cc/S25VKJ4C)
+             
+[![web-8.png](https://i.postimg.cc/kgqRCP2r/web-8.png)](https://postimg.cc/D8pwQDQ5)
          
 ### Vista responsive en mobile
         
-[![mobile-1.png](https://i.postimg.cc/SxYvTqDh/mobile-1.png)](https://postimg.cc/dhv63bbH)
-          
 [![mobile-2.png](https://i.postimg.cc/SRtgdt9R/mobile-2.png)](https://postimg.cc/BPH5QpMf)
-    
+     
+[![mobile-1.png](https://i.postimg.cc/SxYvTqDh/mobile-1.png)](https://postimg.cc/dhv63bbH)
+            
 [![mobile-3.png](https://i.postimg.cc/VNB4pNt3/mobile-3.png)](https://postimg.cc/GBtksdqQ)
         
 [![mobile-4.png](https://i.postimg.cc/Dz8pJh4D/mobile-4.png)](https://postimg.cc/DW3PHtgd)
-    
+        
+[![mobile-5.png](https://i.postimg.cc/Qt9HmXy7/mobile-5.png)](https://postimg.cc/gXpzkPdc)
+     
 ### Módulo
 
 Este proyecto corresponde a la sexta y séptima semana del módulo de Frontend.
